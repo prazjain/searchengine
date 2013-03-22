@@ -1,0 +1,1486 @@
+0 DEBUG  [main]  Spider  - Start :html
+15 DEBUG  [main]  Spider  - Start :head
+15 DEBUG  [main]  Spider  - Start :script
+15 DEBUG  [main]  Spider  - End :script
+15 DEBUG  [main]  Spider  - Start :title
+15 DEBUG  [main]  Spider  - End :title
+15 DEBUG  [main]  Spider  - meta -- http-equiv=Content-Type content=text/html; charset=UTF-8 
+31 DEBUG  [main]  Spider  - meta -- http-equiv=PICS-Label content=(PICS-1.1 "http://www.icra.org/ratingsv02.html" l r (cz 1 lz 1 nz 1 oz 1 vz 1) gen true for "http://www.yahoo.com" r (cz 1 lz 1 nz 1 oz 1 vz 1) "http://www.rsac.org/ratingsv01.html" l r (n 0 s 0 v 0 l 0) gen true for "http://www.yahoo.com" r (n 0 s 0 v 0 l 0)) 
+31 INFO  [main]  Spider  - base http://www.yahoo.com/_ylh=X3oDMTEwZGh2NmNjBF9TAzI3MTYxNDkEdGVzdAMwBHRtcGwDaW5kZXgtdGJs/
+31 DEBUG  [main]  Spider  - Start :script
+31 DEBUG  [main]  Spider  - End :script
+31 DEBUG  [main]  Spider  - Start :script
+62 DEBUG  [main]  Spider  - End :script
+62 DEBUG  [main]  Spider  - Start :style
+62 DEBUG  [main]  Spider  - End :style
+62 DEBUG  [main]  Spider  - Start :script
+62 DEBUG  [main]  Spider  - Start :nobr
+62 DEBUG  [main]  Spider  - End :nobr
+62 DEBUG  [main]  Spider  - End :script
+62 DEBUG  [main]  Spider  - Start :script
+78 DEBUG  [main]  Spider  - End :script
+78 DEBUG  [main]  Spider  - End :head
+78 DEBUG  [main]  Spider  - Start :body
+78 DEBUG  [main]  Spider  - Start :center
+78 DEBUG  [main]  Spider  - Start :font
+78 DEBUG  [main]  Spider  - End :font
+78 DEBUG  [main]  Spider  - Start :table
+78 DEBUG  [main]  Spider  - Start :tr
+78 DEBUG  [main]  Spider  - Start :td
+78 DEBUG  [main]  Spider  - End :td
+78 DEBUG  [main]  Spider  - Start :td
+78 INFO  [main]  Spider  - a r/25
+78 DEBUG  [main]  Spider  - Simple Tag :img
+78 DEBUG  [main]  Spider  - Simple Tag :br
+78 DEBUG  [main]  Spider  - Start :nobr
+78 DEBUG  [main]  Spider  - Start :font
+78 DEBUG  [main]  Spider  - End :font
+78 DEBUG  [main]  Spider  - End :nobr
+78 DEBUG  [main]  Spider  - End :a
+78 DEBUG  [main]  Spider  - End :td
+78 DEBUG  [main]  Spider  - Start :td
+78 INFO  [main]  Spider  - a r/3m
+78 DEBUG  [main]  Spider  - Simple Tag :img
+78 DEBUG  [main]  Spider  - Simple Tag :br
+78 DEBUG  [main]  Spider  - Start :nobr
+78 DEBUG  [main]  Spider  - Start :font
+78 DEBUG  [main]  Spider  - End :font
+78 DEBUG  [main]  Spider  - End :nobr
+78 DEBUG  [main]  Spider  - End :a
+78 DEBUG  [main]  Spider  - End :td
+78 DEBUG  [main]  Spider  - Start :td
+78 INFO  [main]  Spider  - a r/29
+78 DEBUG  [main]  Spider  - Simple Tag :img
+78 DEBUG  [main]  Spider  - Simple Tag :br
+78 DEBUG  [main]  Spider  - Start :nobr
+78 DEBUG  [main]  Spider  - Start :font
+78 DEBUG  [main]  Spider  - End :font
+78 DEBUG  [main]  Spider  - End :nobr
+78 DEBUG  [main]  Spider  - End :a
+78 DEBUG  [main]  Spider  - End :td
+78 DEBUG  [main]  Spider  - Start :td
+94 DEBUG  [main]  Spider  - Simple Tag :img
+94 DEBUG  [main]  Spider  - Start :script
+94 DEBUG  [main]  Spider  - End :script
+94 DEBUG  [main]  Spider  - Simple Tag :noscript
+94 DEBUG  [main]  Spider  - Simple Tag :img
+94 DEBUG  [main]  Spider  - Simple Tag :noscript
+94 DEBUG  [main]  Spider  - End :td
+94 DEBUG  [main]  Spider  - Start :td
+94 INFO  [main]  Spider  - a r/m1
+94 DEBUG  [main]  Spider  - Simple Tag :img
+94 DEBUG  [main]  Spider  - Simple Tag :br
+94 DEBUG  [main]  Spider  - Start :nobr
+94 DEBUG  [main]  Spider  - Start :font
+94 DEBUG  [main]  Spider  - End :font
+94 DEBUG  [main]  Spider  - End :nobr
+94 DEBUG  [main]  Spider  - End :a
+94 DEBUG  [main]  Spider  - End :td
+94 DEBUG  [main]  Spider  - Start :td
+94 INFO  [main]  Spider  - a r/i1
+94 DEBUG  [main]  Spider  - Simple Tag :img
+94 DEBUG  [main]  Spider  - Simple Tag :br
+94 DEBUG  [main]  Spider  - Start :nobr
+94 DEBUG  [main]  Spider  - Start :font
+94 DEBUG  [main]  Spider  - End :font
+94 DEBUG  [main]  Spider  - End :nobr
+94 DEBUG  [main]  Spider  - End :a
+94 DEBUG  [main]  Spider  - End :td
+94 DEBUG  [main]  Spider  - Start :td
+94 INFO  [main]  Spider  - a r/p1
+94 DEBUG  [main]  Spider  - Simple Tag :img
+94 DEBUG  [main]  Spider  - Simple Tag :br
+94 DEBUG  [main]  Spider  - Start :nobr
+109 DEBUG  [main]  Spider  - Start :font
+109 DEBUG  [main]  Spider  - End :font
+109 DEBUG  [main]  Spider  - End :nobr
+109 DEBUG  [main]  Spider  - End :a
+109 DEBUG  [main]  Spider  - End :td
+109 DEBUG  [main]  Spider  - Start :td
+109 DEBUG  [main]  Spider  - End :td
+109 DEBUG  [main]  Spider  - End :tr
+109 DEBUG  [main]  Spider  - End :table
+109 DEBUG  [main]  Spider  - Simple Tag :br
+109 DEBUG  [main]  Spider  - Start :table
+109 DEBUG  [main]  Spider  - Start :tr
+109 DEBUG  [main]  Spider  - Start :td
+109 DEBUG  [main]  Spider  - Start :table
+109 DEBUG  [main]  Spider  - Start :tr
+109 DEBUG  [main]  Spider  - Start :td
+109 DEBUG  [main]  Spider  - Start :form
+109 DEBUG  [main]  Spider  - Start :table
+109 DEBUG  [main]  Spider  - Start :tr
+109 DEBUG  [main]  Spider  - Start :td
+109 DEBUG  [main]  Spider  - Start :font
+109 DEBUG  [main]  Spider  - Start :b
+109 DEBUG  [main]  Spider  - End :b
+109 DEBUG  [main]  Spider  - End :font
+109 DEBUG  [main]  Spider  - End :td
+109 DEBUG  [main]  Spider  - Start :td
+109 DEBUG  [main]  Spider  - Start :font
+109 DEBUG  [main]  Spider  - Simple Tag :input
+109 DEBUG  [main]  Spider  - Start :select
+109 DEBUG  [main]  Spider  - Start :option
+109 DEBUG  [main]  Spider  - End :option
+109 DEBUG  [main]  Spider  - Start :option
+109 DEBUG  [main]  Spider  - End :option
+109 DEBUG  [main]  Spider  - Start :option
+109 DEBUG  [main]  Spider  - End :option
+109 DEBUG  [main]  Spider  - Start :option
+125 DEBUG  [main]  Spider  - End :option
+125 DEBUG  [main]  Spider  - Start :option
+125 DEBUG  [main]  Spider  - End :option
+125 DEBUG  [main]  Spider  - Start :option
+125 DEBUG  [main]  Spider  - End :option
+125 DEBUG  [main]  Spider  - Start :option
+125 DEBUG  [main]  Spider  - End :option
+125 DEBUG  [main]  Spider  - End :select
+125 DEBUG  [main]  Spider  - Start :b
+125 DEBUG  [main]  Spider  - Simple Tag :input
+125 DEBUG  [main]  Spider  - End :b
+125 DEBUG  [main]  Spider  - End :font
+125 DEBUG  [main]  Spider  - End :td
+125 DEBUG  [main]  Spider  - Start :td
+125 DEBUG  [main]  Spider  - Start :font
+125 INFO  [main]  Spider  - a r/so
+125 DEBUG  [main]  Spider  - End :a
+125 DEBUG  [main]  Spider  - Simple Tag :br
+125 INFO  [main]  Spider  - a r/mk
+125 DEBUG  [main]  Spider  - Simple Tag :img
+125 DEBUG  [main]  Spider  - End :a
+125 DEBUG  [main]  Spider  - End :font
+125 DEBUG  [main]  Spider  - End :td
+125 DEBUG  [main]  Spider  - End :tr
+125 DEBUG  [main]  Spider  - End :table
+125 DEBUG  [main]  Spider  - End :form
+125 DEBUG  [main]  Spider  - Simple Tag :span
+125 DEBUG  [main]  Spider  - Simple Tag :span
+125 DEBUG  [main]  Spider  - End :td
+125 DEBUG  [main]  Spider  - End :tr
+125 DEBUG  [main]  Spider  - End :table
+125 DEBUG  [main]  Spider  - End :td
+125 DEBUG  [main]  Spider  - End :tr
+125 DEBUG  [main]  Spider  - End :table
+125 DEBUG  [main]  Spider  - Start :script
+125 DEBUG  [main]  Spider  - End :script
+125 DEBUG  [main]  Spider  - Start :table
+125 DEBUG  [main]  Spider  - Start :tr
+125 DEBUG  [main]  Spider  - Start :td
+219 DEBUG  [main]  Spider  - Simple Tag :spacer
+219 DEBUG  [main]  Spider  - End :td
+219 DEBUG  [main]  Spider  - End :tr
+219 DEBUG  [main]  Spider  - End :table
+219 DEBUG  [main]  Spider  - Start :table
+219 DEBUG  [main]  Spider  - Start :tr
+219 DEBUG  [main]  Spider  - Start :td
+219 DEBUG  [main]  Spider  - Start :font
+219 DEBUG  [main]  Spider  - End :font
+219 DEBUG  [main]  Spider  - Start :table
+219 DEBUG  [main]  Spider  - Start :tr
+219 DEBUG  [main]  Spider  - Start :td
+219 DEBUG  [main]  Spider  - Start :font
+219 INFO  [main]  Spider  - a s/230961
+219 DEBUG  [main]  Spider  - Start :b
+219 DEBUG  [main]  Spider  - End :b
+219 DEBUG  [main]  Spider  - End :a
+219 INFO  [main]  Spider  - a s/246721
+219 DEBUG  [main]  Spider  - End :a
+219 DEBUG  [main]  Spider  - End :font
+219 DEBUG  [main]  Spider  - End :td
+219 DEBUG  [main]  Spider  - Start :td
+219 DEBUG  [main]  Spider  - End :td
+219 DEBUG  [main]  Spider  - End :tr
+219 DEBUG  [main]  Spider  - End :table
+219 DEBUG  [main]  Spider  - End :td
+219 DEBUG  [main]  Spider  - End :tr
+219 DEBUG  [main]  Spider  - End :table
+219 DEBUG  [main]  Spider  - Start :table
+219 DEBUG  [main]  Spider  - Start :tr
+219 DEBUG  [main]  Spider  - Start :td
+219 DEBUG  [main]  Spider  - Simple Tag :spacer
+219 DEBUG  [main]  Spider  - End :td
+219 DEBUG  [main]  Spider  - End :tr
+219 DEBUG  [main]  Spider  - End :table
+219 DEBUG  [main]  Spider  - Start :script
+219 DEBUG  [main]  Spider  - End :script
+219 DEBUG  [main]  Spider  - Start :script
+219 DEBUG  [main]  Spider  - End :script
+219 DEBUG  [main]  Spider  - Start :script
+219 DEBUG  [main]  Spider  - End :script
+219 DEBUG  [main]  Spider  - Simple Tag :noscript
+437 DEBUG  [main]  Spider  - Simple Tag :img
+437 DEBUG  [main]  Spider  - Simple Tag :noscript
+437 DEBUG  [main]  Spider  - Start :script
+609 DEBUG  [main]  Spider  - End :script
+609 DEBUG  [main]  Spider  - Start :table
+609 DEBUG  [main]  Spider  - Start :tr
+609 DEBUG  [main]  Spider  - Start :td
+609 DEBUG  [main]  Spider  - Start :table
+609 DEBUG  [main]  Spider  - Start :tr
+609 DEBUG  [main]  Spider  - Start :td
+609 DEBUG  [main]  Spider  - Start :font
+609 DEBUG  [main]  Spider  - Simple Tag :img
+609 DEBUG  [main]  Spider  - End :font
+609 DEBUG  [main]  Spider  - End :td
+609 DEBUG  [main]  Spider  - Start :td
+609 DEBUG  [main]  Spider  - Start :table
+609 DEBUG  [main]  Spider  - Start :tr
+609 DEBUG  [main]  Spider  - Start :td
+609 DEBUG  [main]  Spider  - Simple Tag :spacer
+609 DEBUG  [main]  Spider  - End :td
+609 DEBUG  [main]  Spider  - End :tr
+609 DEBUG  [main]  Spider  - End :table
+609 DEBUG  [main]  Spider  - End :td
+609 DEBUG  [main]  Spider  - End :tr
+609 DEBUG  [main]  Spider  - Start :tr
+609 DEBUG  [main]  Spider  - Start :td
+609 DEBUG  [main]  Spider  - Start :table
+609 DEBUG  [main]  Spider  - Start :tr
+609 DEBUG  [main]  Spider  - Start :td
+609 DEBUG  [main]  Spider  - Simple Tag :spacer
+609 DEBUG  [main]  Spider  - End :td
+609 DEBUG  [main]  Spider  - End :tr
+609 DEBUG  [main]  Spider  - End :table
+609 DEBUG  [main]  Spider  - End :td
+609 DEBUG  [main]  Spider  - Start :td
+609 DEBUG  [main]  Spider  - Simple Tag :spacer
+609 DEBUG  [main]  Spider  - End :td
+609 DEBUG  [main]  Spider  - End :tr
+609 DEBUG  [main]  Spider  - Start :tr
+609 DEBUG  [main]  Spider  - Start :td
+609 DEBUG  [main]  Spider  - Start :table
+609 DEBUG  [main]  Spider  - Start :tr
+609 DEBUG  [main]  Spider  - Start :td
+625 DEBUG  [main]  Spider  - Start :font
+625 INFO  [main]  Spider  - a r/l6
+625 DEBUG  [main]  Spider  - Start :b
+625 DEBUG  [main]  Spider  - End :b
+625 DEBUG  [main]  Spider  - End :a
+625 DEBUG  [main]  Spider  - End :font
+625 DEBUG  [main]  Spider  - End :td
+625 DEBUG  [main]  Spider  - Start :td
+625 DEBUG  [main]  Spider  - Start :font
+625 INFO  [main]  Spider  - a r/m7
+625 DEBUG  [main]  Spider  - Start :b
+625 DEBUG  [main]  Spider  - End :b
+625 DEBUG  [main]  Spider  - End :a
+625 DEBUG  [main]  Spider  - End :font
+625 DEBUG  [main]  Spider  - Start :font
+625 DEBUG  [main]  Spider  - End :font
+625 DEBUG  [main]  Spider  - End :td
+625 DEBUG  [main]  Spider  - End :tr
+625 DEBUG  [main]  Spider  - End :table
+625 DEBUG  [main]  Spider  - End :td
+625 DEBUG  [main]  Spider  - End :tr
+625 DEBUG  [main]  Spider  - End :table
+765 DEBUG  [main]  Spider  - Start :table
+765 DEBUG  [main]  Spider  - Start :tr
+765 DEBUG  [main]  Spider  - Start :td
+765 DEBUG  [main]  Spider  - Start :table
+765 DEBUG  [main]  Spider  - Start :tr
+765 DEBUG  [main]  Spider  - Start :td
+765 DEBUG  [main]  Spider  - Start :table
+765 DEBUG  [main]  Spider  - Start :tr
+765 DEBUG  [main]  Spider  - Start :td
+765 DEBUG  [main]  Spider  - Start :font
+765 INFO  [main]  Spider  - a r/cr
+781 DEBUG  [main]  Spider  - End :a
+781 DEBUG  [main]  Spider  - Simple Tag :br
+781 INFO  [main]  Spider  - a r/yc
+781 DEBUG  [main]  Spider  - End :a
+781 DEBUG  [main]  Spider  - Simple Tag :br
+781 INFO  [main]  Spider  - a r/sq
+781 DEBUG  [main]  Spider  - End :a
+781 DEBUG  [main]  Spider  - Simple Tag :br
+781 INFO  [main]  Spider  - a r/pl
+781 DEBUG  [main]  Spider  - End :a
+781 DEBUG  [main]  Spider  - Simple Tag :br
+781 INFO  [main]  Spider  - a r/g3
+781 DEBUG  [main]  Spider  - End :a
+781 DEBUG  [main]  Spider  - Simple Tag :br
+797 INFO  [main]  Spider  - a r/gp
+797 DEBUG  [main]  Spider  - End :a
+797 DEBUG  [main]  Spider  - Simple Tag :br
+797 INFO  [main]  Spider  - a r/wm
+797 DEBUG  [main]  Spider  - End :a
+797 DEBUG  [main]  Spider  - End :font
+797 DEBUG  [main]  Spider  - End :td
+797 DEBUG  [main]  Spider  - Start :td
+797 DEBUG  [main]  Spider  - Start :font
+797 INFO  [main]  Spider  - a r/h1
+797 DEBUG  [main]  Spider  - End :a
+797 DEBUG  [main]  Spider  - Simple Tag :br
+797 INFO  [main]  Spider  - a r/jb
+797 DEBUG  [main]  Spider  - Simple Tag :img
+797 DEBUG  [main]  Spider  - End :a
+797 DEBUG  [main]  Spider  - Simple Tag :br
+797 INFO  [main]  Spider  - a r/yg
+797 DEBUG  [main]  Spider  - End :a
+797 DEBUG  [main]  Spider  - Simple Tag :br
+797 INFO  [main]  Spider  - a r/m2
+797 DEBUG  [main]  Spider  - End :a
+797 DEBUG  [main]  Spider  - Simple Tag :br
+797 INFO  [main]  Spider  - a r/mp
+797 DEBUG  [main]  Spider  - End :a
+797 DEBUG  [main]  Spider  - Simple Tag :br
+797 INFO  [main]  Spider  - a r/p2
+797 DEBUG  [main]  Spider  - End :a
+797 DEBUG  [main]  Spider  - Simple Tag :br
+797 INFO  [main]  Spider  - a r/oa
+797 DEBUG  [main]  Spider  - End :a
+797 DEBUG  [main]  Spider  - End :font
+797 DEBUG  [main]  Spider  - End :td
+797 DEBUG  [main]  Spider  - Start :td
+797 DEBUG  [main]  Spider  - Start :font
+797 INFO  [main]  Spider  - a r/mf
+797 DEBUG  [main]  Spider  - End :a
+797 DEBUG  [main]  Spider  - Simple Tag :br
+797 INFO  [main]  Spider  - a r/uf
+797 DEBUG  [main]  Spider  - End :a
+797 DEBUG  [main]  Spider  - Simple Tag :br
+797 INFO  [main]  Spider  - a r/i2
+797 DEBUG  [main]  Spider  - End :a
+797 DEBUG  [main]  Spider  - Simple Tag :br
+797 INFO  [main]  Spider  - a r/dn
+797 DEBUG  [main]  Spider  - End :a
+797 DEBUG  [main]  Spider  - Simple Tag :br
+797 INFO  [main]  Spider  - a r/ps
+797 DEBUG  [main]  Spider  - End :a
+797 DEBUG  [main]  Spider  - Simple Tag :br
+797 INFO  [main]  Spider  - a r/pr
+797 DEBUG  [main]  Spider  - End :a
+797 DEBUG  [main]  Spider  - Simple Tag :br
+797 INFO  [main]  Spider  - a r/fo
+797 DEBUG  [main]  Spider  - End :a
+797 DEBUG  [main]  Spider  - End :font
+797 DEBUG  [main]  Spider  - End :td
+797 DEBUG  [main]  Spider  - Start :td
+797 DEBUG  [main]  Spider  - Start :font
+797 INFO  [main]  Spider  - a r/r1
+797 DEBUG  [main]  Spider  - End :a
+797 DEBUG  [main]  Spider  - Simple Tag :br
+797 INFO  [main]  Spider  - a r/sh
+797 DEBUG  [main]  Spider  - End :a
+797 DEBUG  [main]  Spider  - Simple Tag :br
+797 INFO  [main]  Spider  - a r/ys
+797 DEBUG  [main]  Spider  - End :a
+812 DEBUG  [main]  Spider  - Simple Tag :br
+812 INFO  [main]  Spider  - a r/ta
+812 DEBUG  [main]  Spider  - End :a
+812 DEBUG  [main]  Spider  - Simple Tag :br
+812 INFO  [main]  Spider  - a r/tg
+812 DEBUG  [main]  Spider  - End :a
+812 DEBUG  [main]  Spider  - Simple Tag :br
+812 INFO  [main]  Spider  - a r/yp
+812 DEBUG  [main]  Spider  - End :a
+812 DEBUG  [main]  Spider  - Simple Tag :br
+812 DEBUG  [main]  Spider  - End :font
+812 DEBUG  [main]  Spider  - Start :font
+812 DEBUG  [main]  Spider  - Start :b
+812 INFO  [main]  Spider  - a r/xy
+812 DEBUG  [main]  Spider  - End :a
+812 DEBUG  [main]  Spider  - End :b
+812 DEBUG  [main]  Spider  - End :font
+812 DEBUG  [main]  Spider  - End :td
+812 DEBUG  [main]  Spider  - End :tr
+812 DEBUG  [main]  Spider  - End :table
+812 DEBUG  [main]  Spider  - End :td
+812 DEBUG  [main]  Spider  - End :tr
+812 DEBUG  [main]  Spider  - End :table
+812 DEBUG  [main]  Spider  - End :td
+812 DEBUG  [main]  Spider  - End :tr
+812 DEBUG  [main]  Spider  - End :table
+812 DEBUG  [main]  Spider  - Start :table
+812 DEBUG  [main]  Spider  - Start :tr
+812 DEBUG  [main]  Spider  - Start :td
+828 DEBUG  [main]  Spider  - Simple Tag :spacer
+953 DEBUG  [main]  Spider  - End :td
+953 DEBUG  [main]  Spider  - End :tr
+969 DEBUG  [main]  Spider  - End :table
+969 DEBUG  [main]  Spider  - Start :script
+969 DEBUG  [main]  Spider  - Start :div
+969 DEBUG  [main]  Spider  - Start :table
+969 DEBUG  [main]  Spider  - Start :tr
+969 DEBUG  [main]  Spider  - Start :td
+969 INFO  [main]  Spider  - a '+jp(2,'wimg1',img1u)+'
+969 DEBUG  [main]  Spider  - Simple Tag :img
+969 DEBUG  [main]  Spider  - End :a
+969 DEBUG  [main]  Spider  - End :td
+969 DEBUG  [main]  Spider  - End :tr
+969 DEBUG  [main]  Spider  - End :table
+969 DEBUG  [main]  Spider  - End :div
+969 DEBUG  [main]  Spider  - Start :table
+969 DEBUG  [main]  Spider  - Start :tr
+969 DEBUG  [main]  Spider  - Start :td
+969 DEBUG  [main]  Spider  - Start :font
+969 DEBUG  [main]  Spider  - End :font
+969 DEBUG  [main]  Spider  - End :td
+969 DEBUG  [main]  Spider  - End :tr
+969 DEBUG  [main]  Spider  - End :table
+969 DEBUG  [main]  Spider  - End :script
+969 DEBUG  [main]  Spider  - Start :table
+969 DEBUG  [main]  Spider  - Start :tr
+969 DEBUG  [main]  Spider  - Start :td
+969 DEBUG  [main]  Spider  - Simple Tag :spacer
+969 DEBUG  [main]  Spider  - End :td
+969 DEBUG  [main]  Spider  - End :tr
+969 DEBUG  [main]  Spider  - End :table
+969 DEBUG  [main]  Spider  - Start :table
+969 DEBUG  [main]  Spider  - Start :tr
+969 DEBUG  [main]  Spider  - Start :td
+969 DEBUG  [main]  Spider  - Start :table
+969 DEBUG  [main]  Spider  - Start :tr
+969 DEBUG  [main]  Spider  - Start :td
+969 DEBUG  [main]  Spider  - Start :table
+969 DEBUG  [main]  Spider  - Start :tr
+969 DEBUG  [main]  Spider  - Start :td
+969 DEBUG  [main]  Spider  - Start :font
+969 DEBUG  [main]  Spider  - End :font
+969 DEBUG  [main]  Spider  - Start :b
+969 INFO  [main]  Spider  - a r/c9
+969 DEBUG  [main]  Spider  - Start :font
+969 DEBUG  [main]  Spider  - End :font
+969 DEBUG  [main]  Spider  - End :a
+969 DEBUG  [main]  Spider  - End :b
+969 DEBUG  [main]  Spider  - End :td
+969 DEBUG  [main]  Spider  - Start :td
+969 DEBUG  [main]  Spider  - Start :font
+969 DEBUG  [main]  Spider  - Start :b
+969 DEBUG  [main]  Spider  - End :b
+969 DEBUG  [main]  Spider  - End :font
+969 DEBUG  [main]  Spider  - Start :font
+969 DEBUG  [main]  Spider  - End :font
+969 DEBUG  [main]  Spider  - End :td
+969 DEBUG  [main]  Spider  - End :tr
+969 DEBUG  [main]  Spider  - End :table
+969 DEBUG  [main]  Spider  - Start :table
+969 DEBUG  [main]  Spider  - Start :tr
+969 DEBUG  [main]  Spider  - Start :td
+984 DEBUG  [main]  Spider  - Start :table
+984 DEBUG  [main]  Spider  - Start :tr
+984 DEBUG  [main]  Spider  - Start :td
+984 DEBUG  [main]  Spider  - Simple Tag :spacer
+984 DEBUG  [main]  Spider  - End :td
+984 DEBUG  [main]  Spider  - End :tr
+984 DEBUG  [main]  Spider  - End :table
+984 DEBUG  [main]  Spider  - Start :table
+984 DEBUG  [main]  Spider  - Start :tr
+984 DEBUG  [main]  Spider  - Start :td
+984 DEBUG  [main]  Spider  - End :td
+1203 DEBUG  [main]  Spider  - Start :td
+1203 DEBUG  [main]  Spider  - Start :font
+1203 INFO  [main]  Spider  - a r/h9
+1203 DEBUG  [main]  Spider  - End :a
+1203 DEBUG  [main]  Spider  - End :font
+1203 DEBUG  [main]  Spider  - End :td
+1203 DEBUG  [main]  Spider  - Start :td
+1203 DEBUG  [main]  Spider  - Start :font
+1203 INFO  [main]  Spider  - a r/e9
+1203 DEBUG  [main]  Spider  - End :a
+1203 DEBUG  [main]  Spider  - End :font
+1203 DEBUG  [main]  Spider  - End :td
+1203 DEBUG  [main]  Spider  - Start :td
+1203 DEBUG  [main]  Spider  - End :td
+1203 DEBUG  [main]  Spider  - End :tr
+1203 DEBUG  [main]  Spider  - Start :tr
+1203 DEBUG  [main]  Spider  - Start :td
+1203 DEBUG  [main]  Spider  - Start :font
+1203 INFO  [main]  Spider  - a r/d9
+1203 DEBUG  [main]  Spider  - End :a
+1203 DEBUG  [main]  Spider  - End :font
+1203 DEBUG  [main]  Spider  - End :td
+1203 DEBUG  [main]  Spider  - Start :td
+1203 DEBUG  [main]  Spider  - Start :font
+1203 INFO  [main]  Spider  - a r/oi
+1203 DEBUG  [main]  Spider  - End :a
+1203 DEBUG  [main]  Spider  - End :font
+1203 DEBUG  [main]  Spider  - End :td
+1203 DEBUG  [main]  Spider  - End :tr
+1203 DEBUG  [main]  Spider  - End :table
+1203 DEBUG  [main]  Spider  - Start :table
+1203 DEBUG  [main]  Spider  - Start :tr
+1203 DEBUG  [main]  Spider  - Start :td
+1203 DEBUG  [main]  Spider  - Simple Tag :spacer
+1203 DEBUG  [main]  Spider  - End :td
+1203 DEBUG  [main]  Spider  - End :tr
+1203 DEBUG  [main]  Spider  - End :table
+1203 DEBUG  [main]  Spider  - End :td
+1203 DEBUG  [main]  Spider  - End :tr
+1203 DEBUG  [main]  Spider  - End :table
+1203 DEBUG  [main]  Spider  - End :td
+1203 DEBUG  [main]  Spider  - End :tr
+1203 DEBUG  [main]  Spider  - End :table
+1203 DEBUG  [main]  Spider  - End :td
+1219 DEBUG  [main]  Spider  - Start :td
+1219 DEBUG  [main]  Spider  - Simple Tag :spacer
+1219 DEBUG  [main]  Spider  - End :td
+1219 DEBUG  [main]  Spider  - Start :td
+1219 DEBUG  [main]  Spider  - Start :table
+1219 DEBUG  [main]  Spider  - Start :tr
+1219 DEBUG  [main]  Spider  - Start :td
+1219 DEBUG  [main]  Spider  - Start :table
+1219 DEBUG  [main]  Spider  - Start :tr
+1219 DEBUG  [main]  Spider  - Start :td
+1219 DEBUG  [main]  Spider  - Start :font
+1219 DEBUG  [main]  Spider  - End :font
+1219 DEBUG  [main]  Spider  - Start :b
+1219 INFO  [main]  Spider  - a r/b9
+1219 DEBUG  [main]  Spider  - Start :font
+1219 DEBUG  [main]  Spider  - End :font
+1219 DEBUG  [main]  Spider  - End :a
+1219 DEBUG  [main]  Spider  - End :b
+1219 DEBUG  [main]  Spider  - End :td
+1219 DEBUG  [main]  Spider  - Start :td
+1219 DEBUG  [main]  Spider  - Start :font
+1219 DEBUG  [main]  Spider  - Start :b
+1219 DEBUG  [main]  Spider  - End :b
+1219 DEBUG  [main]  Spider  - End :font
+1219 DEBUG  [main]  Spider  - Start :font
+1219 DEBUG  [main]  Spider  - End :font
+1219 DEBUG  [main]  Spider  - End :td
+1219 DEBUG  [main]  Spider  - End :tr
+1219 DEBUG  [main]  Spider  - End :table
+1219 DEBUG  [main]  Spider  - Start :table
+1219 DEBUG  [main]  Spider  - Start :tr
+1219 DEBUG  [main]  Spider  - Start :td
+1219 DEBUG  [main]  Spider  - Start :table
+1219 DEBUG  [main]  Spider  - Start :tr
+1219 DEBUG  [main]  Spider  - Start :td
+1219 DEBUG  [main]  Spider  - Start :font
+1234 INFO  [main]  Spider  - a http://us.ard.yahoo.com/SIG=12jmot0k7/M=261366.4008387.5258380.3595621/D=yahoo_top/S=2716149:FPC1/_ylt=A0SOxU3EB9RCOecAxz_1cSkA/Y=YAHOO/EXP=1121199076/A=1798789/R=0/SIG=1124qkssh/*http://geocities.yahoo.com/home/
+1234 DEBUG  [main]  Spider  - End :a
+1234 DEBUG  [main]  Spider  - End :font
+1234 DEBUG  [main]  Spider  - End :td
+1234 DEBUG  [main]  Spider  - Start :td
+1234 DEBUG  [main]  Spider  - Start :font
+1234 INFO  [main]  Spider  - a r/do
+1234 DEBUG  [main]  Spider  - End :a
+1234 DEBUG  [main]  Spider  - Start :script
+1234 DEBUG  [main]  Spider  - End :script
+1234 DEBUG  [main]  Spider  - Simple Tag :noscript
+1234 DEBUG  [main]  Spider  - Simple Tag :img
+1234 DEBUG  [main]  Spider  - Simple Tag :noscript
+1234 DEBUG  [main]  Spider  - End :font
+1234 DEBUG  [main]  Spider  - End :td
+1234 DEBUG  [main]  Spider  - End :tr
+1234 DEBUG  [main]  Spider  - Start :tr
+1234 DEBUG  [main]  Spider  - Start :td
+1234 DEBUG  [main]  Spider  - Start :font
+1234 INFO  [main]  Spider  - a http://us.ard.yahoo.com/SIG=12j4kd0d9/M=351034.6608705.7568495.3595627/D=yahoo_top/S=2716149:FPC4/_ylt=A0SOxU3EB9RCOecAyD_1cSkA/Y=YAHOO/EXP=1121199076/A=2780539/R=0/SIG=13mgvrn8j/*http://football.fantasysports.yahoo.com?ovchn=YAH&ovcpn=Front+Page&ovcrn=FP+Premium+Services+Link&ovrfd=YAH&ovtac=AD
+1234 DEBUG  [main]  Spider  - End :a
+1234 DEBUG  [main]  Spider  - End :font
+1234 DEBUG  [main]  Spider  - End :td
+1234 DEBUG  [main]  Spider  - Start :td
+1234 DEBUG  [main]  Spider  - Start :font
+1234 INFO  [main]  Spider  - a r/em
+1234 DEBUG  [main]  Spider  - End :a
+1234 DEBUG  [main]  Spider  - End :font
+1234 DEBUG  [main]  Spider  - End :td
+1234 DEBUG  [main]  Spider  - End :tr
+1234 DEBUG  [main]  Spider  - End :table
+1234 DEBUG  [main]  Spider  - End :td
+1234 DEBUG  [main]  Spider  - End :tr
+1234 DEBUG  [main]  Spider  - End :table
+1234 DEBUG  [main]  Spider  - End :td
+1234 DEBUG  [main]  Spider  - End :tr
+1234 DEBUG  [main]  Spider  - End :table
+1234 DEBUG  [main]  Spider  - End :td
+1234 DEBUG  [main]  Spider  - End :tr
+1234 DEBUG  [main]  Spider  - End :table
+1234 DEBUG  [main]  Spider  - Start :table
+1234 DEBUG  [main]  Spider  - Start :tr
+1234 DEBUG  [main]  Spider  - Start :td
+1234 DEBUG  [main]  Spider  - Simple Tag :spacer
+1234 DEBUG  [main]  Spider  - End :td
+1234 DEBUG  [main]  Spider  - End :tr
+1234 DEBUG  [main]  Spider  - End :table
+1234 DEBUG  [main]  Spider  - Start :table
+1234 DEBUG  [main]  Spider  - Start :tr
+1234 DEBUG  [main]  Spider  - Start :td
+1234 DEBUG  [main]  Spider  - Start :table
+1234 DEBUG  [main]  Spider  - Start :tr
+1234 DEBUG  [main]  Spider  - Start :td
+1609 DEBUG  [main]  Spider  - Start :font
+1625 DEBUG  [main]  Spider  - End :font
+1625 DEBUG  [main]  Spider  - Start :b
+1625 INFO  [main]  Spider  - a r/ye
+1625 DEBUG  [main]  Spider  - Start :font
+1625 DEBUG  [main]  Spider  - End :font
+1625 DEBUG  [main]  Spider  - End :a
+1625 DEBUG  [main]  Spider  - End :b
+1625 DEBUG  [main]  Spider  - End :td
+1625 DEBUG  [main]  Spider  - Start :td
+1625 DEBUG  [main]  Spider  - Start :font
+1625 DEBUG  [main]  Spider  - Start :b
+1625 INFO  [main]  Spider  - a r/yf
+1625 DEBUG  [main]  Spider  - End :a
+1625 DEBUG  [main]  Spider  - End :b
+1625 DEBUG  [main]  Spider  - End :font
+1625 DEBUG  [main]  Spider  - Start :font
+1625 DEBUG  [main]  Spider  - End :font
+1625 DEBUG  [main]  Spider  - End :td
+1625 DEBUG  [main]  Spider  - End :tr
+1625 DEBUG  [main]  Spider  - End :table
+1625 DEBUG  [main]  Spider  - Start :table
+1625 DEBUG  [main]  Spider  - Start :tr
+1625 DEBUG  [main]  Spider  - Start :td
+1625 DEBUG  [main]  Spider  - Start :table
+1625 DEBUG  [main]  Spider  - Start :tr
+1625 DEBUG  [main]  Spider  - Start :td
+1625 DEBUG  [main]  Spider  - Start :font
+1625 INFO  [main]  Spider  - a s/246780
+1625 DEBUG  [main]  Spider  - Simple Tag :img
+1625 DEBUG  [main]  Spider  - Simple Tag :br
+1625 DEBUG  [main]  Spider  - Start :cite
+1625 DEBUG  [main]  Spider  - End :cite
+1625 DEBUG  [main]  Spider  - End :a
+1625 DEBUG  [main]  Spider  - End :font
+1625 DEBUG  [main]  Spider  - End :td
+1625 DEBUG  [main]  Spider  - Start :td
+1625 DEBUG  [main]  Spider  - End :td
+1625 DEBUG  [main]  Spider  - Start :td
+1625 DEBUG  [main]  Spider  - Start :font
+1625 INFO  [main]  Spider  - a s/246756
+1625 DEBUG  [main]  Spider  - End :a
+1625 DEBUG  [main]  Spider  - Simple Tag :br
+1625 INFO  [main]  Spider  - a s/246748
+1625 DEBUG  [main]  Spider  - End :a
+1625 DEBUG  [main]  Spider  - Simple Tag :br
+1625 INFO  [main]  Spider  - a s/246733
+1625 DEBUG  [main]  Spider  - End :a
+1625 DEBUG  [main]  Spider  - Simple Tag :br
+1625 INFO  [main]  Spider  - a s/238189
+1625 DEBUG  [main]  Spider  - End :a
+1625 INFO  [main]  Spider  - a s/240778
+1625 DEBUG  [main]  Spider  - End :a
+1625 INFO  [main]  Spider  - a s/238191
+1625 DEBUG  [main]  Spider  - End :a
+1625 DEBUG  [main]  Spider  - Simple Tag :br
+1625 DEBUG  [main]  Spider  - End :font
+1625 DEBUG  [main]  Spider  - End :td
+1625 DEBUG  [main]  Spider  - End :tr
+1625 DEBUG  [main]  Spider  - End :table
+1625 DEBUG  [main]  Spider  - End :td
+1625 DEBUG  [main]  Spider  - End :tr
+1625 DEBUG  [main]  Spider  - End :table
+1625 DEBUG  [main]  Spider  - End :td
+1625 DEBUG  [main]  Spider  - End :tr
+1625 DEBUG  [main]  Spider  - End :table
+1625 DEBUG  [main]  Spider  - Start :table
+1625 DEBUG  [main]  Spider  - Start :tr
+1625 DEBUG  [main]  Spider  - Start :td
+1625 DEBUG  [main]  Spider  - Simple Tag :spacer
+1625 DEBUG  [main]  Spider  - End :td
+1625 DEBUG  [main]  Spider  - End :tr
+1625 DEBUG  [main]  Spider  - End :table
+1875 DEBUG  [main]  Spider  - Start :table
+1875 DEBUG  [main]  Spider  - Start :tr
+1875 DEBUG  [main]  Spider  - Start :td
+1875 DEBUG  [main]  Spider  - Start :table
+1875 DEBUG  [main]  Spider  - Start :tr
+1875 DEBUG  [main]  Spider  - Start :td
+1875 DEBUG  [main]  Spider  - Start :font
+1875 DEBUG  [main]  Spider  - End :font
+1875 DEBUG  [main]  Spider  - Start :b
+1875 INFO  [main]  Spider  - a r/z5
+1875 DEBUG  [main]  Spider  - Start :font
+1875 DEBUG  [main]  Spider  - End :font
+1875 DEBUG  [main]  Spider  - End :a
+1875 DEBUG  [main]  Spider  - End :b
+1875 DEBUG  [main]  Spider  - End :td
+1875 DEBUG  [main]  Spider  - Start :td
+1875 DEBUG  [main]  Spider  - Start :font
+1875 DEBUG  [main]  Spider  - Start :b
+1875 INFO  [main]  Spider  - a r/z6
+1875 DEBUG  [main]  Spider  - End :a
+1875 DEBUG  [main]  Spider  - End :b
+1875 DEBUG  [main]  Spider  - End :font
+1875 DEBUG  [main]  Spider  - Start :font
+1875 DEBUG  [main]  Spider  - End :font
+1875 DEBUG  [main]  Spider  - End :td
+1875 DEBUG  [main]  Spider  - End :tr
+1875 DEBUG  [main]  Spider  - End :table
+1875 DEBUG  [main]  Spider  - Start :table
+1875 DEBUG  [main]  Spider  - Start :tr
+1875 DEBUG  [main]  Spider  - Start :td
+1875 DEBUG  [main]  Spider  - Start :table
+1875 DEBUG  [main]  Spider  - Start :tr
+1875 DEBUG  [main]  Spider  - Start :td
+1875 DEBUG  [main]  Spider  - Start :font
+1875 INFO  [main]  Spider  - a s/246757
+1875 DEBUG  [main]  Spider  - Simple Tag :img
+1875 DEBUG  [main]  Spider  - Simple Tag :br
+1875 DEBUG  [main]  Spider  - Start :cite
+1875 DEBUG  [main]  Spider  - End :cite
+1875 DEBUG  [main]  Spider  - End :a
+1875 DEBUG  [main]  Spider  - End :font
+1875 DEBUG  [main]  Spider  - End :td
+1875 DEBUG  [main]  Spider  - Start :td
+1875 DEBUG  [main]  Spider  - End :td
+1875 DEBUG  [main]  Spider  - Start :td
+1875 DEBUG  [main]  Spider  - Start :table
+1875 DEBUG  [main]  Spider  - Start :tr
+1875 DEBUG  [main]  Spider  - Start :td
+1875 DEBUG  [main]  Spider  - Start :font
+1875 INFO  [main]  Spider  - a s/246758
+1890 DEBUG  [main]  Spider  - Start :font
+1890 DEBUG  [main]  Spider  - Start :b
+1890 DEBUG  [main]  Spider  - End :b
+1890 DEBUG  [main]  Spider  - End :font
+1890 DEBUG  [main]  Spider  - End :a
+1890 DEBUG  [main]  Spider  - End :font
+1890 DEBUG  [main]  Spider  - End :td
+1890 DEBUG  [main]  Spider  - End :tr
+1890 DEBUG  [main]  Spider  - Start :tr
+1890 DEBUG  [main]  Spider  - Start :td
+1890 DEBUG  [main]  Spider  - Start :font
+1890 DEBUG  [main]  Spider  - Start :b
+1890 DEBUG  [main]  Spider  - End :b
+1890 DEBUG  [main]  Spider  - End :font
+1890 DEBUG  [main]  Spider  - End :td
+1890 DEBUG  [main]  Spider  - End :tr
+1890 DEBUG  [main]  Spider  - Start :tr
+1890 DEBUG  [main]  Spider  - Start :td
+1890 DEBUG  [main]  Spider  - Start :font
+1890 INFO  [main]  Spider  - a s/246759
+1890 DEBUG  [main]  Spider  - End :a
+1890 DEBUG  [main]  Spider  - Simple Tag :br
+1890 INFO  [main]  Spider  - a s/246760
+2187 DEBUG  [main]  Spider  - End :a
+2187 DEBUG  [main]  Spider  - End :font
+2187 DEBUG  [main]  Spider  - End :td
+2187 DEBUG  [main]  Spider  - Start :td
+2187 DEBUG  [main]  Spider  - Start :font
+2187 INFO  [main]  Spider  - a s/246761
+2187 DEBUG  [main]  Spider  - End :a
+2187 DEBUG  [main]  Spider  - Simple Tag :br
+2187 INFO  [main]  Spider  - a s/246762
+2187 DEBUG  [main]  Spider  - End :a
+2187 DEBUG  [main]  Spider  - End :font
+2187 DEBUG  [main]  Spider  - End :td
+2187 DEBUG  [main]  Spider  - End :tr
+2187 DEBUG  [main]  Spider  - End :table
+2187 DEBUG  [main]  Spider  - End :td
+2187 DEBUG  [main]  Spider  - End :tr
+2187 DEBUG  [main]  Spider  - End :table
+2187 DEBUG  [main]  Spider  - End :td
+2187 DEBUG  [main]  Spider  - End :tr
+2187 DEBUG  [main]  Spider  - End :table
+2187 DEBUG  [main]  Spider  - End :td
+2187 DEBUG  [main]  Spider  - End :tr
+2187 DEBUG  [main]  Spider  - End :table
+2187 DEBUG  [main]  Spider  - Start :table
+2187 DEBUG  [main]  Spider  - Start :tr
+2187 DEBUG  [main]  Spider  - Start :td
+2187 DEBUG  [main]  Spider  - Simple Tag :spacer
+2187 DEBUG  [main]  Spider  - End :td
+2187 DEBUG  [main]  Spider  - End :tr
+2187 DEBUG  [main]  Spider  - End :table
+2187 DEBUG  [main]  Spider  - Start :table
+2187 DEBUG  [main]  Spider  - Start :tr
+2187 DEBUG  [main]  Spider  - Start :td
+2187 DEBUG  [main]  Spider  - Start :table
+2187 DEBUG  [main]  Spider  - Start :tr
+2187 DEBUG  [main]  Spider  - Start :td
+2187 DEBUG  [main]  Spider  - Start :font
+2187 DEBUG  [main]  Spider  - End :font
+2187 DEBUG  [main]  Spider  - Start :b
+2187 INFO  [main]  Spider  - a r/xd
+2187 DEBUG  [main]  Spider  - Start :font
+2187 DEBUG  [main]  Spider  - End :font
+2187 DEBUG  [main]  Spider  - End :a
+2187 DEBUG  [main]  Spider  - End :b
+2187 DEBUG  [main]  Spider  - End :td
+2187 DEBUG  [main]  Spider  - Start :td
+2187 DEBUG  [main]  Spider  - Start :font
+2203 DEBUG  [main]  Spider  - Start :b
+2203 INFO  [main]  Spider  - a r/yd
+2203 DEBUG  [main]  Spider  - End :a
+2203 DEBUG  [main]  Spider  - End :b
+2203 DEBUG  [main]  Spider  - End :font
+2203 DEBUG  [main]  Spider  - Start :font
+2203 DEBUG  [main]  Spider  - End :font
+2203 DEBUG  [main]  Spider  - End :td
+2203 DEBUG  [main]  Spider  - End :tr
+2203 DEBUG  [main]  Spider  - End :table
+2203 DEBUG  [main]  Spider  - Start :table
+2203 DEBUG  [main]  Spider  - Start :tr
+2203 DEBUG  [main]  Spider  - Start :td
+2203 DEBUG  [main]  Spider  - Start :table
+2203 DEBUG  [main]  Spider  - Start :tr
+2203 DEBUG  [main]  Spider  - Start :td
+2203 DEBUG  [main]  Spider  - Start :font
+2203 INFO  [main]  Spider  - a r/ar
+2203 DEBUG  [main]  Spider  - End :a
+2203 DEBUG  [main]  Spider  - Simple Tag :br
+2203 INFO  [main]  Spider  - a r/bu
+2203 DEBUG  [main]  Spider  - End :a
+2203 DEBUG  [main]  Spider  - Simple Tag :br
+2203 INFO  [main]  Spider  - a r/ci
+2203 DEBUG  [main]  Spider  - End :a
+2203 DEBUG  [main]  Spider  - End :font
+2203 DEBUG  [main]  Spider  - End :td
+2203 DEBUG  [main]  Spider  - Start :td
+2203 DEBUG  [main]  Spider  - Start :font
+2203 INFO  [main]  Spider  - a r/ed
+2203 DEBUG  [main]  Spider  - End :a
+2203 DEBUG  [main]  Spider  - Simple Tag :br
+2203 INFO  [main]  Spider  - a r/en
+2203 DEBUG  [main]  Spider  - End :a
+2203 DEBUG  [main]  Spider  - Simple Tag :br
+2203 INFO  [main]  Spider  - a r/he
+2203 DEBUG  [main]  Spider  - End :a
+2203 DEBUG  [main]  Spider  - End :font
+2203 DEBUG  [main]  Spider  - End :td
+2203 DEBUG  [main]  Spider  - Start :td
+2203 DEBUG  [main]  Spider  - Start :font
+2203 INFO  [main]  Spider  - a r/nm
+2203 DEBUG  [main]  Spider  - End :a
+2203 DEBUG  [main]  Spider  - Simple Tag :br
+2203 INFO  [main]  Spider  - a r/rs
+2203 DEBUG  [main]  Spider  - End :a
+2203 DEBUG  [main]  Spider  - Simple Tag :br
+2203 INFO  [main]  Spider  - a r/rf
+2203 DEBUG  [main]  Spider  - End :a
+2203 DEBUG  [main]  Spider  - End :font
+2203 DEBUG  [main]  Spider  - End :td
+2484 DEBUG  [main]  Spider  - Start :td
+2484 DEBUG  [main]  Spider  - Start :font
+2484 INFO  [main]  Spider  - a r/re
+2484 DEBUG  [main]  Spider  - End :a
+2484 DEBUG  [main]  Spider  - Simple Tag :br
+2484 INFO  [main]  Spider  - a r/sc
+2484 DEBUG  [main]  Spider  - End :a
+2484 DEBUG  [main]  Spider  - Simple Tag :br
+2484 INFO  [main]  Spider  - a r/cu
+2484 DEBUG  [main]  Spider  - End :a
+2484 DEBUG  [main]  Spider  - End :font
+2484 DEBUG  [main]  Spider  - End :td
+2484 DEBUG  [main]  Spider  - End :tr
+2484 DEBUG  [main]  Spider  - End :table
+2484 DEBUG  [main]  Spider  - End :td
+2484 DEBUG  [main]  Spider  - End :tr
+2484 DEBUG  [main]  Spider  - End :table
+2484 DEBUG  [main]  Spider  - End :td
+2484 DEBUG  [main]  Spider  - End :tr
+2484 DEBUG  [main]  Spider  - End :table
+2484 DEBUG  [main]  Spider  - Start :table
+2484 DEBUG  [main]  Spider  - Start :tr
+2484 DEBUG  [main]  Spider  - Start :td
+2484 DEBUG  [main]  Spider  - Simple Tag :spacer
+2484 DEBUG  [main]  Spider  - End :td
+2484 DEBUG  [main]  Spider  - End :tr
+2484 DEBUG  [main]  Spider  - End :table
+2484 DEBUG  [main]  Spider  - Start :table
+2484 DEBUG  [main]  Spider  - Start :tr
+2484 DEBUG  [main]  Spider  - Start :td
+2484 DEBUG  [main]  Spider  - Start :table
+2484 DEBUG  [main]  Spider  - Start :tr
+2484 DEBUG  [main]  Spider  - Start :td
+2500 DEBUG  [main]  Spider  - Start :font
+2500 DEBUG  [main]  Spider  - End :font
+2500 DEBUG  [main]  Spider  - Start :b
+2500 INFO  [main]  Spider  - a r/xz
+2500 DEBUG  [main]  Spider  - Start :font
+2500 DEBUG  [main]  Spider  - End :font
+2500 DEBUG  [main]  Spider  - End :a
+2500 DEBUG  [main]  Spider  - End :b
+2500 DEBUG  [main]  Spider  - End :td
+2500 DEBUG  [main]  Spider  - Start :td
+2500 DEBUG  [main]  Spider  - Start :font
+2500 DEBUG  [main]  Spider  - Start :b
+2500 INFO  [main]  Spider  - a r/yz
+2500 DEBUG  [main]  Spider  - End :a
+2500 DEBUG  [main]  Spider  - End :b
+2500 DEBUG  [main]  Spider  - End :font
+2500 DEBUG  [main]  Spider  - Start :font
+2500 DEBUG  [main]  Spider  - End :font
+2500 DEBUG  [main]  Spider  - End :td
+2500 DEBUG  [main]  Spider  - End :tr
+2500 DEBUG  [main]  Spider  - End :table
+2500 DEBUG  [main]  Spider  - Start :table
+2500 DEBUG  [main]  Spider  - Start :tr
+2500 DEBUG  [main]  Spider  - Start :td
+2500 DEBUG  [main]  Spider  - Start :table
+2500 DEBUG  [main]  Spider  - Start :tr
+2500 DEBUG  [main]  Spider  - Start :td
+2500 DEBUG  [main]  Spider  - Start :font
+2500 INFO  [main]  Spider  - a r/3t
+2500 DEBUG  [main]  Spider  - Simple Tag :img
+2500 DEBUG  [main]  Spider  - End :a
+2500 DEBUG  [main]  Spider  - Simple Tag :br
+2500 INFO  [main]  Spider  - a r/a2
+2500 DEBUG  [main]  Spider  - End :a
+2500 DEBUG  [main]  Spider  - End :font
+2500 DEBUG  [main]  Spider  - End :td
+2500 DEBUG  [main]  Spider  - Start :td
+2500 DEBUG  [main]  Spider  - Start :font
+2500 INFO  [main]  Spider  - a r/ca
+2500 DEBUG  [main]  Spider  - End :a
+2500 DEBUG  [main]  Spider  - Simple Tag :br
+2500 INFO  [main]  Spider  - a r/cf
+2500 DEBUG  [main]  Spider  - End :a
+2500 DEBUG  [main]  Spider  - End :font
+2500 DEBUG  [main]  Spider  - End :td
+2500 DEBUG  [main]  Spider  - Start :td
+2500 DEBUG  [main]  Spider  - Start :font
+2500 INFO  [main]  Spider  - a r/eu
+2500 DEBUG  [main]  Spider  - End :a
+2500 DEBUG  [main]  Spider  - Simple Tag :br
+2500 INFO  [main]  Spider  - a r/gr
+2500 DEBUG  [main]  Spider  - End :a
+2500 DEBUG  [main]  Spider  - End :font
+2500 DEBUG  [main]  Spider  - End :td
+2500 DEBUG  [main]  Spider  - Start :td
+2500 DEBUG  [main]  Spider  - Start :font
+2797 INFO  [main]  Spider  - a r/pf
+2797 DEBUG  [main]  Spider  - End :a
+2797 DEBUG  [main]  Spider  - Simple Tag :br
+2797 INFO  [main]  Spider  - a r/pt
+2797 DEBUG  [main]  Spider  - End :a
+2797 DEBUG  [main]  Spider  - End :font
+2797 DEBUG  [main]  Spider  - End :td
+2797 DEBUG  [main]  Spider  - End :tr
+2797 DEBUG  [main]  Spider  - End :table
+2797 DEBUG  [main]  Spider  - End :td
+2797 DEBUG  [main]  Spider  - End :tr
+2797 DEBUG  [main]  Spider  - End :table
+2797 DEBUG  [main]  Spider  - End :td
+2797 DEBUG  [main]  Spider  - End :tr
+2797 DEBUG  [main]  Spider  - End :table
+2797 DEBUG  [main]  Spider  - Start :table
+2797 DEBUG  [main]  Spider  - Start :tr
+2797 DEBUG  [main]  Spider  - Start :td
+2797 DEBUG  [main]  Spider  - Simple Tag :spacer
+2797 DEBUG  [main]  Spider  - End :td
+2797 DEBUG  [main]  Spider  - End :tr
+2797 DEBUG  [main]  Spider  - End :table
+2797 DEBUG  [main]  Spider  - End :td
+2797 DEBUG  [main]  Spider  - Start :td
+2797 DEBUG  [main]  Spider  - Simple Tag :spacer
+2797 DEBUG  [main]  Spider  - End :td
+2797 DEBUG  [main]  Spider  - Start :script
+2797 DEBUG  [main]  Spider  - End :script
+2797 DEBUG  [main]  Spider  - Start :td
+2797 DEBUG  [main]  Spider  - Start :script
+2797 DEBUG  [main]  Spider  - Start :div
+2797 INFO  [main]  Spider  - a '+jp(4,'eimg2',img2u)+'
+2797 DEBUG  [main]  Spider  - Simple Tag :img
+2797 DEBUG  [main]  Spider  - End :a
+2797 DEBUG  [main]  Spider  - End :div
+2797 DEBUG  [main]  Spider  - Start :table
+2797 DEBUG  [main]  Spider  - Start :tr
+2797 DEBUG  [main]  Spider  - Start :td
+2797 DEBUG  [main]  Spider  - Start :font
+2797 DEBUG  [main]  Spider  - Start :b
+2797 INFO  [main]  Spider  - a '+jp(5,'etxt1',txt1u)+'
+2797 DEBUG  [main]  Spider  - End :a
+2797 DEBUG  [main]  Spider  - End :b
+2797 DEBUG  [main]  Spider  - End :font
+2797 DEBUG  [main]  Spider  - End :td
+2797 DEBUG  [main]  Spider  - End :tr
+2797 DEBUG  [main]  Spider  - End :table
+2797 DEBUG  [main]  Spider  - End :script
+2797 DEBUG  [main]  Spider  - Start :table
+2797 DEBUG  [main]  Spider  - Start :tr
+2797 DEBUG  [main]  Spider  - Start :td
+2797 DEBUG  [main]  Spider  - Simple Tag :spacer
+2797 DEBUG  [main]  Spider  - End :td
+2797 DEBUG  [main]  Spider  - End :tr
+2797 DEBUG  [main]  Spider  - End :table
+2797 DEBUG  [main]  Spider  - Start :table
+2812 DEBUG  [main]  Spider  - Start :tr
+2812 DEBUG  [main]  Spider  - Start :td
+2812 DEBUG  [main]  Spider  - Start :table
+2812 DEBUG  [main]  Spider  - Start :tr
+2812 DEBUG  [main]  Spider  - Start :td
+2812 DEBUG  [main]  Spider  - Start :font
+2812 DEBUG  [main]  Spider  - End :font
+2812 DEBUG  [main]  Spider  - Start :b
+2812 INFO  [main]  Spider  - a r/d2
+2812 DEBUG  [main]  Spider  - Start :font
+2812 DEBUG  [main]  Spider  - End :font
+2812 DEBUG  [main]  Spider  - End :a
+2812 DEBUG  [main]  Spider  - End :b
+2812 DEBUG  [main]  Spider  - End :td
+2812 DEBUG  [main]  Spider  - Start :td
+2812 DEBUG  [main]  Spider  - Start :font
+2812 DEBUG  [main]  Spider  - Start :font
+2812 DEBUG  [main]  Spider  - Start :script
+2812 DEBUG  [main]  Spider  - End :script
+2812 DEBUG  [main]  Spider  - End :font
+2812 DEBUG  [main]  Spider  - End :font
+3172 DEBUG  [main]  Spider  - Start :font
+3172 DEBUG  [main]  Spider  - End :font
+3172 DEBUG  [main]  Spider  - End :td
+3172 DEBUG  [main]  Spider  - End :tr
+3172 DEBUG  [main]  Spider  - End :table
+3172 DEBUG  [main]  Spider  - Start :table
+3172 DEBUG  [main]  Spider  - Start :tr
+3172 DEBUG  [main]  Spider  - Start :td
+3172 DEBUG  [main]  Spider  - Start :font
+3172 INFO  [main]  Spider  - a s/246266
+3172 DEBUG  [main]  Spider  - End :a
+3172 DEBUG  [main]  Spider  - Simple Tag :br
+3172 INFO  [main]  Spider  - a s/246764
+3172 DEBUG  [main]  Spider  - End :a
+3172 DEBUG  [main]  Spider  - Simple Tag :br
+3172 INFO  [main]  Spider  - a s/240238
+3172 DEBUG  [main]  Spider  - End :a
+3172 DEBUG  [main]  Spider  - Simple Tag :br
+3172 INFO  [main]  Spider  - a s/246779
+3172 DEBUG  [main]  Spider  - End :a
+3172 DEBUG  [main]  Spider  - Simple Tag :br
+3172 INFO  [main]  Spider  - a s/243218
+3172 DEBUG  [main]  Spider  - End :a
+3172 DEBUG  [main]  Spider  - Simple Tag :br
+3172 INFO  [main]  Spider  - a s/246781
+3172 DEBUG  [main]  Spider  - End :a
+3172 DEBUG  [main]  Spider  - Simple Tag :br
+3172 INFO  [main]  Spider  - a s/246778
+3172 DEBUG  [main]  Spider  - End :a
+3172 DEBUG  [main]  Spider  - Simple Tag :br
+3172 INFO  [main]  Spider  - a s/201867
+3172 DEBUG  [main]  Spider  - End :a
+3172 DEBUG  [main]  Spider  - Simple Tag :br
+3172 DEBUG  [main]  Spider  - End :font
+3172 DEBUG  [main]  Spider  - Start :table
+3172 DEBUG  [main]  Spider  - Start :tr
+3172 DEBUG  [main]  Spider  - Start :td
+3172 DEBUG  [main]  Spider  - Simple Tag :spacer
+3172 DEBUG  [main]  Spider  - End :td
+3172 DEBUG  [main]  Spider  - End :tr
+3172 DEBUG  [main]  Spider  - End :table
+3172 DEBUG  [main]  Spider  - Start :table
+3172 DEBUG  [main]  Spider  - Start :tr
+3172 DEBUG  [main]  Spider  - Start :td
+3172 DEBUG  [main]  Spider  - Simple Tag :spacer
+3172 DEBUG  [main]  Spider  - End :td
+3172 DEBUG  [main]  Spider  - End :tr
+3172 DEBUG  [main]  Spider  - End :table
+3172 DEBUG  [main]  Spider  - Simple Tag :span
+3172 DEBUG  [main]  Spider  - Simple Tag :span
+3172 DEBUG  [main]  Spider  - Start :table
+3172 DEBUG  [main]  Spider  - Start :tr
+3172 DEBUG  [main]  Spider  - Start :td
+3172 DEBUG  [main]  Spider  - Start :font
+3172 INFO  [main]  Spider  - a r/f3
+3172 DEBUG  [main]  Spider  - End :a
+3172 DEBUG  [main]  Spider  - Simple Tag :br
+3172 DEBUG  [main]  Spider  - Start :font
+3172 DEBUG  [main]  Spider  - End :font
+3172 DEBUG  [main]  Spider  - Start :font
+3172 DEBUG  [main]  Spider  - End :font
+3172 DEBUG  [main]  Spider  - End :font
+3172 DEBUG  [main]  Spider  - End :td
+3172 DEBUG  [main]  Spider  - Start :td
+3172 DEBUG  [main]  Spider  - Start :form
+3187 DEBUG  [main]  Spider  - End :form
+3187 DEBUG  [main]  Spider  - End :td
+3187 DEBUG  [main]  Spider  - Start :td
+3187 DEBUG  [main]  Spider  - Start :font
+3187 INFO  [main]  Spider  - a r/f4
+3453 DEBUG  [main]  Spider  - End :a
+3453 DEBUG  [main]  Spider  - Simple Tag :br
+3453 DEBUG  [main]  Spider  - Simple Tag :input
+3453 DEBUG  [main]  Spider  - Simple Tag :input
+3453 DEBUG  [main]  Spider  - End :font
+3453 DEBUG  [main]  Spider  - End :td
+3453 DEBUG  [main]  Spider  - End :tr
+3453 DEBUG  [main]  Spider  - End :table
+3453 DEBUG  [main]  Spider  - Start :table
+3469 DEBUG  [main]  Spider  - Start :tr
+3469 DEBUG  [main]  Spider  - Start :td
+3469 DEBUG  [main]  Spider  - Simple Tag :spacer
+3469 DEBUG  [main]  Spider  - End :td
+3469 DEBUG  [main]  Spider  - End :tr
+3469 DEBUG  [main]  Spider  - End :table
+3469 DEBUG  [main]  Spider  - Start :table
+3469 DEBUG  [main]  Spider  - Start :tr
+3469 DEBUG  [main]  Spider  - Start :td
+3469 DEBUG  [main]  Spider  - Simple Tag :spacer
+3469 DEBUG  [main]  Spider  - End :td
+3469 DEBUG  [main]  Spider  - End :tr
+3469 DEBUG  [main]  Spider  - End :table
+3469 DEBUG  [main]  Spider  - Start :font
+3469 DEBUG  [main]  Spider  - Start :b
+3469 INFO  [main]  Spider  - a r/xn
+3469 DEBUG  [main]  Spider  - End :a
+3469 INFO  [main]  Spider  - a r/me
+3469 DEBUG  [main]  Spider  - End :a
+3469 INFO  [main]  Spider  - a r/s2
+3469 DEBUG  [main]  Spider  - End :a
+3469 INFO  [main]  Spider  - a r/f2
+3469 DEBUG  [main]  Spider  - End :a
+3469 DEBUG  [main]  Spider  - End :b
+3469 DEBUG  [main]  Spider  - End :font
+3469 DEBUG  [main]  Spider  - End :td
+3469 DEBUG  [main]  Spider  - End :tr
+3469 DEBUG  [main]  Spider  - End :table
+3469 DEBUG  [main]  Spider  - End :td
+3469 DEBUG  [main]  Spider  - End :tr
+3469 DEBUG  [main]  Spider  - End :table
+3469 DEBUG  [main]  Spider  - Start :table
+3469 DEBUG  [main]  Spider  - Start :tr
+3469 DEBUG  [main]  Spider  - Start :td
+3469 DEBUG  [main]  Spider  - Simple Tag :spacer
+3469 DEBUG  [main]  Spider  - End :td
+3469 DEBUG  [main]  Spider  - End :tr
+3469 DEBUG  [main]  Spider  - End :table
+3469 DEBUG  [main]  Spider  - Start :table
+3469 DEBUG  [main]  Spider  - Start :tr
+3469 DEBUG  [main]  Spider  - Start :td
+3484 DEBUG  [main]  Spider  - Start :table
+3484 DEBUG  [main]  Spider  - Start :tr
+3484 DEBUG  [main]  Spider  - Start :td
+3484 DEBUG  [main]  Spider  - Start :font
+3484 DEBUG  [main]  Spider  - End :font
+3484 DEBUG  [main]  Spider  - Start :b
+3484 INFO  [main]  Spider  - a r/wt
+3484 DEBUG  [main]  Spider  - Start :font
+3484 DEBUG  [main]  Spider  - End :font
+3484 DEBUG  [main]  Spider  - End :a
+3484 DEBUG  [main]  Spider  - End :b
+3484 DEBUG  [main]  Spider  - End :td
+3484 DEBUG  [main]  Spider  - Start :td
+3484 DEBUG  [main]  Spider  - Start :font
+3484 DEBUG  [main]  Spider  - Start :b
+3484 DEBUG  [main]  Spider  - End :b
+3484 DEBUG  [main]  Spider  - End :font
+3484 DEBUG  [main]  Spider  - Start :font
+3484 DEBUG  [main]  Spider  - End :font
+3484 DEBUG  [main]  Spider  - End :td
+3484 DEBUG  [main]  Spider  - End :tr
+3484 DEBUG  [main]  Spider  - End :table
+3484 DEBUG  [main]  Spider  - Start :table
+3484 DEBUG  [main]  Spider  - Start :tr
+3484 DEBUG  [main]  Spider  - Start :td
+3484 DEBUG  [main]  Spider  - Start :font
+3484 DEBUG  [main]  Spider  - End :font
+3484 DEBUG  [main]  Spider  - Start :form
+3484 DEBUG  [main]  Spider  - Start :table
+3484 DEBUG  [main]  Spider  - Start :tr
+3484 DEBUG  [main]  Spider  - Start :td
+3484 DEBUG  [main]  Spider  - Start :font
+3484 DEBUG  [main]  Spider  - Simple Tag :label
+4156 DEBUG  [main]  Spider  - Simple Tag :label
+4156 DEBUG  [main]  Spider  - End :font
+4156 DEBUG  [main]  Spider  - End :td
+4156 DEBUG  [main]  Spider  - End :tr
+4156 DEBUG  [main]  Spider  - Start :tr
+4156 DEBUG  [main]  Spider  - Start :td
+4156 DEBUG  [main]  Spider  - Simple Tag :spacer
+4156 DEBUG  [main]  Spider  - End :td
+4156 DEBUG  [main]  Spider  - End :tr
+4156 DEBUG  [main]  Spider  - Start :tr
+4156 DEBUG  [main]  Spider  - Start :td
+4156 DEBUG  [main]  Spider  - Simple Tag :img
+4156 DEBUG  [main]  Spider  - End :td
+4156 DEBUG  [main]  Spider  - Start :td
+4156 DEBUG  [main]  Spider  - Start :font
+4156 DEBUG  [main]  Spider  - Simple Tag :input
+4156 DEBUG  [main]  Spider  - Simple Tag :input
+4156 DEBUG  [main]  Spider  - End :font
+4156 DEBUG  [main]  Spider  - End :td
+4156 DEBUG  [main]  Spider  - End :tr
+4156 DEBUG  [main]  Spider  - Start :tr
+4156 DEBUG  [main]  Spider  - Start :td
+4156 DEBUG  [main]  Spider  - Simple Tag :spacer
+4156 DEBUG  [main]  Spider  - End :td
+4156 DEBUG  [main]  Spider  - End :tr
+4156 DEBUG  [main]  Spider  - Start :tr
+4156 DEBUG  [main]  Spider  - Start :td
+4156 DEBUG  [main]  Spider  - Start :table
+4156 DEBUG  [main]  Spider  - Start :tr
+4156 DEBUG  [main]  Spider  - Start :td
+4156 DEBUG  [main]  Spider  - Start :font
+4156 DEBUG  [main]  Spider  - Simple Tag :input
+4156 DEBUG  [main]  Spider  - End :font
+4156 DEBUG  [main]  Spider  - End :td
+4156 DEBUG  [main]  Spider  - Start :td
+4156 DEBUG  [main]  Spider  - Start :font
+4156 DEBUG  [main]  Spider  - Simple Tag :label
+4156 DEBUG  [main]  Spider  - Simple Tag :label
+4172 DEBUG  [main]  Spider  - End :font
+4172 DEBUG  [main]  Spider  - End :td
+4172 DEBUG  [main]  Spider  - End :tr
+4172 DEBUG  [main]  Spider  - End :table
+4172 DEBUG  [main]  Spider  - End :td
+4172 DEBUG  [main]  Spider  - Simple Tag :span
+4172 DEBUG  [main]  Spider  - Simple Tag :span
+4172 DEBUG  [main]  Spider  - End :tr
+4172 DEBUG  [main]  Spider  - End :table
+4172 DEBUG  [main]  Spider  - End :form
+4172 DEBUG  [main]  Spider  - End :td
+4172 DEBUG  [main]  Spider  - End :tr
+4172 DEBUG  [main]  Spider  - End :table
+4172 DEBUG  [main]  Spider  - End :td
+4172 DEBUG  [main]  Spider  - End :tr
+4172 DEBUG  [main]  Spider  - End :table
+4172 DEBUG  [main]  Spider  - Start :table
+4172 DEBUG  [main]  Spider  - Start :tr
+4172 DEBUG  [main]  Spider  - Start :td
+4172 DEBUG  [main]  Spider  - Simple Tag :spacer
+4172 DEBUG  [main]  Spider  - End :td
+4172 DEBUG  [main]  Spider  - End :tr
+4172 DEBUG  [main]  Spider  - End :table
+4172 DEBUG  [main]  Spider  - Start :table
+4172 DEBUG  [main]  Spider  - Start :tr
+4172 DEBUG  [main]  Spider  - Start :td
+4172 DEBUG  [main]  Spider  - Start :table
+4172 DEBUG  [main]  Spider  - Start :tr
+4172 DEBUG  [main]  Spider  - Start :td
+4172 DEBUG  [main]  Spider  - Start :font
+4172 DEBUG  [main]  Spider  - End :font
+4172 DEBUG  [main]  Spider  - Start :b
+4172 INFO  [main]  Spider  - a r/0v
+4172 DEBUG  [main]  Spider  - Start :font
+4172 DEBUG  [main]  Spider  - End :font
+4172 DEBUG  [main]  Spider  - End :a
+4172 DEBUG  [main]  Spider  - End :b
+4172 DEBUG  [main]  Spider  - End :td
+4172 DEBUG  [main]  Spider  - Start :td
+4172 DEBUG  [main]  Spider  - Start :font
+4172 DEBUG  [main]  Spider  - Start :b
+4172 DEBUG  [main]  Spider  - End :b
+4172 DEBUG  [main]  Spider  - End :font
+4172 DEBUG  [main]  Spider  - Start :font
+4172 DEBUG  [main]  Spider  - End :font
+4172 DEBUG  [main]  Spider  - End :td
+4172 DEBUG  [main]  Spider  - End :tr
+4172 DEBUG  [main]  Spider  - End :table
+4172 DEBUG  [main]  Spider  - Start :table
+4172 DEBUG  [main]  Spider  - Start :tr
+4172 DEBUG  [main]  Spider  - Start :td
+4172 DEBUG  [main]  Spider  - Start :font
+4172 DEBUG  [main]  Spider  - End :font
+4172 DEBUG  [main]  Spider  - Start :table
+4172 DEBUG  [main]  Spider  - Start :tr
+4172 DEBUG  [main]  Spider  - Start :td
+4172 INFO  [main]  Spider  - a http://us.ard.yahoo.com/SIG=12h7btfb9/M=342786.6220037.7757215.2060751/D=yahoo_top/S=2716149:M2/_ylt=A0SOxU3EB9RCOecAyT_1cSkA/Y=YAHOO/EXP=1121199076/A=2859058/R=0/SIG=11u0d4kki/*http://clk.atdmt.com/NFX/go/yhxxxnfx0020000442nfx/direct/01/
+4172 DEBUG  [main]  Spider  - Simple Tag :img
+4172 DEBUG  [main]  Spider  - End :a
+4172 DEBUG  [main]  Spider  - End :td
+4172 DEBUG  [main]  Spider  - Start :td
+4172 DEBUG  [main]  Spider  - End :td
+4172 DEBUG  [main]  Spider  - Start :td
+4172 DEBUG  [main]  Spider  - Start :font
+4172 INFO  [main]  Spider  - a http://us.ard.yahoo.com/SIG=12h7btfb9/M=342786.6220037.7757215.2060751/D=yahoo_top/S=2716149:M2/_ylt=A0SOxU3EB9RCOecAyT_1cSkA/Y=YAHOO/EXP=1121199076/A=2859058/R=1/SIG=11u0d4kki/*http://clk.atdmt.com/NFX/go/yhxxxnfx0020000442nfx/direct/01/
+4172 DEBUG  [main]  Spider  - End :a
+4172 DEBUG  [main]  Spider  - Simple Tag :br
+4172 DEBUG  [main]  Spider  - End :font
+4187 DEBUG  [main]  Spider  - End :td
+4187 DEBUG  [main]  Spider  - End :tr
+4187 DEBUG  [main]  Spider  - End :table
+4187 DEBUG  [main]  Spider  - Start :script
+4187 DEBUG  [main]  Spider  - End :script
+4187 DEBUG  [main]  Spider  - Simple Tag :noscript
+4187 DEBUG  [main]  Spider  - Simple Tag :img
+4187 DEBUG  [main]  Spider  - Simple Tag :noscript
+4906 DEBUG  [main]  Spider  - Simple Tag :hr
+4906 INFO  [main]  Spider  - a http://us.ard.yahoo.com/SIG=12hqo0u3b/M=320917.6231461.7757319.5020688/D=yahoo_top/S=2716149:T2/_ylt=A0SOxU3EB9RCOecAyj_1cSkA/Y=YAHOO/EXP=1121199076/A=2859106/R=0/SIG=122r0rop7/*http://www.lowermybills.com/lre/index.jsp?sourceid=lmb-4799-6720
+4906 DEBUG  [main]  Spider  - End :a
+4906 DEBUG  [main]  Spider  - Start :script
+4906 DEBUG  [main]  Spider  - End :script
+4906 DEBUG  [main]  Spider  - Simple Tag :noscript
+4906 DEBUG  [main]  Spider  - Simple Tag :img
+4906 DEBUG  [main]  Spider  - Simple Tag :noscript
+4906 DEBUG  [main]  Spider  - Simple Tag :hr
+4906 INFO  [main]  Spider  - a http://us.ard.yahoo.com/SIG=12hjkv68j/M=347381.6340247.7757313.5020688/D=yahoo_top/S=2716149:T2/_ylt=A0SOxU3EB9RCOecAyz_1cSkA/Y=YAHOO/EXP=1121199076/A=2859097/R=0/SIG=11u4toebf/*http://clk.atdmt.com/NYF/go/yhxxxkap0030000113nyf/direct/01/
+4906 DEBUG  [main]  Spider  - End :a
+4906 DEBUG  [main]  Spider  - Start :script
+4906 DEBUG  [main]  Spider  - End :script
+4906 DEBUG  [main]  Spider  - Simple Tag :noscript
+4906 DEBUG  [main]  Spider  - Simple Tag :img
+4906 DEBUG  [main]  Spider  - Simple Tag :noscript
+4906 DEBUG  [main]  Spider  - Simple Tag :hr
+4906 INFO  [main]  Spider  - a http://us.ard.yahoo.com/SIG=12hs76ogu/M=347176.6332835.7757288.5020688/D=yahoo_top/S=2716149:T2/_ylt=A0SOxU3EB9RCOecAzD_1cSkA/Y=YAHOO/EXP=1121199076/A=2859071/R=0/SIG=126m90c83/*http://www.realtytrac.com/gateway_co.asp?accnt=12204&password=yh2003
+4906 DEBUG  [main]  Spider  - End :a
+4906 DEBUG  [main]  Spider  - Start :script
+4906 DEBUG  [main]  Spider  - End :script
+4906 DEBUG  [main]  Spider  - Simple Tag :noscript
+4906 DEBUG  [main]  Spider  - Simple Tag :img
+4906 DEBUG  [main]  Spider  - Simple Tag :noscript
+4906 DEBUG  [main]  Spider  - End :td
+4906 DEBUG  [main]  Spider  - End :tr
+4906 DEBUG  [main]  Spider  - End :table
+4906 DEBUG  [main]  Spider  - End :td
+4906 DEBUG  [main]  Spider  - End :tr
+4906 DEBUG  [main]  Spider  - End :table
+4906 DEBUG  [main]  Spider  - Start :table
+4906 DEBUG  [main]  Spider  - Start :tr
+4906 DEBUG  [main]  Spider  - Start :td
+4906 DEBUG  [main]  Spider  - Simple Tag :spacer
+4906 DEBUG  [main]  Spider  - End :td
+4906 DEBUG  [main]  Spider  - End :tr
+4906 DEBUG  [main]  Spider  - End :table
+5359 DEBUG  [main]  Spider  - Start :table
+5359 DEBUG  [main]  Spider  - Start :tr
+5359 DEBUG  [main]  Spider  - Start :td
+5359 DEBUG  [main]  Spider  - Start :table
+5359 DEBUG  [main]  Spider  - Start :tr
+5359 DEBUG  [main]  Spider  - Start :td
+5359 DEBUG  [main]  Spider  - Start :font
+5359 DEBUG  [main]  Spider  - End :font
+5359 DEBUG  [main]  Spider  - Start :b
+5359 INFO  [main]  Spider  - a r/wl
+5359 DEBUG  [main]  Spider  - Start :font
+5359 DEBUG  [main]  Spider  - End :font
+5359 DEBUG  [main]  Spider  - End :a
+5359 DEBUG  [main]  Spider  - End :b
+5359 DEBUG  [main]  Spider  - End :td
+5359 DEBUG  [main]  Spider  - Start :td
+5359 DEBUG  [main]  Spider  - Start :font
+5359 DEBUG  [main]  Spider  - Start :b
+5359 DEBUG  [main]  Spider  - End :b
+5359 DEBUG  [main]  Spider  - End :font
+5359 DEBUG  [main]  Spider  - Start :font
+5359 DEBUG  [main]  Spider  - End :font
+5359 DEBUG  [main]  Spider  - End :td
+5359 DEBUG  [main]  Spider  - End :tr
+5359 DEBUG  [main]  Spider  - End :table
+5359 DEBUG  [main]  Spider  - Start :table
+5359 DEBUG  [main]  Spider  - Start :tr
+5359 DEBUG  [main]  Spider  - Start :td
+5359 DEBUG  [main]  Spider  - Start :table
+5359 DEBUG  [main]  Spider  - Start :tr
+5359 DEBUG  [main]  Spider  - Start :td
+5359 DEBUG  [main]  Spider  - Start :font
+5359 INFO  [main]  Spider  - a r/id
+5359 DEBUG  [main]  Spider  - End :a
+5359 DEBUG  [main]  Spider  - Simple Tag :br
+5359 INFO  [main]  Spider  - a r/cc
+5359 DEBUG  [main]  Spider  - End :a
+5359 DEBUG  [main]  Spider  - End :font
+5359 DEBUG  [main]  Spider  - End :td
+5359 DEBUG  [main]  Spider  - Start :td
+5359 DEBUG  [main]  Spider  - Start :font
+5359 INFO  [main]  Spider  - a r/an
+5359 DEBUG  [main]  Spider  - End :a
+5359 DEBUG  [main]  Spider  - Simple Tag :br
+5359 INFO  [main]  Spider  - a r/uk
+5359 DEBUG  [main]  Spider  - End :a
+5359 DEBUG  [main]  Spider  - End :font
+5359 DEBUG  [main]  Spider  - End :td
+5359 DEBUG  [main]  Spider  - Start :td
+5359 DEBUG  [main]  Spider  - Start :font
+5359 INFO  [main]  Spider  - a r/sg
+5359 DEBUG  [main]  Spider  - End :a
+5375 DEBUG  [main]  Spider  - Simple Tag :br
+5375 INFO  [main]  Spider  - a r/ai
+5375 DEBUG  [main]  Spider  - End :a
+5375 DEBUG  [main]  Spider  - End :font
+5375 DEBUG  [main]  Spider  - End :td
+5375 DEBUG  [main]  Spider  - End :tr
+5375 DEBUG  [main]  Spider  - End :table
+5375 DEBUG  [main]  Spider  - Start :table
+5375 DEBUG  [main]  Spider  - Start :tr
+5375 DEBUG  [main]  Spider  - Start :td
+5375 DEBUG  [main]  Spider  - Simple Tag :spacer
+5375 DEBUG  [main]  Spider  - End :td
+5375 DEBUG  [main]  Spider  - End :tr
+5375 DEBUG  [main]  Spider  - End :table
+5375 DEBUG  [main]  Spider  - Start :font
+5375 DEBUG  [main]  Spider  - Start :b
+5375 INFO  [main]  Spider  - a r/gy
+5375 DEBUG  [main]  Spider  - End :a
+5375 DEBUG  [main]  Spider  - End :b
+5375 DEBUG  [main]  Spider  - End :font
+5375 DEBUG  [main]  Spider  - End :td
+5375 DEBUG  [main]  Spider  - End :tr
+5375 DEBUG  [main]  Spider  - End :table
+5375 DEBUG  [main]  Spider  - End :td
+5375 DEBUG  [main]  Spider  - End :tr
+5375 DEBUG  [main]  Spider  - End :table
+5375 DEBUG  [main]  Spider  - Start :table
+5375 DEBUG  [main]  Spider  - Start :tr
+5375 DEBUG  [main]  Spider  - Start :td
+5375 DEBUG  [main]  Spider  - Simple Tag :spacer
+5375 DEBUG  [main]  Spider  - End :td
+5375 DEBUG  [main]  Spider  - End :tr
+5375 DEBUG  [main]  Spider  - End :table
+5375 DEBUG  [main]  Spider  - End :td
+5375 DEBUG  [main]  Spider  - End :tr
+5375 DEBUG  [main]  Spider  - End :table
+5375 DEBUG  [main]  Spider  - Start :table
+5375 DEBUG  [main]  Spider  - Start :tr
+5375 DEBUG  [main]  Spider  - Start :td
+5375 DEBUG  [main]  Spider  - Simple Tag :spacer
+5375 DEBUG  [main]  Spider  - End :td
+5375 DEBUG  [main]  Spider  - End :tr
+5375 DEBUG  [main]  Spider  - End :table
+5797 DEBUG  [main]  Spider  - Start :table
+5797 DEBUG  [main]  Spider  - Start :tr
+5797 DEBUG  [main]  Spider  - Start :td
+5797 DEBUG  [main]  Spider  - Start :table
+5797 DEBUG  [main]  Spider  - Start :tr
+5797 DEBUG  [main]  Spider  - Start :td
+5797 DEBUG  [main]  Spider  - Simple Tag :spacer
+5797 DEBUG  [main]  Spider  - End :td
+5797 DEBUG  [main]  Spider  - End :tr
+5797 DEBUG  [main]  Spider  - End :table
+5797 DEBUG  [main]  Spider  - End :td
+5797 DEBUG  [main]  Spider  - End :tr
+5797 DEBUG  [main]  Spider  - End :table
+5797 DEBUG  [main]  Spider  - Start :table
+5797 DEBUG  [main]  Spider  - Start :tr
+5797 DEBUG  [main]  Spider  - Start :td
+5797 DEBUG  [main]  Spider  - Start :font
+5797 INFO  [main]  Spider  - a r/ad
+5797 DEBUG  [main]  Spider  - End :a
+5797 INFO  [main]  Spider  - a r/cp
+5797 DEBUG  [main]  Spider  - End :a
+5797 INFO  [main]  Spider  - a r/pv
+5797 DEBUG  [main]  Spider  - End :a
+5797 INFO  [main]  Spider  - a r/ts
+5797 DEBUG  [main]  Spider  - End :a
+5797 INFO  [main]  Spider  - a r/hr
+5797 DEBUG  [main]  Spider  - End :a
+5797 INFO  [main]  Spider  - a r/ao
+5797 DEBUG  [main]  Spider  - End :a
+5797 INFO  [main]  Spider  - a r/hw
+5797 DEBUG  [main]  Spider  - End :a
+5797 DEBUG  [main]  Spider  - Simple Tag :br
+5797 INFO  [main]  Spider  - a r/cy
+5797 DEBUG  [main]  Spider  - End :a
+5797 DEBUG  [main]  Spider  - End :font
+5797 DEBUG  [main]  Spider  - End :td
+5797 DEBUG  [main]  Spider  - Start :td
+5797 DEBUG  [main]  Spider  - Start :table
+5812 DEBUG  [main]  Spider  - Start :tr
+5812 DEBUG  [main]  Spider  - Start :td
+5812 INFO  [main]  Spider  - a http://us.ard.yahoo.com/SIG=12iuuv8uq/M=331696.6550468.7545790.6367092/D=yahoo_top/S=2716149:BC1/_ylt=A0SOxU3EB9RCOecAzT_1cSkA/Y=YAHOO/EXP=1121199076/A=2773997/R=0/SIG=1113i4lob/*http://broadway.yahoo.com?loc=0
+5812 DEBUG  [main]  Spider  - Simple Tag :img
+5812 DEBUG  [main]  Spider  - End :a
+5812 DEBUG  [main]  Spider  - End :td
+5812 DEBUG  [main]  Spider  - End :tr
+5812 DEBUG  [main]  Spider  - End :table
+5812 DEBUG  [main]  Spider  - Start :script
+5812 DEBUG  [main]  Spider  - End :script
+5812 DEBUG  [main]  Spider  - Simple Tag :noscript
+6219 DEBUG  [main]  Spider  - Simple Tag :img
+6219 DEBUG  [main]  Spider  - Simple Tag :noscript
+6219 DEBUG  [main]  Spider  - End :td
+6219 DEBUG  [main]  Spider  - End :tr
+6219 DEBUG  [main]  Spider  - End :table
+6219 DEBUG  [main]  Spider  - End :center
+6219 DEBUG  [main]  Spider  - Start :script
+6219 DEBUG  [main]  Spider  - End :script
+6219 DEBUG  [main]  Spider  - Start :script
+6219 DEBUG  [main]  Spider  - End :script
+6219 DEBUG  [main]  Spider  - Start :script
+6234 DEBUG  [main]  Spider  - End :script
+6234 DEBUG  [main]  Spider  - End :body
+6234 DEBUG  [main]  Spider  - End :html
+6234 DEBUG  [main]  Spider  - Start :html
+6234 DEBUG  [main]  Spider  - Start :head
+6234 DEBUG  [main]  Spider  - Start :script
+6234 DEBUG  [main]  Spider  - End :script
+6234 DEBUG  [main]  Spider  - Start :script
+6234 DEBUG  [main]  Spider  - End :script
+6250 DEBUG  [main]  Spider  - End :head
+6250 DEBUG  [main]  Spider  - Start :body
+6250 DEBUG  [main]  Spider  - Simple Tag :img
+6250 DEBUG  [main]  Spider  - Simple Tag :noscript
+12062 DEBUG  [main]  Spider  - End :body
+12062 DEBUG  [main]  Spider  - End :html

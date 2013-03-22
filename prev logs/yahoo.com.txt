@@ -1,0 +1,500 @@
+<html><head>
+<script language=javascript>
+var now=new Date,t1=0,t2=0,t3=0,t4=0,t5=0,t6=0,cc='',ylp='';t1=now.getTime();
+</script>
+<title>Yahoo!</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="PICS-Label" content='(PICS-1.1 "http://www.icra.org/ratingsv02.html" l r (cz 1 lz 1 nz 1 oz 1 vz 1) gen true for "http://www.yahoo.com" r (cz 1 lz 1 nz 1 oz 1 vz 1) "http://www.rsac.org/ratingsv01.html" l r (n 0 s 0 v 0 l 0) gen true for "http://www.yahoo.com" r (n 0 s 0 v 0 l 0))'>
+<base href="http://www.yahoo.com/_ylh=X3oDMTEwZGh2NmNjBF9TAzI3MTYxNDkEdGVzdAMwBHRtcGwDaW5kZXgtdGJs/" target=_top>
+<script language=javascript><!--
+lck='',sss=1121183316,ylp='p.gif?t=1121183316&_ylp=A0Je5iVU5tNCuX4AalX1cSkA',_lcs='';
+--></script><script language=javascript>
+var b,d,l='',n='0',r,s,y;
+y=' '+document.cookie+';';
+if ((b=y.indexOf(' Y=v'))>=0) {
+y=y.substring(b,y.indexOf(';',b))+'&';
+if ((b=y.indexOf('l='))>=0) {
+l=y.substring(b+2,y.indexOf('&',b));
+if((b=y.indexOf('n='))>=0)n=y.substring(b+2,y.indexOf('&',b));
+}
+}
+d=new Date();
+s=Math.round(d.getTime()/1000);
+r=Math.round(parseInt(n,32)%1021);
+if (lck!=l) {
+document.write('<meta http-equiv="Expires" content="-1">');
+if (location.search.indexOf('r'+r+'=')!=1) {
+location.replace('http://'+location.hostname+location.pathname+'?r'+r+'='+s);
+}
+}
+</script>
+<style media=all>
+.ex{min-width:760px;width:47.5em}
+a:link{color:#039;text-decoration:none}
+a:visited{color:#800080;text-decoration:none}
+a:hover{color:#0353a5;text-decoration:underline}
+spacer{display:block}
+form{margin:0}
+</style>
+<script language=javascript>
+d=document;
+agt=navigator.userAgent.toLowerCase();
+win=((agt.indexOf("win")!=-1)||(agt.indexOf("16bit")!=-1));
+d.domain="yahoo.com";
+var _ie=0,now,mon,day,now,hour,min,ampm,time,str,tz,end,beg,_hdi=0;
+now=new Date(sss*1000);
+mon=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec");
+day=new Array("Sun","Mon","Tue","Wed","Thu","Fri","Sat");
+hour=now.getHours();
+min=now.getMinutes();
+ampm=(hour>=12)?"pm":"am";hour=(hour==0)?12:(hour>12)?hour-12:hour;
+min=(min<10)?"0"+min:min;
+tz="";
+time=hour+":"+min+ampm+tz+", <nobr>"+day[now.getDay()]+" "+mon[now.getMonth()]+" "+now.getDate()+"</nobr>";
+</script>
+<script language=javascript>
+function funld() {
+var img=new Image;
+now=new Date;
+t6=now.getTime();
+img.src='http://www.yahoo.com/'+(ylp?ylp:'p.gif?t=0')+cc+'&ni='+document.images.length+'&sss='+sss+'&t1='+t1+'&d1='+(t2-t1)+'&d2='+(t3-t1)+'&d3='+(t4-t1)+'&d4='+(t5-t1)+'&d5='+(t6-t1);
+}
+window.onunload=funld;
+</script>
+</head>
+<body topmargin=7 marginheight=7 link=#003399 vlink=#800080>
+<center><font face=arial size=2>
+<table cellpadding=0 cellspacing=0 border=0 width=760>
+<tr>
+<td valign=top width=33></td>
+<td valign=top align=center width=64><a href=r/25><img src="http://us.i1.yimg.com/us.yimg.com/i/ww/bt1/125.gif" width=36 height=36 border=0 alt=""><br><nobr><font face=verdana size=-2 color=#000000>Finance</font></nobr></a>
+</td>
+<td valign=top align=center width=64><a href=r/3m><img src="http://us.i1.yimg.com/us.yimg.com/i/ww/bt1/13441.gif" width=36 height=36 border=0 alt=""><br><nobr><font face=verdana size=-2 color=#000000>Music</font></nobr></a>
+</td>
+<td valign=top align=center width=64><a href=r/29><img src="http://us.i1.yimg.com/us.yimg.com/i/ww/bt1/136.gif" width=36 height=36 border=0 alt=""><br><nobr><font face=verdana size=-2 color=#000000>Travel</font></nobr></a>
+</td>
+<td valign=top align=center width=232><img src="http://us.a1.yimg.com/us.yimg.com/i/ww/beta/y3.gif" border=0 width=232  height=44 alt="Yahoo!"><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['425pE0Je5FM-']='&U=13albkorh%2fN%3d425pE0Je5FM-%2fC%3d289534.5461226.6542184.5322130%2fD%3dHEADR%2fB%3d2373001';
+</script><noscript><img width=1 height=1 alt="" src="http://bc.us.yahoo.com/b?P=WE0JHEJe5iVc5KhzlRzcDsQHy4Hl9ULT5lQABLZC&T=1423f0i3d%2fX%3d1121183316%2fE%3d2716149%2fR%3dyahoo_top%2fK%3d5%2fV%3d2.1%2fW%3dH%2fY%3dYAHOO%2fF%3d1754096927%2fQ%3d-1%2fS%3d1%2fJ%3d25E65E42&U=13albkorh%2fN%3d425pE0Je5FM-%2fC%3d289534.5461226.6542184.5322130%2fD%3dHEADR%2fB%3d2373001"></noscript></td>
+<td valign=top align=center width=64><a href=r/m1><img src="http://us.i1.yimg.com/us.yimg.com/i/ww/bt1/ml.gif" width=36 height=36 border=0 alt=""><br><nobr><font face=verdana size=-2 color=#000000>Mail</font></nobr></a></td>
+<td valign=top align=center width=64><a href=r/i1><img src="http://us.i1.yimg.com/us.yimg.com/i/ww/bt1/my.gif" width=36 height=36 border=0 alt=""><br><nobr><font face=verdana size=-2 color=#000000>My Yahoo!</font></nobr></a></td>
+<td valign=top align=center width=64><a href=r/p1><img src="http://us.i1.yimg.com/us.yimg.com/i/ww/bt1/msg.gif" width=36 height=36 border=0 alt=""><br><nobr><font face=verdana size=-2 color=#000000>Messenger</font></nobr></a></td>
+<td valign=top width=33>&nbsp;</td>
+</tr>
+</table>
+<br>
+<table cellpadding=1 cellspacing=0 border=0 bgcolor=#99b9e3 width=760 class=ex><tr><td>
+<table cellpadding=5 cellspacing=0 border=0 bgcolor=#d2e4fc width=100%><tr>
+<td align=center><form name=sf1 style="margin-bottom:0" action=r/zz>
+<table cellpadding=0 cellspacing=0 border=0><tr>
+<td nowrap>
+<font face=arial size=-1><b>&nbsp; Search for:&nbsp;</b></font>
+</td>
+<td nowrap>
+<font face=arial size=-1>
+<input type=text size=30 name=p>&nbsp;
+<select name=u>
+<option value="http://search.yahoo.com/search?fr=FP-pull-web-t&ei=UTF-8&p=">on the Web</option>
+<option value="http://images.search.yahoo.com/search/images?fr=FP-pull-img-t&ei=UTF-8&p=">in Images</option>
+<option value="http://video.search.yahoo.com/search/video?fr=FP-pull-vid-t&ei=UTF-8&p=">in Video</option>
+<option value="http://search.yahoo.com/search/dir?fr=FP-pull-dir-t&ei=UTF-8&p=">in Directory</option>
+<option value="http://local.yahoo.com/results?fr=FP-pull-lcl-t&toggle=1&ei=UTF-8&stx=">in Local</option>
+<option value="http://news.search.yahoo.com/search/news?fr=FP-pull-news-t&ei=UTF-8&p=">in News</option>
+<option value="http://shopping.yahoo.com/search;_ylc=X3oDMTFncmo3bG5vBF9HA2dsb2JhbF9ncm91cARfUwMyNzE2MTQ5BHNlYwNzZWFyY2gEc2xrA2J1dHRvbg--?fr=FP-pull-prod-t&cop=mss&ei=UTF-8&p=">in Shopping</option>
+</select>
+<b><input name=sm type=submit value="Yahoo! Search"></b>&nbsp;&nbsp;
+</font>
+</td>
+<td align=left nowrap>
+<font face=arial size=-2>&#149; <a href=r/so>Advanced</a><br>&#149; <a href=r/mk>My Web <img src=http://us.i1.yimg.com/us.yimg.com/i/ww/beta.gif width=17 height=5 border=0 vspace=1></a> &nbsp;</font>
+</td>
+</tr></table>
+</form><span style="margin-top:-1em"></span></td>
+</tr></table>
+</td></tr></table>
+<script language=javascript>
+now=new Date;
+t2=now.getTime();
+</script>
+<table cellpadding=0 cellspacing=0 border=0><tr><td height=10><spacer type=block width=1 height=10></td></tr></table>
+<table cellpadding=0 cellspacing=0 border=0 width=760 class=ex><tr>
+<td align=center>
+<font face=arial color=#666666 size=-1><table border=0 cellspacing=0 cellpadding=0><tr><td><font face=arial size=-1> <a href=s/230961><b>Yahoo! Finance</b></a> - Stretch your dollar. <a href=s/246721>Try Exchange-Traded Funds, a hot investment alternative</a>.</font></td><td></td></tr></table>
+</font>
+</td>
+</tr></table>
+<table cellpadding=0 cellspacing=0 border=0><tr><td height=10><spacer type=block width=1 height=10></td></tr></table>
+<script language=javascript>
+var r0='',ad=0,tnv=0,nv=0,fv=0,ie=0,done=0,cap=0,lan=0,auto=0,altp=0,trk=0,trkb=0,t8=0,t9=0,t10=0;
+function tt(n,s,u) {
+var img=new Image;
+img.src='http://srd.yahoo.com/'+(r0?r0.substring(r0.indexOf('/M=')+1,r0.length-5):'')+'N='+n+(cap+1)+(lan+1)+nv+'/id='+s+'/fv='+fv+'/'+Math.random()+'/*'+(u?u:'1');
+}
+</script>
+<script language=javascript>r0='http://us.ard.yahoo.com/SIG=12i542rr2/M=359085.6803327.7748252.3593767/D=yahoo_top/S=2716149:CAM/_ylt=A0Je5iVU5tNCuX4Aa1X1cSkA/Y=YAHOO/EXP=1121190516/A=2855280/R=0/*';</script><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['5G5pE0Je5FM-']='&U=13800241l%2fN%3d5G5pE0Je5FM-%2fC%3d359085.6803327.7748252.3593767%2fD%3dCAM%2fB%3d2855280';
+</script><noscript><img width=1 height=1 alt="" src="http://bc.us.yahoo.com/b?P=WE0JHEJe5iVc5KhzlRzcDsQHy4Hl9ULT5lQABLZC&T=141qbudtp%2fX%3d1121183316%2fE%3d2716149%2fR%3dyahoo_top%2fK%3d5%2fV%3d2.1%2fW%3dH%2fY%3dYAHOO%2fF%3d358675675%2fQ%3d-1%2fS%3d1%2fJ%3d25E65E42&U=13800241l%2fN%3d5G5pE0Je5FM-%2fC%3d359085.6803327.7748252.3593767%2fD%3dCAM%2fB%3d2855280"></noscript><script language=javascript>
+var red=r0.substring(0,r0.length-5),key1='CRZY1' ,domain='www.yahoo.com',expires=172800000;
+var u1='http://mds.centrport.net/mdsefc?a20412500;1;MGMC9UCC3932P492983B492982S0;B492982';
+var urlw=u1;
+var urlt=u1;
+var urle=u1;
+var dir='http://us.a1.yimg.com/us.yimg.com/a/1-/java/promotions/gm/050712/';
+trk='http://mds.centrport.net/mdsefc?a2125;MGMC9UCC3932P492983B492982S0';
+var img1=dir+'w1.jpg';
+var img1w=440,img1h=160;
+var img1u=urlw;
+var img2=dir+'e1.gif';
+var img2w=300,img2h=100;
+var img2u=urle;
+var txt1='GM Employee Discount';
+var txt1u=urlt;
+var border='3399cc';
+function jp0(r,s,u) {
+return red+'R='+r+(cap+1)+(lan+1)+nv+'/id='+s+(cap?'_cap':'_nocap')+(lan?'_lan':'_dial')+'/*'+u;
+}
+function jp(r,s,u) {
+return jp0(r,s,u);
+}
+function setCook(c,t) {
+var d=new Date;
+d.setTime(d.getTime()+expires);
+document.cookie=c+'=t='+t+'; expires='+d.toGMTString()+'; domain='+domain+'; path=/';
+}
+function getCook(c) {
+var a,s,e,v;
+a=' '+document.cookie+';';
+s=a.indexOf(' '+c+'=');
+if (s==-1) return 0;
+s+=c.length+2;
+e=a.indexOf(';',s);
+v=a.substring(s,e).split('=');
+return parseInt(v[1]);
+}
+var cook=getCook(key1);
+if (!cook) {
+setCook(key1,1);
+cook=getCook(key1);
+if (!cook) {
+done=1;
+} else {
+nv=1;
+}
+} else {
+cook++;
+if (cook> 1 ) done=1;
+setCook(key1,cook);
+nv=tnv=cook;
+if (nv>9) nv=9;
+}
+ad='gm050712' ;
+</script>
+<table cellpadding=0 cellspacing=0 border=0 width=760 class=ex><tr>
+<td valign=top width=58% align=left>
+
+<table cellpadding=0 cellspacing=0 border=0 width=100% height=25 bgcolor=#D2E4FC><tr>
+<td valign=bottom rowspan=3 width=50 height=25 bgcolor=#ffffff><font face=arial size=-1><img src="http://us.i1.yimg.com/us.yimg.com/i/ww/v5_mail_t2.gif" width=50 height=25></font></td>
+<td width=90% colspan=2 bgcolor=#ffffff>   <table cellpadding=0 cellspacing=0 border=0><tr><td height=5><spacer type=block width=1 height=5></td></tr></table>     </td>
+</tr><tr>
+<td bgcolor=#D2E4FC height=1>   <table cellpadding=0 cellspacing=0 border=0><tr><td height=1><spacer type=block width=1 height=1></td></tr></table>     </td>
+<td width=1 rowspan=2 nowrap> <spacer type=block width=1 height=1> </td>
+</tr><tr>
+<td bgcolor=#ffffff width=99%>
+<table cellpadding=1 cellspacing=0 border=0 width=100%><tr>
+<td nowrap><font face=arial size=-1 color=#000000>&nbsp;&nbsp;Check your mail status: <a href=r/l6 style="text-decoration:underline"><b>Sign In</b></a></font></td>
+<td nowrap align=right><font face=arial size=-1>Free mail: <a href=r/m7 style="text-decoration:underline"><b>Sign Up</b></a></font><font size=-2>&nbsp;&nbsp;&nbsp;</font></td>
+</tr></table>
+</td>
+</tr></table>
+<table cellpadding=1 cellspacing=0 border=0 bgcolor=#d2e4fc width=100%><tr><td>
+<table cellpadding=5 cellspacing=0 border=0 width=100%><tr>
+<td bgcolor=#f2f5f7 colspan=4>
+<table cellpadding=5 cellspacing=0 border=0 width=100%><tr>
+<td width=25%>
+<font face=arial size=-1>
+<a href=r/cr>Autos</a><br>
+<a href=r/yc>Chat</a><br>
+<a href=r/sq>Finance</a><br>
+<a href=r/pl>Games</a><br>
+<a href=r/g3>GeoCities</a><br>
+<a href=r/gp>Groups</a><br>
+<a href=r/wm>Health</a>
+</font>
+</td>
+<td width=25%>
+<font face=arial size=-1>
+<a href=r/h1>Horoscopes</a><br>
+<a href=r/jb>HotJobs <img src=http://us.i1.yimg.com/us.yimg.com/i/ww/new.gif vspace=4 border=0></a><br>
+<a href=r/yg>Kids</a><br>
+<a href=r/m2>Mail</a><br>
+<a href=r/mp>Maps</a><br>
+<a href=r/p2>Messenger</a><br>
+<a href=r/oa>Mobile</a>
+</font>
+</td>
+<td width=25%>
+<font face=arial size=-1>
+<a href=r/mf>Movies</a><br>
+<a href=r/uf>Music</a><br>
+<a href=r/i2>My Yahoo!</a><br>
+<a href=r/dn>News</a><br>
+<a href=r/ps>People Search</a><br>
+<a href=r/pr>Personals</a><br>
+<a href=r/fo>Photos</a>
+</font>
+</td>
+<td width=25%>
+<font face=arial size=-1>
+<a href=r/r1>Real Estate</a><br>
+<a href=r/sh>Shopping</a><br>
+<a href=r/ys>Sports</a><br>
+<a href=r/ta>Travel</a><br>
+<a href=r/tg>TV</a><br>
+<a href=r/yp>Yellow Pages</a><br>
+</font>
+<font face=verdana size=-2><b><a href=r/xy>All Y! Services...</a></b></font>
+</td>
+</tr></table>
+</td>
+</tr></table>
+</td></tr></table>
+<table cellpadding=0 cellspacing=0 border=0><tr><td height=10><spacer type=block width=1 height=10></td></tr></table>
+<script language=javascript>
+if (ad) {
+document.write('<div id=adiv1');
+document.write('><table cellpadding=0 cellspacing=0 border=0 width=440><tr><td>');
+document.write('<a href="'+jp(2,'wimg1',img1u)+'"><img src='+img1+' width='+img1w+' height='+img1h+' border=0></a>');
+document.write('</td></tr></table></div>');
+document.write('<table cellpadding=0 cellspacing=0 border=0 width=440><tr><td align=center height=16><font face=verdana size=-2>');
+document.write('</font></td></tr></table>');
+}
+</script>
+<table cellpadding=0 cellspacing=0 border=0><tr><td height=10><spacer type=block width=1 height=10></td></tr></table>
+<table cellpadding=0 cellspacing=0 border=0 width=100%><tr>
+<td valign=top width=48%>
+<table cellpadding=1 cellspacing=0 border=0 bgcolor=#d2e4fc width=100%><tr><td>
+<table cellpadding=1 cellspacing=0 border=0 width=100%><tr><td nowrap width=70%><font size=-2>&nbsp;&nbsp;&nbsp;</font><b><a href=r/c9><font face=arial size=-1 color="#000000">Yahoo! Small Business</font></a></b></td><td nowrap align=right><font face=verdana size=-2><b></b></font><font size=-2>&nbsp;&nbsp;&nbsp;</font></td></tr></table>
+<table cellpadding=0 cellspacing=0 border=0 width=100% bgcolor=#ffffff><tr>
+<td valign=top>
+<table cellpadding=0 cellspacing=0 border=0><tr><td height=10><spacer type=block width=1 height=10></td></tr></table>
+<table cellpadding=0 cellspacing=0 border=0 width=100%><tr>
+<td width=5 rowspan=2>&nbsp;</td>
+<td valign=top><font face=arial size=-1><a href=r/h9>Web Hosting</a></font></td>
+<td valign=top><font face=arial size=-1><a href=r/e9>Sell Online</a></font></td>
+<td width=5 rowspan=2>&nbsp;</td>
+</tr><tr>
+<td><font face=arial size=-1><a href=r/d9>Domain Names</a><!-- SpaceID=2716149 loc=MM2 noad-spid -->
+</font></td>
+<td><font face=arial size=-1><a href=r/oi>Search Marketing</a></font></td>
+</tr></table>
+<table cellpadding=0 cellspacing=0 border=0><tr><td height=10><spacer type=block width=1 height=10></td></tr></table>
+</td>
+</tr></table>
+</td></tr></table>
+</td>
+<td width=10> <spacer type=block width=10 height=1> </td>
+<td valign=top width=48%>
+<table cellpadding=1 cellspacing=0 border=0 bgcolor=#d2e4fc width=100%><tr><td>
+<table cellpadding=1 cellspacing=0 border=0 width=100%><tr><td nowrap width=70%><font size=-2>&nbsp;&nbsp;&nbsp;</font><b><a href=r/b9><font face=arial size=-1 color="#000000">Yahoo! Featured</font></a></b></td><td nowrap align=right><font face=verdana size=-2><b></b></font><font size=-2>&nbsp;&nbsp;&nbsp;</font></td></tr></table>
+<table cellpadding=10 cellspacing=0 border=0 width=100% bgcolor=#ffffff><tr>
+<td valign=top>
+<table cellpadding=0 cellspacing=0 border=0 width=100%><tr>
+<td><font face=arial size=-1><a href="http://us.ard.yahoo.com/SIG=12ji417a6/M=261366.4008387.5258380.3595621/D=yahoo_top/S=2716149:FPC1/_ylt=A0Je5iVU5tNCuX4AbFX1cSkA/Y=YAHOO/EXP=1121190516/A=1798789/R=0/SIG=1124qkssh/*http://geocities.yahoo.com/home/">Personal Website</a></font></td>
+<td><font face=arial size=-1><a href=r/do>Downloads</a><!-- SpaceID=2716149 loc=TST1 noad -->
+<script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['525pE0Je5FM-']='&U=128gg1mgk%2fN%3d525pE0Je5FM-%2fC%3d-1%2fD%3dTST1%2fB%3d-1';
+</script><noscript><img width=1 height=1 alt="" src="http://bc.us.yahoo.com/b?P=WE0JHEJe5iVc5KhzlRzcDsQHy4Hl9ULT5lQABLZC&T=142luqvte%2fX%3d1121183316%2fE%3d2716149%2fR%3dyahoo_top%2fK%3d5%2fV%3d2.1%2fW%3dH%2fY%3dYAHOO%2fF%3d2411535651%2fQ%3d-1%2fS%3d1%2fJ%3d25E65E42&U=128gg1mgk%2fN%3d525pE0Je5FM-%2fC%3d-1%2fD%3dTST1%2fB%3d-1"></noscript></font></td>
+</tr><tr>
+<td><font face=arial size=-1><a href="http://us.ard.yahoo.com/SIG=12je6rl6q/M=351034.6608705.7568495.3595627/D=yahoo_top/S=2716149:FPC4/_ylt=A0Je5iVU5tNCuX4AbVX1cSkA/Y=YAHOO/EXP=1121190516/A=2780539/R=0/SIG=13mgvrn8j/*http://football.fantasysports.yahoo.com?ovchn=YAH&ovcpn=Front+Page&ovcrn=FP+Premium+Services+Link&ovrfd=YAH&ovtac=AD">Fantasy Football</a></font></td>
+<td><font face=arial size=-1><a href=r/em>HotJobs</a></font></td>
+</tr></table>
+</td>
+</tr></table>
+</td></tr></table>
+</td>
+</tr></table>
+<table cellpadding=0 cellspacing=0 border=0><tr><td height=10><spacer type=block width=1 height=10></td></tr></table>
+<table cellpadding=1 cellspacing=0 border=0 bgcolor=#d2e4fc width=100%><tr><td>
+<table cellpadding=1 cellspacing=0 border=0 width=100%><tr><td nowrap width=70%><font size=-2>&nbsp;&nbsp;&nbsp;</font><b><a href=r/ye><font face=arial size=-1 color="#000000">Entertainment</font></a></b></td><td nowrap align=right><font face=verdana size=-2><b><a href=r/yf>&raquo; More Entertainment</a></b></font><font size=-2>&nbsp;&nbsp;&nbsp;</font></td></tr></table>
+<table cellpadding=10 cellspacing=0 border=0 width=100% bgcolor=#ffffff><tr>
+<td valign=top>
+<table cellpadding=0 cellspacing=0 border=0 width=100%><tr>
+<td valign=top><font face=verdana size=-2><a href=s/246751><img src="http://us.i1.yimg.com/us.yimg.com/i/tv/michaeljackson104.jpg" alt="Michael Jackson" width=104 height=60 border=0><br><cite>More Legal Woes</cite></a>
+</font></td>
+<td rowspan=2 width=10>&nbsp;&nbsp;&nbsp;</td>
+<td width=90% valign=top><font face=arial size=-1>&#149;&nbsp;<a href=s/246748>Financial firm sues Michael Jackson for $48M</a><br>&#149;&nbsp;<a href=s/246756>Pregnant Spears causes commotion at premiere</a><br>&#149;&nbsp;<a href=s/246733>'Desperate Housewives,' 'Lost' lead Emmy faves</a><br>&#149;&nbsp;<!--[if IE]><a href=s/246746>Music video premiere: Nine Inch Nails - 'Only'</a><![endif]--><![if !IE]><a href=s/238189>Today's TV Picks</a>  - <a href=s/240778>Comics</a> - <a href=s/238191>Daily Horoscopes</a><![endif]>
+<br></font></td>
+</tr></table>
+</td>
+</tr></table>
+</td></tr></table>
+<table cellpadding=0 cellspacing=0 border=0><tr><td height=10><spacer type=block width=1 height=10></td></tr></table>
+<table cellpadding=1 cellspacing=0 border=0 bgcolor=#d2e4fc width=100%><tr><td>
+<table cellpadding=1 cellspacing=0 border=0 width=100%><tr><td nowrap width=70%><font size=-2>&nbsp;&nbsp;&nbsp;</font><b><a href=r/z5><font face=arial size=-1 color="#000000">Buzz Log - What the world is searching for</font></a></b></td><td nowrap align=right><font face=verdana size=-2><b><a href=r/z6>&raquo; More Buzz</a></b></font><font size=-2>&nbsp;&nbsp;&nbsp;</font></td></tr></table>
+<table cellpadding=10 cellspacing=0 border=0 width=100% bgcolor=#ffffff><tr>
+<td valign=top>
+<table cellpadding=0 cellspacing=0 border=0 width=100%><tr>
+<td rowspan=2 valign=top><font face=verdana size=-2>
+<a href=s/246757 id=tpb><img width=104 height=60 src=http://us.i1.yimg.com/us.yimg.com/i/buzz/2005/07/0712hellokittysmall.jpg
+alt="Hello Kitty" border=0><br><cite>Unique Hello Kitty</cite></a>
+</font></td>
+<td rowspan=2 width=10>&nbsp;&nbsp;&nbsp;</td>
+<td valign=top>
+<table cellpadding=0 cellspacing=0 border=0 width=100% class=bd><tr>
+<td colspan=2><font face=arial size=-1>
+We investigate buzz in the Hello Kitty universe and find a few odd searches on the iconic cat. <a href=s/246758><font face=verdana size=-2><b>More...</b></font></a>
+</font></td>
+</tr><tr>
+<td colspan=2><font face=verdana size=-2><b>Popular Hello Kitty Searches</b></font></td>
+</tr><tr>
+<td valign=top width=50% class=lh><font face=verdana size=-2>
+1. <a href=s/246759>Hello Kitty Pictures</a><br>
+2. <a href=s/246760>Hello Kitty Wallpaper</a>
+</font></td>
+<td valign=top width=50% class=lh><font face=verdana size=-2>
+3. <a href=s/246761>Hello Kitty Games</a>&nbsp;<br>
+4. <a href=s/246762>Hello Kitty Store</a>
+</font></td>
+</tr></table>
+</td>
+</tr></table>
+</td>
+</tr></table>
+</td></tr></table>
+<table cellpadding=0 cellspacing=0 border=0><tr><td height=10><spacer type=block width=1 height=10></td></tr></table>
+<table cellpadding=1 cellspacing=0 border=0 bgcolor=#d2e4fc width=100%><tr><td>
+<table cellpadding=1 cellspacing=0 border=0 width=100%><tr><td nowrap width=70%><font size=-2>&nbsp;&nbsp;&nbsp;</font><b><a href=r/xd><font face=arial size=-1 color="#000000">Yahoo! Web Directory</font></a></b></td><td nowrap align=right><font face=verdana size=-2><b><a href=r/yd>&raquo; More Yahoo! Web Directory</a></b></font><font size=-2>&nbsp;&nbsp;&nbsp;</font></td></tr></table>
+<table cellpadding=10 cellspacing=0 border=0 width=100% bgcolor=#ffffff><tr>
+<td valign=top>
+<table cellpadding=0 cellspacing=0 border=0 width=100%><tr>
+<td width=25% valign=top><font face=arial size=-1>
+<a href=r/ar>Arts</a><br>
+<a href=r/bu>Business</a><br>
+<a href=r/ci>Computers</a>
+</font></td>
+<td width=25% valign=top><font face=arial size=-1>
+<a href=r/ed>Education</a><br>
+<a href=r/en>Entertainment</a><br>
+<a href=r/he>Health</a>
+</font></td>
+<td width=25% valign=top><font face=arial size=-1>
+<a href=r/nm>News</a><br>
+<a href=r/rs>Recreation</a><br>
+<a href=r/rf>Reference</a>
+</font></td>
+<td width=25% valign=top><font face=arial size=-1>
+<a href=r/re>Regional</a><br>
+<a href=r/sc>Science</a><br>
+<a href=r/cu>Society</a>
+</font></td>
+</tr></table>
+</td>
+</tr></table>
+</td></tr></table>
+<table cellpadding=0 cellspacing=0 border=0><tr><td height=10><spacer type=block width=1 height=10></td></tr></table>
+<table cellpadding=1 cellspacing=0 border=0 bgcolor=#d2e4fc width=100%><tr><td>
+<table cellpadding=1 cellspacing=0 border=0 width=100%><tr><td nowrap width=70%><font size=-2>&nbsp;&nbsp;&nbsp;</font><b><a href=r/xz><font face=arial size=-1 color="#000000">More Yahoo! Services</font></a></b></td><td nowrap align=right><font face=verdana size=-2><b><a href=r/yz>&raquo; More Yahoo! Services</a></b></font><font size=-2>&nbsp;&nbsp;&nbsp;</font></td></tr></table>
+<table cellpadding=10 bgcolor=#ffffff cellspacing=0 border=0 width=100%><tr>
+<td valign=top>
+<table cellpadding=0 cellspacing=0 border=0 width=100%><tr>
+<td width=25% valign=top><font face=arial size=-1>
+<a href=r/3t>360&#176; <img src="http://us.i1.yimg.com/us.yimg.com/i/ww/beta.gif" width=17 height=5 alt="" vspace=5 border=0></a><br>
+<a href=r/a2>Auctions</a>
+</font></td>
+<td width=25% valign=top><font face=arial size=-1>
+<a href=r/ca>Calendar</a><br>
+<a href=r/cf>Classifieds</a>
+</font></td>
+<td width=25% valign=top><font face=arial size=-1>
+<a href=r/eu>Education</a><br>
+<a href=r/gr>Greetings</a>
+</font></td>
+<td width=25% valign=top><font face=arial size=-1>
+<a href=r/pf>Members</a><br>
+<a href=r/pt>Pets</a>
+</font></td>
+</tr></table>
+</td>
+</tr></table>
+</td></tr></table>
+<table cellpadding=0 cellspacing=0 border=0><tr><td height=10><spacer type=block width=1 height=10></td></tr></table>
+</td>
+<td width=20 style="width:20px"><spacer type=block width=20 height=1></td>
+<script language=javascript>
+now=new Date;
+t3=now.getTime();
+</script>
+<td valign=top align=left width=39%>
+<script language=javascript>
+if (ad) {
+document.write('<div id=adiv2');
+document.write('>');
+document.write('<a href="'+jp(4,'eimg2',img2u)+'"><img border=0 src="'+img2+'" alt="'+txt1+'" height='+img2h+' width='+img2w+'></a>');
+document.write('</div><table cellspacing=0 cellpadding=2 border=0 width=100%><tr><td align=center><font face=verdana size=-2><b><a href="'+jp(5,'etxt1',txt1u)+'">'+txt1+'</a></b>');
+document.write('</font></td></tr></table>');
+}
+</script>
+<table cellpadding=0 cellspacing=0 border=0><tr><td height=10><spacer type=block width=1 height=10></td></tr></table>
+<table cellpadding=1 cellspacing=0 border=0 bgcolor=#9b72cf width=100%><tr><td>
+<table cellpadding=1 cellspacing=0 border=0 width=100%><tr><td nowrap width=70%><font size=-2>&nbsp;&nbsp;&nbsp;</font><b><a href=r/d2><font face=arial size=-1 color="#ffffff">In the News</font></a></b></td><td nowrap align=right><font face=verdana size=-2><font face=verdana size=-2 color="#ffffff"><script language=javascript>document.write(time);</script></font></font><font size=-2>&nbsp;&nbsp;&nbsp;</font></td></tr></table>
+<table cellpadding=10 cellspacing=0 border=0 width=100% bgcolor=#f1f1fd><tr>
+<td valign=top><font face=arial size=-1>
+&#149;&nbsp;<a href=s/246266>Report: All bombers died in London attacks</a><br>&#149;&nbsp;<a href=s/239904>Iraq: Troops can withdraw from some cities</a><br>&#149;&nbsp;<a href=s/240238>White House still silent on Rove evidence</a><br>&#149;&nbsp;<a href=s/246770>Four explosions rock Spain power station</a><br>&#149;&nbsp;<a href=s/241484>NASA confident shuttle will launch on time</a><br>&#149;&nbsp;<a href=s/243218>Fla. residents assess hurricane damage</a><br>&#149;&nbsp;<a href=s/246773>Suspect in van Gogh slaying admits guilt</a><br>&#149;&nbsp;<a href=s/246775>Paris mayor rules out 2016 Olympic bid</a><br>
+<table cellpadding=0 cellspacing=0 border=0><tr><td height=5><spacer type=block width=1 height=5></td></tr></table>
+<table cellpadding=0 cellspacing=0 border=0 bgcolor="#cccccc" width=100%><tr><td height=1><spacer type=block width=1 height=1></td></tr></table><span style="margin-top:-1em"></span><table cellpadding=0 cellspacing=0 border=0 width=100%><tr><td valign=center nowrap><font face=verdana size=-3><a href=r/f3>Markets</a>:<br>Dow <font color="#d52d2d">-0.3%</font> &#183; Nasdaq <font color="#d52d2d">-0.1%</font></font></td><form name=fq action="r/f4/*-http://finance.yahoo.com/q"><td valign=center><font face=verdana size=-3><a id=sq href=r/f4>Stock Quotes:</a><br><input type=text name=s size=4 title="Enter stock ticker symbol"> <input type=submit value="Go"></font></td></form></tr></table><table cellpadding=0 cellspacing=0 border=0 bgcolor="#cccccc" width=100%><tr><td height=1><spacer type=block width=1 height=1></td></tr></table>
+<table cellpadding=0 cellspacing=0 border=0><tr><td height=5><spacer type=block width=1 height=5></td></tr></table>
+<font face=verdana size=-3><b><a href=r/xn>News</a> &#183; <a href=r/me>Popular</a> &#183; <a href=r/s2>Sports</a> &#183; <a href=r/f2>Stocks</a></b></font>
+</font></td>
+</tr></table>
+</td></tr></table>
+<table cellpadding=0 cellspacing=0 border=0><tr><td height=10><spacer type=block width=1 height=10></td></tr></table>
+<table cellpadding=1 cellspacing=0 border=0 bgcolor=#9b72cf width=100%><tr><td>
+<table cellpadding=1 cellspacing=0 border=0 width=100%><tr><td nowrap width=70%><font size=-2>&nbsp;&nbsp;&nbsp;</font><b><a href=r/wt><font face=arial size=-1 color="#ffffff">Weather</font></a></b></td><td nowrap align=right><font face=verdana size=-2><b></b></font><font size=-2>&nbsp;&nbsp;&nbsp;</font></td></tr></table>
+<table cellpadding=10 cellspacing=0 border=0 width=100% bgcolor=#f1f1fd><tr>
+<td colspan=2 valign=top><font face=arial size=-1>
+<form action="r/w8/*http://weather.yahoo.com/search/weather2">
+<table cellpadding=0 cellspacing=0 border=0 width=100%><tr>
+<td colspan=2><font face=verdana size=-2><label for=z>Enter City or U.S. Zip Code</label></font></td>
+</tr><tr>
+<td colspan=2 height=5>
+<spacer type=block width=1 height=5>
+</td>
+</tr><tr>
+<td><img src="http://us.i1.yimg.com/us.yimg.com/i/ww/beta/wthr.gif" width=36 height=28></td>
+<td><font face=verdana size=-2><input type=text name=p> <input type=submit value=Go></font></td>
+</tr><tr>
+<td colspan=2 height=5>
+<spacer type=block width=1 height=5>
+</td>
+</tr><tr>
+<td colspan=2><table cellpadding=0 cellspacing=0 border=0 width=100%><tr>
+<td width=5><font face=verdana size=-2><input type=checkbox id=we name=sv value=on checked></font></td>
+<td><font face=verdana size=-2><label for=we>Save location on this page</label></font></td>
+</tr></table></td>
+<span style="margin-top:-1em"></span>
+</tr></table>
+</form>
+</font></td>
+</tr></table>
+</td></tr></table>
+<table cellpadding=0 cellspacing=0 border=0><tr><td height=10><spacer type=block width=1 height=10></td></tr></table>
+<table cellpadding=1 cellspacing=0 border=0 bgcolor=#9b72cf width=100%><tr><td>
+<table cellpadding=1 cellspacing=0 border=0 width=100%><tr><td nowrap width=70%><font size=-2>&nbsp;&nbsp;&nbsp;</font><b><a href=r/0v><font face=arial size=-1 color="#ffffff">Marketplace</font></a></b></td><td nowrap align=right><font face=verdana size=-2><b></b></font><font size=-2>&nbsp;&nbsp;&nbsp;</font></td></tr></table>
+<table cellpadding=10 cellspacing=0 border=0 width=100% bgcolor=#f1f1fd><tr>
+<td valign=top><font face=arial size=-1>
+<table border=0 cellpadding=0 cellspacing=0 width="100%"><tr><td valign=top><a href="http://us.ard.yahoo.com/SIG=12h6mh5u7/M=342786.6220037.7757215.2060751/D=yahoo_top/S=2716149:M2/_ylt=A0Je5iVU5tNCuX4AblX1cSkA/Y=YAHOO/EXP=1121190516/A=2859058/R=0/SIG=11u0d4kki/*http://clk.atdmt.com/NFX/go/yhxxxnfx0020000442nfx/direct/01/"><img src="http://us.a1.yimg.com/us.yimg.com/a/1-/flash/promotions/netflix/050713/70ilt.gif" width=70 height=70 border=0></a></td><td width=8>&nbsp;</td><td valign=top><font face=arial size=-1><a href="http://us.ard.yahoo.com/SIG=12h6mh5u7/M=342786.6220037.7757215.2060751/D=yahoo_top/S=2716149:M2/_ylt=A0Je5iVU5tNCuX4AblX1cSkA/Y=YAHOO/EXP=1121190516/A=2859058/R=1/SIG=11u0d4kki/*http://clk.atdmt.com/NFX/go/yhxxxnfx0020000442nfx/direct/01/">Netflix - only $9.99/month</a><br>DVD rentals delivered to you &#150; No late fees &#150; Free shipping &#150; 45,000+ titles. Try free.</font></td></tr></table><script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['6W5pE0Je5FM-']='&U=137mdf2n4%2fN%3d6W5pE0Je5FM-%2fC%3d342786.6220037.7757215.2060751%2fD%3dM2%2fB%3d2859058';
+</script><noscript><img width=1 height=1 alt="" src="http://bc.us.yahoo.com/b?P=WE0JHEJe5iVc5KhzlRzcDsQHy4Hl9ULT5lQABLZC&T=141qtd7mn%2fX%3d1121183316%2fE%3d2716149%2fR%3dyahoo_top%2fK%3d5%2fV%3d2.1%2fW%3dH%2fY%3dYAHOO%2fF%3d504128933%2fQ%3d-1%2fS%3d1%2fJ%3d25E65E42&U=137mdf2n4%2fN%3d6W5pE0Je5FM-%2fC%3d342786.6220037.7757215.2060751%2fD%3dM2%2fB%3d2859058"></noscript><hr size=1 noshade><a href="http://us.ard.yahoo.com/SIG=12h5p1kbc/M=320917.6231461.7757319.5020688/D=yahoo_top/S=2716149:T2/_ylt=A0Je5iVU5tNCuX4Ab1X1cSkA/Y=YAHOO/EXP=1121190516/A=2859107/R=0/SIG=122hq4dl7/*http://www.lowermybills.com/lre/index.jsp?sourceid=lmb-4799-6721">Mortgage rates fall again</a> - $160,000 mortgage for under $785/month.<script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['6m5pE0Je5FM-']='&U=137sogpql%2fN%3d6m5pE0Je5FM-%2fC%3d320917.6231461.7757319.5020688%2fD%3dT2%2fB%3d2859107';
+</script><noscript><img width=1 height=1 alt="" src="http://bc.us.yahoo.com/b?P=WE0JHEJe5iVc5KhzlRzcDsQHy4Hl9ULT5lQABLZC&T=1420jp7en%2fX%3d1121183316%2fE%3d2716149%2fR%3dyahoo_top%2fK%3d5%2fV%3d2.1%2fW%3dH%2fY%3dYAHOO%2fF%3d2777999532%2fQ%3d-1%2fS%3d1%2fJ%3d25E65E42&U=137sogpql%2fN%3d6m5pE0Je5FM-%2fC%3d320917.6231461.7757319.5020688%2fD%3dT2%2fB%3d2859107"></noscript><hr size=1 noshade><a href="http://us.ard.yahoo.com/SIG=12hkgnvl5/M=347176.6332835.7757288.5020688/D=yahoo_top/S=2716149:T2/_ylt=A0Je5iVU5tNCuX4AcFX1cSkA/Y=YAHOO/EXP=1121190516/A=2859071/R=0/SIG=126m90c83/*http://www.realtytrac.com/gateway_co.asp?accnt=12204&password=yh2003">Buy a home for 1/2 price?</a> - Search 500,000 foreclosure and bank homes.<script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['625pE0Je5FM-']='&U=13770tlht%2fN%3d625pE0Je5FM-%2fC%3d347176.6332835.7757288.5020688%2fD%3dT2%2fB%3d2859071';
+</script><noscript><img width=1 height=1 alt="" src="http://bc.us.yahoo.com/b?P=WE0JHEJe5iVc5KhzlRzcDsQHy4Hl9ULT5lQABLZC&T=142h9ita6%2fX%3d1121183316%2fE%3d2716149%2fR%3dyahoo_top%2fK%3d5%2fV%3d2.1%2fW%3dH%2fY%3dYAHOO%2fF%3d1303275516%2fQ%3d-1%2fS%3d1%2fJ%3d25E65E42&U=13770tlht%2fN%3d625pE0Je5FM-%2fC%3d347176.6332835.7757288.5020688%2fD%3dT2%2fB%3d2859071"></noscript><hr size=1 noshade><a href="http://us.ard.yahoo.com/SIG=12h6q29cc/M=347381.6340247.7757313.5020688/D=yahoo_top/S=2716149:T2/_ylt=A0Je5iVU5tNCuX4AcVX1cSkA/Y=YAHOO/EXP=1121190516/A=2859097/R=0/SIG=11u4toebf/*http://clk.atdmt.com/NYF/go/yhxxxkap0030000113nyf/direct/01/">Exciting career options for Health Care Professionals</a> - Learn more.<script language=javascript>
+if(window.yzq_d==null)window.yzq_d=new Object();
+window.yzq_d['7G5pE0Je5FM-']='&U=137v1cq1j%2fN%3d7G5pE0Je5FM-%2fC%3d347381.6340247.7757313.5020688%2fD%3dT2%2fB%3d2859097';
+</script><noscript><img width=1 height=1 alt="" src="http://bc.us.yahoo.com/b?P=WE0JHEJe5iVc5KhzlRzcDsQHy4Hl9ULT5lQABLZC&T=14196ejnh%2fX%3d1121183316%2fE%3d2716149%2fR%3dyahoo_top%2fK%3d5%2fV%3d2.1%2fW%3dH%2fY%3dYAHOO%2fF%3d386978115%2fQ%3d-1%2fS%3d1%2fJ%3d25E65E42&U=137v1cq1j%2fN%3d7G5pE

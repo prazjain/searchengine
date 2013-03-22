@@ -1,0 +1,19 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>Search Engine</label>
+	</settings>
+	<users>
+		<user>
+			<path>Project.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Crawler\Crawler.jcp</path>
+		</project>
+		<project>
+			<path>Web\Web.jcp</path>
+		</project>
+	</projects>
+</workspace>

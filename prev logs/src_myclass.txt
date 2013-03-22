@@ -1,0 +1,3 @@
+"C:\\Program Files\\Xinox Software\\JCreatorV3 LE\\MyProjects\\MyClass\\src\\ISpiderReportable.java"
+"C:\\Program Files\\Xinox Software\\JCreatorV3 LE\\MyProjects\\MyClass\\src\\Spider.java"
+"C:\\Program Files\\Xinox Software\\JCreatorV3 LE\\MyProjects\\MyClass\\src\\SpiderWorker.java"

@@ -1,0 +1,16 @@
+
+create table wordbank (
+	wordid number(10) primary key, word  varchar2(100));
+
+create table wordlinkmap( 
+	wordid number(10) , rid varchar2(100),
+	primary key ( wordid , rid ));
+
+/*
+create table linkbank (
+	id number(10) primary key, link varchar2(255) 
+);
+
+*/
+
+create table linkbank(link varchar2(255) primary key);

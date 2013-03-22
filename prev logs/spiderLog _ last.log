@@ -1,0 +1,106 @@
+0 INFO  [main]  Spider  - meta --- content=Java, platform name=keywords 
+0 INFO  [main]  Spider  - External Link :http://www.sun.com
+5062 INFO  [main]  Spider  - External Link :http://developers.sun.com/dispatcher.jsp?uid=6910020
+5062 INFO  [main]  Spider  - Internal Link :http://java.sun.com
+5062 INFO  [main]  Spider  - External Link :http://developers.sun.com
+6562 INFO  [main]  Spider  - External Link :http://developers.sun.com/dispatcher.jsp?uid=6910023
+6578 INFO  [main]  Spider  - External Link :http://developers.sun.com/dispatcher.jsp?uid=6910024
+6578 INFO  [main]  Spider  - External Link :http://developers.sun.com/index.html
+6578 INFO  [main]  Spider  - External Link :http://developers.sun.com/prodtech/index.html
+6593 INFO  [main]  Spider  - External Link :http://developers.sun.com/dispatcher.jsp?uid=6910021
+6593 INFO  [main]  Spider  - External Link :http://developers.sun.com/dispatcher.jsp?uid=6910026
+6593 INFO  [main]  Spider  - External Link :http://developers.sun.com/dispatcher.jsp?uid=6910021
+6593 INFO  [main]  Spider  - External Link :http://developers.sun.com/user_registration/whyregister.html
+6593 INFO  [main]  Spider  - starts With '/' :/downloads/index.html  - http://java.sun.com/downloads/index.html
+6593 INFO  [main]  Spider  - starts With '/' :/downloads/ea/index.html  - http://java.sun.com/downloads/ea/index.html
+6593 INFO  [main]  Spider  - starts With '/' :/downloads/tools/index.html  - http://java.sun.com/downloads/tools/index.html
+6609 INFO  [main]  Spider  - starts With '/' :/reference/index.html  - http://java.sun.com/reference/index.html
+16093 INFO  [main]  Spider  - starts With '/' :/reference/api/index.html  - http://java.sun.com/reference/api/index.html
+16093 INFO  [main]  Spider  - starts With '/' :/reference/codesamples/index.html  - http://java.sun.com/reference/codesamples/index.html
+16093 INFO  [main]  Spider  - starts With '/' :/reference/docs/index.html  - http://java.sun.com/reference/docs/index.html
+16093 INFO  [main]  Spider  - starts With '/' :/reference/blueprints/index.html  - http://java.sun.com/reference/blueprints/index.html
+16093 INFO  [main]  Spider  - starts With '/' :/reference/techart/index.html  - http://java.sun.com/reference/techart/index.html
+16093 INFO  [main]  Spider  - starts With '/' :/reference/index.html   - http://java.sun.com/reference/index.html 
+16093 INFO  [main]  Spider  - starts With '/' :/community/index.html  - http://java.sun.com/community/index.html
+16093 INFO  [main]  Spider  - External Link :http://forum.java.sun.com
+17968 INFO  [main]  Spider  - External Link :http://bugs.sun.com/bugdatabase
+17968 INFO  [main]  Spider  - starts With '/' :/developer/community/chat/  - http://java.sun.com/developer/community/chat/
+17968 INFO  [main]  Spider  - starts With '/' :/community/usergroups/index.html  - http://java.sun.com/community/usergroups/index.html
+17968 INFO  [main]  Spider  - starts With '/' :/community/newsletters/index.html  - http://java.sun.com/community/newsletters/index.html
+17968 INFO  [main]  Spider  - starts With '/' :/community/books/index.html  - http://java.sun.com/community/books/index.html
+17968 INFO  [main]  Spider  - starts With '/' :/developer/blogs/index.html  - http://java.sun.com/developer/blogs/index.html
+17968 INFO  [main]  Spider  - starts With '/' :/news/index.html  - http://java.sun.com/news/index.html
+17968 INFO  [main]  Spider  - starts With '/' :/learning/index.html  - http://java.sun.com/learning/index.html
+33172 INFO  [main]  Spider  - starts With '/' :/learning/new2java/index.html  - http://java.sun.com/learning/new2java/index.html
+33187 INFO  [main]  Spider  - starts With '/' :/learning/tutorial/index.html  - http://java.sun.com/learning/tutorial/index.html
+33187 INFO  [main]  Spider  - starts With '/' :/learning/training/index.html  - http://java.sun.com/learning/training/index.html
+33187 INFO  [main]  Spider  - starts With '/' :/learning/coursecert/index.html  - http://java.sun.com/learning/coursecert/index.html
+33187 INFO  [main]  Spider  - starts With '/' :/learning/quizzes/index.html  - http://java.sun.com/learning/quizzes/index.html
+33187 INFO  [main]  Spider  - External Link :http://gceclub.sun.com.cn/NASApp/sme/controller/teclist?tid=01
+33187 INFO  [main]  Spider  - External Link :http://kr.sun.com/developers
+33187 INFO  [main]  Spider  - External Link :http://sdc.sun.co.jp/java
+33187 INFO  [main]  Spider  - starts With '/' :/overview.html  - http://java.sun.com/overview.html
+34609 INFO  [main]  Spider  - starts With '/' :/j2se/index.jsp  - http://java.sun.com/j2se/index.jsp
+34609 INFO  [main]  Spider  - starts With '/' :/j2ee/index.jsp  - http://java.sun.com/j2ee/index.jsp
+34609 INFO  [main]  Spider  - starts With '/' :/j2me/index.jsp  - http://java.sun.com/j2me/index.jsp
+34609 INFO  [main]  Spider  - starts With '/' :/products/javacard/index.jsp  - http://java.sun.com/products/javacard/index.jsp
+34609 INFO  [main]  Spider  - starts With '/' :/webservices/index.jsp  - http://java.sun.com/webservices/index.jsp
+34640 INFO  [main]  Spider  - starts With '/' :/integration/  - http://java.sun.com/integration/
+34640 INFO  [main]  Spider  - starts With '/' :/xml/index.jsp  - http://java.sun.com/xml/index.jsp
+34640 INFO  [main]  Spider  - starts With '/' :/othertech/index.jsp  - http://java.sun.com/othertech/index.jsp
+34640 INFO  [main]  Spider  - starts With '/' :/jugs/pointers.html  - http://java.sun.com/jugs/pointers.html
+39468 INFO  [main]  Spider  - starts With '/' :/jugs/pointers.html  - http://java.sun.com/jugs/pointers.html
+39468 INFO  [main]  Spider  - starts With '/' :/developer/technicalArticles/tools/JavaSpaces/  - http://java.sun.com/developer/technicalArticles/tools/JavaSpaces/
+39468 INFO  [main]  Spider  - starts With '/' :/features/index.html  - http://java.sun.com/features/index.html
+39468 INFO  [main]  Spider  - External Link :http://www.theserverside.com/articles/article.tss?l=MigratingtoJava5&News06_21_05-click
+39468 INFO  [main]  Spider  - starts With '/' :/developer/technicalArticles/javaone2005/naming.html  - http://java.sun.com/developer/technicalArticles/javaone2005/naming.html
+39468 INFO  [main]  Spider  - External Link :https://glassfish.dev.java.net
+41437 INFO  [main]  Spider  - starts With '/' :/learning/new2java/index.html  - http://java.sun.com/learning/new2java/index.html
+41437 INFO  [main]  Spider  - starts With '/' :/developer/onlineTraining/new2java/programming/learn/unravelingjava.html  - http://java.sun.com/developer/onlineTraining/new2java/programming/learn/unravelingjava.html
+41453 INFO  [main]  Spider  - starts With '/' :/developer/onlineTraining/new2java/javamap/intro.html  - http://java.sun.com/developer/onlineTraining/new2java/javamap/intro.html
+41453 INFO  [main]  Spider  - starts With '/' :/developer/onlineTraining/new2java/programming/learn/  - http://java.sun.com/developer/onlineTraining/new2java/programming/learn/
+41453 INFO  [main]  Spider  - External Link :http://java.com
+43109 INFO  [main]  Spider  - External Link :http://www.netbeans.org/downloads/index.html
+46500 INFO  [main]  Spider  - starts With '/' :/j2se/1.5.0/download.jsp  - http://java.sun.com/j2se/1.5.0/download.jsp
+46500 INFO  [main]  Spider  - starts With '/' :/j2se/1.5.0/ja/download.html  - http://java.sun.com/j2se/1.5.0/ja/download.html
+46500 INFO  [main]  Spider  - External Link :http://www.netbeans.org/downloads/index.html
+46500 INFO  [main]  Spider  - starts With '/' :/j2ee/1.4/download-sdk.html  - http://java.sun.com/j2ee/1.4/download-sdk.html
+46500 INFO  [main]  Spider  - starts With '/' :/j2se/1.4.2/download.html  - http://java.sun.com/j2se/1.4.2/download.html
+46500 INFO  [main]  Spider  - starts With '/' :/j2se/1.4.2/ja/download.html  - http://java.sun.com/j2se/1.4.2/ja/download.html
+46500 INFO  [main]  Spider  - starts With '/' :/webservices/downloads/webservicespack.html  - http://java.sun.com/webservices/downloads/webservicespack.html
+46500 INFO  [main]  Spider  - External Link :http://developers.sun.com/prodtech/javatools/jscreator/index.jsp
+48984 INFO  [main]  Spider  - External Link :http://developers.sun.com/prodtech/javatools/jsenterprise/index.html
+48984 INFO  [main]  Spider  - External Link :http://java.sun.com/j2ee/1.4/download.html#sdk
+48984 INFO  [main]  Spider  - External Link :http://nct.digitalriver.com/fulfill/0172.001
+48984 INFO  [main]  Spider  - External Link :http://wwws.sun.com/software/star/staroffice/sdk/
+48984 INFO  [main]  Spider  - External Link :http://developers.sun.com/prodtech/javatools/jscreator/ea/jsc2/
+48984 INFO  [main]  Spider  - starts With '/' :/webservices/downloads/webservicespack.html  - http://java.sun.com/webservices/downloads/webservicespack.html
+51156 INFO  [main]  Spider  - External Link :http://onesearch.sun.com/search/onesearch/index.jsp?col=developer-all&qt=java
+56531 INFO  [main]  Spider  - External Link :http://developers.sun.com/techtopics/desktop/index.html
+56531 INFO  [main]  Spider  - starts With '/' :/performance/index.jsp  - http://java.sun.com/performance/index.jsp
+56531 INFO  [main]  Spider  - External Link :http://developers.sun.com/techtopics/security/index.html
+56531 INFO  [main]  Spider  - External Link :http://developers.sun.com/techtopics/mobility/index.jsp
+56531 INFO  [main]  Spider  - External Link :http://developers.sun.com/techtopics/webservices/index.html
+56531 INFO  [main]  Spider  - starts With '/' :/upgrade/index.html  - http://java.sun.com/upgrade/index.html
+56531 INFO  [main]  Spider  - External Link :http://javaoneonline.mentorware.net/servlet/mware.servlets.LoginServlet?subsysId=2000
+56531 INFO  [main]  Spider  - External Link :http://developers.sun.com/events/index.html
+58047 INFO  [main]  Spider  - External Link :http://java.net
+58047 INFO  [main]  Spider  - External Link :http://www.java.com
+58047 INFO  [main]  Spider  - External Link :http://www.sun.com/training/index.xml
+58047 INFO  [main]  Spider  - External Link :http://jcp.org
+58047 INFO  [main]  Spider  - starts With '/' :/logos/  - http://java.sun.com/logos/
+58062 INFO  [main]  Spider  - External Link :http://www.sun.com
+58062 INFO  [main]  Spider  - External Link :http://developers.sun.com/dispatcher.jsp?uid=6910015
+58062 INFO  [main]  Spider  - External Link :http://developers.sun.com/dispatcher.jsp?uid=6910010
+58062 INFO  [main]  Spider  - External Link :http://developers.sun.com/dispatcher.jsp?uid=6910025
+58062 INFO  [main]  Spider  - External Link :http://developers.sun.com/contact/index.jsp
+58062 INFO  [main]  Spider  - External Link :http://developers.sun.com/dispatcher.jsp?uid=6910014
+58062 INFO  [main]  Spider  - External Link :http://developers.sun.com/dispatcher.jsp?uid=6910012
+58062 INFO  [main]  Spider  - External Link :http://developers.sun.com/dispatcher.jsp?uid=6910009
+58062 INFO  [main]  Spider  - External Link :http://developers.sun.com/dispatcher.jsp?uid=6910013
+58062 INFO  [main]  Spider  - External Link :http://developers.sun.com/dispatcher.jsp?uid=6910016
+58062 INFO  [main]  Spider  - External Link :http://developers.sun.com/dispatcher.jsp?uid=6910017
+58062 INFO  [main]  Spider  - External Link :http://developers.sun.com/dispatcher.jsp?uid=6910010
+58062 INFO  [main]  Spider  - External Link :http://developers.sun.com/dispatcher.jsp?uid=6910008
+58062 INFO  [main]  Spider  - External Link :http://developers.sun.com/dispatcher.jsp?uid=6910006
+58062 INFO  [main]  Spider  - External Link :http://developers.sun.com/dispatcher.jsp?uid=6910007

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+    <servlet>
+        <servlet-name>FrontController</servlet-name>
+        <servlet-class>net.engine.web.FrontController</servlet-class>
+        <init-param>
+        	<param-name>dbFragments</param-name>
+        	<param-value>1</param-value>
+        </init-param>
+		<init-param>
+        	<param-name>poolSize</param-name>
+        	<param-value>2</param-value>
+        </init-param>
+		<init-param>
+        	<param-name>driverClassName</param-name>
+        	<param-value>oracle.jdbc.OracleDriver</param-value>
+        </init-param>
+        <init-param>
+        	<param-name>frag0_url</param-name>
+        	<param-value>jdbc:oracle:thin:@172.18.18.148:1521:SCT</param-value>
+        </init-param>
+        <init-param>
+        	<param-name>frag0_user</param-name>
+        	<param-value>scott</param-value>
+        </init-param>
+        <init-param>
+        	<param-name>frag0_pwd</param-name>
+        	<param-value>tiger</param-value>
+        </init-param>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>FrontController</servlet-name>
+        <url-pattern>/search</url-pattern>
+    </servlet-mapping>
+</web-app>

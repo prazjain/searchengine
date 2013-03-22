@@ -1,0 +1,594 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"> 
+<html>
+<head>
+<title>Java Technology</title>
+<meta name="keywords" content="Java, platform" />
+<meta name="description" content="Java technology is a portfolio of products that are based on the power of networks and the idea that the same software should run on many different kinds of systems and devices." />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
+<meta name="date" content="2003-11-23" />
+<link rel="stylesheet" href="/css/default_developer.css" />
+<script type="text/javascript" language="JavaScript" src="/js/popUp.js"></script>
+<script type="text/javascript" language="JavaScript" src="/js/support_incident.js"></script>
+
+<link href="http://developers.sun.com/rss/java.xml" rel="alternate" type="application/rss+xml" title="rss" />
+</head>
+<!--stopindex-->
+<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" rightmargin="0" bgcolor="#ffffff">
+<a name="top"></a>
+<!-- BEGIN MASTHEAD -->
+<!-- BEGIN VNV1 COMPONENT V0  -->
+<script type='text/JavaScript' src='/js/showHide.js'></script>
+<div class="vnv1sunlogo"><a href="http://www.sun.com"><img src="/im/vnv1_sunlogo.gif" alt="sun.com" width="55" height="24" border="0"></a></div>
+<div class="vnv1" id="vnv1v0">
+<div class="cornerTL"><div class="cornerTR"><div class="cornerBL"><div class="cornerBR">
+
+<div class="vnv1search">
+	<table border="0" cellpadding="0" cellspacing="0" class="topnavlight">
+	<form name="formsearch" action="/dispatcher.jsp" method="post" accept-charset="utf-8">
+	<input type="hidden" name="charset" value="utf-8">
+	<tr>
+	<td nowrap="nowrap"><span class="rightarrowwhite">&raquo;</span>&nbsp;<a href="http://developers.sun.com/dispatcher.jsp?uid=6910020">search tips</a>&nbsp;</td>
+	<td><input class="searchfield" name="qt" class="medium" size="7" onFocus="if( this.value==this.defaultValue ) this.value='';" value="Search"></td>
+	<td class="selectcell"><select class="globalsearch" name="uid">
+	<option value="6910018" selected>in Developers' Site</option>
+	<option value="6910019">in Sun.com</option>
+	</select></td>
+	<td valign="middle" align="left"><input type="image" border="0" src="/im/vnv1_bttn_search.gif" alt="Submit Search"></td>
+
+	</tr></form>
+	</table>
+</div>
+
+<div class="vnv1topiclinks">
+<table cellpadding="1" cellspacing="0" border="0">
+<tr>
+<td rowspan="2"><a href="http://java.sun.com" title="java.sun.com"><img src="/im/a.gif" alt="Home Page" width="96" height="58" border="0" class="sunlogo"></a></td>
+<td colspan="4"><a href="http://developers.sun.com" title="developers.sun.com"><img src="/im/a.gif" alt="" width="250" height="32" border="0"></a></td>
+</tr>
+<tr>
+<td><img src="/im/a.gif" alt="" width="1" height="1" border="0" id="ip1"></td>
+<td class="navlinks" id="navlink1"><a href="http://developers.sun.com/dispatcher.jsp?uid=6910023">Products and Technologies</a></td>
+<td><img src="/im/a.gif" alt="" width="1" height="1" border="0" id="ip2"></td>
+<td class="navlinks" id="navlink2"><a href="http://developers.sun.com/dispatcher.jsp?uid=6910024">Technical Topics</a></td>
+</tr>
+
+</table>
+</div>
+
+</div></div></div></div>
+</div>
+<!-- END VNV1 COMPONENT V0  -->
+
+
+
+<!-- END MASTHEAD -->
+<!-- BEGIN BREADCRUMB -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="vatop">
+<tr>
+<td>      
+<div class="breadcrumb">
+<a href="http://developers.sun.com/index.html">Developers Home</a> &gt; <a href="http://developers.sun.com/prodtech/index.html">Products & Technologies</a> &gt;
+</div>
+</td>
+<td align="right" nowrap="nowrap">
+<div class="breadcrumb">
+<b><a href="http://developers.sun.com/dispatcher.jsp?uid=6910021">Join Sun Developer Network</a></b><br />
+<a href="http://developers.sun.com/dispatcher.jsp?uid=6910026">Login</a> |
+<a href="http://developers.sun.com/dispatcher.jsp?uid=6910021">Register</a> | 
+<a href="http://developers.sun.com/user_registration/whyregister.html">Why Register?</a>
+</div>
+</td>
+</tr>
+<tr><td colspan="2"><img src="/im/a.gif" width="770" height="1" border="0" alt=" " /></td></tr>
+</table>
+<span class="sp5">&nbsp;</span>
+<br />        
+<!-- END BREADCRUMB -->
+<!-- BEGIN PAGETITLE -->
+<div class="pagetitle2">Products & Technologies</div>
+<div class="pagetitle">Java Technology</div>
+<!-- END PAGETITLE -->
+<!-- BEGIN WRAPPER TABLE, 3 COLUMN, LEFT/MAIN/RIGHT -->
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<tr><td valign="top">
+<!-- BEGIN LEFT COLUMN COMPONENTS -->
+<!-- LeftNav DCR reference: /templatedata/dev_navigation/left_nav/data/jsc1 -->
+<!-- BEGIN VNV4 LEFTNAV COMPONENT -->
+<!-- BEGIN FIRST NAV GREYLINE, with no top padding -->
+<div class="pad3x0" style="padding-top:0px;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="grey4">
+<tr><td><img src="/im/a.gif" width="1" height="2" border="0" alt=" " /></td></tr>
+</table></div>
+<!-- END FIRST NAV GREYLINE -->
+<div class="leftnav1"> 
+<a href="/downloads/index.html">Downloads</a> 
+</div>          
+<table border="0" cellpadding="0" cellspacing="0" class="vatop">
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="/downloads/ea/index.html">Early Access</a></td>
+</tr>          
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="/downloads/tools/index.html">Tools</a></td>
+</tr>          
+</table> 
+<span class="sp5">&nbsp;</span><br />
+<div class="pad3x0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="grey4">
+<tr><td><img src="/im/a.gif" width="1" height="2" border="0" alt=" " /></td></tr>
+</table></div>
+<div class="leftnav1"> 
+<a href="/reference/index.html">Reference</a> 
+</div>          
+<table border="0" cellpadding="0" cellspacing="0" class="vatop">
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="/reference/api/index.html">API Specifications</a></td>
+</tr>          
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="/reference/codesamples/index.html">Code Samples & Apps</a></td>
+</tr>          
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="/reference/docs/index.html">Documentation</a></td>
+</tr>          
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="/reference/blueprints/index.html">BluePrints</a></td>
+</tr>          
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="/reference/techart/index.html">Technical Articles & Tips</a></td>
+</tr>          
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="/reference/index.html "><span class="rightarrowblue">&raquo;</span>&nbsp;<b>See all</b></a></td>
+</tr>
+</table> 
+<span class="sp5">&nbsp;</span><br />
+<div class="pad3x0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="grey4">
+<tr><td><img src="/im/a.gif" width="1" height="2" border="0" alt=" " /></td></tr>
+</table></div>
+<div class="leftnav1"> 
+<a href="/community/index.html">Community</a> 
+</div>          
+<table border="0" cellpadding="0" cellspacing="0" class="vatop">
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="http://forum.java.sun.com">Forums</a></td>
+</tr>          
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="http://bugs.sun.com/bugdatabase">Bug Database</a></td>
+</tr>          
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="/developer/community/chat/">Chats</a></td>
+</tr>          
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="/community/usergroups/index.html">User Groups</a></td>
+</tr>          
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="/community/newsletters/index.html">Newsletters</a></td>
+</tr>          
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="/community/books/index.html">Books & Authors</a></td>
+</tr> 
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="/developer/blogs/index.html">Java Technology Blogs</a></td>
+</tr>          
+</table> 
+<span class="sp5">&nbsp;</span><br />
+<div class="pad3x0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="grey4">
+<tr><td><img src="/im/a.gif" width="1" height="2" border="0" alt=" " /></td></tr>
+</table></div>
+<div class="leftnav1"> 
+<a href="/news/index.html">News & Updates</a> 
+</div>          
+<span class="sp5">&nbsp;</span><br />
+<div class="pad3x0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="grey4">
+<tr><td><img src="/im/a.gif" width="1" height="2" border="0" alt=" " /></td></tr>
+</table></div>
+<div class="leftnav1"> 
+<a href="/learning/index.html">Learning</a> 
+</div>          
+<table border="0" cellpadding="0" cellspacing="0" class="vatop">
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="/learning/new2java/index.html">New to Java Center</a></td>
+</tr>          
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="/learning/tutorial/index.html">Tutorials & Code Camps</a></td>
+</tr>          
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="/learning/training/index.html">Training</a></td>
+</tr>          
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="/learning/coursecert/index.html">Certification</a></td>
+</tr>          
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="/learning/quizzes/index.html">Quizzes</a></td>
+</tr>                    
+</table> 
+<span class="sp5">&nbsp;</span><br />
+<div class="pad3x0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="grey4">
+<tr><td><img src="/im/a.gif" width="1" height="2" border="0" alt=" " /></td></tr>
+</table></div>
+<div><b>Regional Sites</b> 
+</div>
+<table border="0" cellpadding="0" cellspacing="0" class="vatop">
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="http://gceclub.sun.com.cn/NASApp/sme/controller/teclist?tid=01"><img src="/images/region_country_cn.gif" border="0" vspace="1"></a></td>
+</tr>          
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="http://kr.sun.com/developers"><img src="/images/region_country_kr.gif" border="0" vspace="1"></a></td>
+</tr>          
+<tr>
+<td width="15" class="hyphen">-&nbsp;</td>
+<td><a href="http://sdc.sun.co.jp/java"><img src="/images/region_country_jp.gif" border="0" vspace="1"></a></td>
+</tr>
+</table>
+<span class="sp5">&nbsp;</span><br />
+<div class="pad3x0"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="grey4">
+<tr><td><img src="/im/a.gif" width="1" height="2" border="0" alt=" " /></td></tr></table></div>        
+<span class="sp10">&nbsp;</span><br />
+<!-- END VNV4 LEFTNAV COMPONENT -->
+<!-- END LEFT COLUMN COMPONENTS -->
+</td><td width="100%" valign="top" rowspan="2">
+<!-- BEGIN CENTER COLUMN COMPONENTS -->
+<!--startindex-->
+<!-- ============ -->
+<!-- MAIN CONTENT -->
+<!-- ============ -->
+<a name="skip2content"></a>
+<!-- BEGIN VCD01 Overview -->
+<!-- BEGIN VCD1 OVERVIEW COMPONENT  -->
+<div class="padbottom10">Java technology is a portfolio of products that are based on the power of networks and the idea that the same software should run on many different kinds of systems and devices.
+&nbsp;<span class="rightarrowblue">&raquo;</span>&nbsp;<a href="/overview.html">Read More</a>
+</div>      
+<!-- END VCD1 OVERVIEW COMPONENT  -->
+<!-- END VNV4 LEFTNAV  COMPONENT -->      
+<div>Java Technology is organized into these subject areas:
+</div>
+<span class="sp5">&nbsp;</span><br />
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top">
+<!-- BEGIN LEFT HALF  -->
+<table border="0" cellpadding="1" cellspacing="0" class="vatop">
+<tr>
+<td>
+<img src="/im/ar_sm_blue_r.gif" width="9" height="8" border="0" alt=" " hspace="5" vspace="4" />
+</td>
+<td>
+<b>
+<a href="/j2se/index.jsp">J2SE (Core/Desktop)</a>
+</b>
+</td>
+</tr>
+<tr>
+<td>
+<img src="/im/ar_sm_blue_r.gif" width="9" height="8" border="0" alt=" " hspace="5" vspace="4" />
+</td>
+<td>
+<b>
+<a href="/j2ee/index.jsp">J2EE (Enterprise/Server)</a>
+</b>
+</td>
+</tr>
+<tr>
+<td>
+<img src="/im/ar_sm_blue_r.gif" width="9" height="8" border="0" alt=" " hspace="5" vspace="4" />
+</td>
+<td>
+<b>
+<a href="/j2me/index.jsp">J2ME (Mobile/Wireless)</a>
+</b>
+</td>
+</tr>
+<tr>
+<td>
+<img src="/im/ar_sm_blue_r.gif" width="9" height="8" border="0" alt=" " hspace="5" vspace="4" />
+</td>
+<td>
+<b>
+<a href="/products/javacard/index.jsp">Java Card</a>
+</b>
+</td>
+</tr>
+</table>
+<!-- END LEFT HALF  -->
+</td>
+<td><img src="/im/a.gif" width="40" height="1" border="0" alt=" " /></td>
+<td valign="top">
+<!-- BEGIN RIGHT HALF  -->
+<table border="0" cellpadding="1" cellspacing="0" class="vatop">              
+<tr>
+<td>
+<img src="/im/ar_sm_blue_r.gif" width="9" height="8" border="0" alt=" " hspace="5" vspace="4" />
+</td>
+<td>
+<b>
+<a href="/webservices/index.jsp">Java Web Services</a>
+</b>            
+</td>
+</tr>
+<tr>
+<td>
+<img src="/im/ar_sm_blue_r.gif" width="9" height="8" border="0" alt=" " hspace="5" vspace="4" />
+</td>
+<td>
+<b>
+<a href="/integration/">Java Business Integration</a>
+</b>            
+</td>
+</tr>
+<tr>
+<td>
+<img src="/im/ar_sm_blue_r.gif" width="9" height="8" border="0" alt=" " hspace="5" vspace="4" />
+</td>
+<td>
+<b>
+<a href="/xml/index.jsp">XML</a>
+</b>            
+</td>
+</tr>
+<tr>
+<td>
+<img src="/im/ar_sm_blue_r.gif" width="9" height="8" border="0" alt=" " hspace="5" vspace="4" />
+</td>
+<td>
+<b>
+<a href="/othertech/index.jsp">Other Java Technologies</a>
+</b>            
+</td>
+</tr>
+</table>
+<!-- END RIGHT HALF  --></td></tr>
+</table>  
+             
+<span class="sp10">&nbsp;</span><br /> 
+<!-- <span class="sp10">&nbsp;</span><br /> -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="headerbar1"><div class="headerpadding2">What's New</div></td>
+<td align="right" class="headerbar1"><div class="headerpadding2">&nbsp;<!-- EDIT BUTTON FOR LOGGED IN STATE --><!-- <a href="#{link placeholder}"><img src="/im/button_edit.gif" width="30" height="10" border="0" alt=" " /></a>--></div></td>
+</tr>
+</table> 
+<span class="sp10">&nbsp;</span><br />
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="1" class="vamiddle">
+<a href="/javaone/sf/see_you_next_year.jsp">
+<img src="/images/teaserbanner/javaone_wrap.jpg"  width="100" height="88" border="0" alt="A Week of Learning, Community, and Innovation" />
+</a>
+</td>
+<td width="10">
+<img src="/im/a.gif" width="10" height="1" border="0" alt="" />
+</td>
+<td width="100%"><span class="ltcaption1">July 1, 2005</span><br />
+<b><a href="/javaone/sf/see_you_next_year.jsp">A Week of Learning, Community, and Innovation</a><!--.--></b> 
+The 2005 JavaOne Conference was inspiring, wild, fun  and a fitting celebration for the 10th birthday of Java technology.
+</td>
+</tr>
+</table> 
+
+<span class="sp10">&nbsp;</span><br />
+<div>
+<span class="ltcaption1">July 1, 2005</span><br />
+<b><a href="/javaone/sf/java_tech_future.jsp">The Future of Java Technology</a><!--.--></b> 
+The father of Java technology, James Gosling, presented a &quot;Java toy show,&quot; and a panel of luminaries speculated on the future of computing at Gosling's general session address at the 2005 JavaOne conference.
+</div>
+
+<span class="sp10">&nbsp;</span><br />
+<div>&nbsp;<span class="rightarrowblue">&raquo;</span>&nbsp;<a href="/features/index.html">More</a>
+</div>
+
+<span class="sp10">&nbsp;</span><br /> 
+
+<!-- <span class="sp10">&nbsp;</span><br /> -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="headerbar1"><div class="headerpadding2">Java Community</div></td>
+<td align="right" class="headerbar1"><div class="headerpadding2">&nbsp;<!-- EDIT BUTTON FOR LOGGED IN STATE --><!-- <a href="#{link placeholder}"><img src="/im/button_edit.gif" width="30" height="10" border="0" alt=" " /></a>--></div></td>
+</tr>
+</table>
+<span class="sp10">&nbsp;</span><br /> 
+<div><b><a href="http://www.theserverside.com/articles/article.tss?l=MigratingtoJava5&News06_21_05-click" target="_blank">Living on the Edge: Migration to J2SE 5.0 at Walmart.com</a></b><br/>
+The ServerSide.com takes a look at what it took for a busy site like Walmart.com to upgrade to J2SE 5.0.
+</div>
+<span class="sp10">&nbsp;</span><br /> 
+<div><b><a href="/developer/technicalArticles/javaone2005/naming.html">Building and Strengthening the Java Brand</a></b><br/>
+Sun is simplifying the naming system for the Java 2 platform: Drop the 2. Expand the acronym. Say &quot;Java.&quot;
+</div>
+<span class="sp10">&nbsp;</span><br /> 
+<div><b><a href="https://glassfish.dev.java.net" target="_blank">GlassFish Project</a></b><br/>
+GlassFish is a gathering place for developers who wish to participate in the community development of the latest version of Sun's Java System Application Server PE 9.
+</div>
+<!-- <span class="sp10">&nbsp;</span><br /> 
+<div><b><a href="/developer/technicalArticles/J2SE/peabody/">How to Contribute Code to Mustang</a></b><br/>
+As part of the development process for the &quot;Mustang&quot; release of the Java 2 Platform, Standard Edition (J2SE 6.0), we are accepting external source code contributions for bug fixes and features.
+</div> -->
+
+<!-- <span class="sp10">&nbsp;</span><br /> 
+<div><strong><a href="https://softwarereg.sun.com/registration/developer/en_US/subscriptions">Subscribe to our Developer Newsletters</a></strong><br />
+Get the latest Sun Java technology downloads, programming tips, events, and resources wrapped in a convenient package. Join <a href="http://softwarereg.sun.com/services/registration/accountmaintenance"><strong>Sun Developer Network</strong></a>.
+</div>
+<span class="sp10">&nbsp;</span><br /> -->
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<!-- <tr>
+<td class="headerbar1"><div class="headerpadding2">Events</div></td>
+<td align="right" class="headerbar1"><div class="headerpadding2">&nbsp;<!-- EDIT BUTTON FOR LOGGED IN STATE --><!-- <a href="#{link placeholder}"><img src="/im/button_edit.gif" width="30" height="10" border="0" alt=" " /></a> --> </div></td> 
+</tr>
+</table> 
+<!-- <span class="sp10">&nbsp;</span><br /> 
+<div><b><a href="/developer/community/chat/">Upcoming Chats</a></b><br />
+June 14 at 9:00 AM PDT/16:00 UTC: <a href="/developer/community/chat/">What's New in the Sun Java Wireless Toolkit?</a> Guests: Ariel Levin, Jonathan Knudsen, and E-ming Saung<br />
+</div> -->
+
+<span class="sp10">&nbsp;</span><br />
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td class="headerbar1"><div class="headerpadding2">Java Learning</div></td>
+<td align="right" class="headerbar1"><div class="headerpadding2">&nbsp;<!-- EDIT BUTTON FOR LOGGED IN STATE --><!-- <a href="#{link placeholder}"><img src="/im/button_edit.gif" width="30" height="10" border="0" alt=" " /></a>--></div></td>
+</tr>
+</table>
+<span class="sp10">&nbsp;</span><br /> 
+
+<div><b><a href="/learning/new2java/index.html">New to Java Center</a></b><br />Make sense of many Java technologies and acronyms with <a href="/developer/onlineTraining/new2java/programming/learn/unravelingjava.html">Unraveling Java Terminology</a> and the <a href="/developer/onlineTraining/new2java/javamap/intro.html">Java Concept Map</a>. Also learn how to set up the lastest Java platform software using <a href="/developer/onlineTraining/new2java/programming/learn/">Getting Started</a> as a guide.
+</div>
+<span class="sp10">&nbsp;</span><br /> 
+
+<div><b><a href="http://java.com" target="_blank">Visit the New java.com</a></b><br />
+Download Java software, play desktop and mobile games, check out Duke's Zone, learn about using the Java Get Powered logo, or market your app to millions of visitors.
+</div>
+<!-- 
+<span class="sp10">&nbsp;</span><br /> 
+<div><strong><a href="http://javaoneonline.mentorware.net/servlet/mware.servlets.LoginServlet?subsysId=2000">JavaOne Online Program</a></strong><br />
+This educational and informative site focuses on Java technology and the developer community. Even if you have never attended the JavaOne conference in person, you can still become a part of the JavaOne conference community. Conferences and interaction with your colleagues are key ways for you to pick up more knowledge and build relationships.
+</div> -->
+<span class="sp10">&nbsp;</span><br /> 
+
+<!-- =================== -->
+<!-- END OF MAIN CONTENT -->
+<!-- =================== -->
+<!--stopindex-->
+<!-- END CENTER COLUMN COMPONENTS -->
+<br /><img src="/im/a.gif" width="370" height="1" border="0" alt=" " /></td>
+<td valign="top" rowspan="2">
+
+<!-- BEGIN NETBEANS BANNER -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td>
+<a href="http://www.netbeans.org/downloads/index.html" target="_blank"><img src="/images/banners/b5_netbeans_dwnld.gif" width="142" height="64" border="0" alt="Download NetBeans IDE"></a>
+</td></tr>
+</table>
+<span class="sp10">&nbsp;</span><br />
+<!-- END NETBEANS BANNER -->
+
+<!-- BEGIN RIGHT COLUMN COMPONENTS -->
+<!-- RightNav DCR reference: /templatedata/dev_navigation/related_links/data/Java_PopDownloads -->
+<!-- BEGIN VNV7 POPULAR DOWNLOADS COMPONENT, (divided in sections) -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td class="headerbar5"><div class="headerpadding2">Popular Downloads</div></td></tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" class="navblue2" width="100%">
+<tr><td><div class="colpadding1">
+<table border="0" cellpadding="0" cellspacing="0" class="vatop">
+<!-- tr><td colspan="2"><b class="dkgrey">Popular Downloads</b></td></tr -->
+<tr>
+<td class="hyphen">-&nbsp;</td>
+<td><a href="/j2se/1.5.0/download.jsp">J2SE 5.0</a></td>
+</tr>
+<tr>
+<td class="hyphen">-&nbsp;</td>
+<td><a href="/j2se/1.5.0/ja/download.html">J2SE 5.0 (<img src="/im/region_lang_ja.gif" border="0">)</a></td>
+</tr>                         
+<tr>
+<td class="hyphen">-&nbsp;</td>
+<td><a href="http://www.netbeans.org/downloads/index.html" target="_blank">NetBeans IDE</a></td>
+</tr>
+<tr>
+<td class="hyphen">-&nbsp;</td>
+<td><a href="/j2ee/1.4/download-sdk.html">J2EE 1.4 SDK</a></td>
+</tr>
+<tr>
+<td class="hyphen">-&nbsp;</td>
+<td><a href="/j2se/1.4.2/download.html">J2SE 1.4.2 SDK</a></td>
+</tr>
+<tr>
+<td class="hyphen">-&nbsp;</td>
+<td><a href="/j2se/1.4.2/ja/download.html">J2SE 1.4.2 (<img src="/im/region_lang_ja.gif" border="0">)</a></td>
+</tr>
+<tr>
+<td class="hyphen">-&nbsp;</td>
+<td><a href="/webservices/downloads/webservicespack.html">Java WSDP 1.6</a></td>
+</tr>
+<tr>
+<td class="hyphen">-&nbsp;</td>
+<td><a href="http://developers.sun.com/prodtech/javatools/jscreator/index.jsp">Sun Java Studio Creator</a></td>
+</tr>
+<tr>
+<td class="hyphen">-&nbsp;</td>
+<td><a href="http://developers.sun.com/prodtech/javatools/jsenterprise/index.html">Sun Java Studio Enterprise</a></td>
+</tr>
+<tr>
+<td class="hyphen">-&nbsp;</td>
+<td><a href="http://java.sun.com/j2ee/1.4/download.html#sdk">Sun Java System Application Server</a></td>
+</tr>
+<tr>
+<td class="hyphen">-&nbsp;</td>
+<td><a href="http://nct.digitalriver.com/fulfill/0172.001">Sun Java System Web Server</a></td>
+</tr>
+<tr>
+<td class="hyphen">-&nbsp;</td>
+<td><a href="http://wwws.sun.com/software/star/staroffice/sdk/">StarOffice 7 SDK</a></td>
+</tr>
+</table></div>
+</td></tr>
+</table>
+<span class="sp10">&nbsp;</span><br />
+<!-- END VNV7 POPULAR DOWNLOADS COMPONENT, (divided in sections) -->
+
+<!-- BEGIN SECONDARY BANNER COMPONENT -->
+
+<!-- BEGIN ANNOUNCEMENT BOX #1--> 
+<table border="0" cellpadding="1" cellspacing="0" class="dkgrey1" width="100%">
+<tr><td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="white1">
+<tr><td>
+<div class="pad4x9">
+<b><a href="http://developers.sun.com/prodtech/javatools/jscreator/ea/jsc2/">Sun Java Studio Creator 2 Early Access</a></b><br />
+The early access version of Sun Java Studio Creator 2 has been uncaged. Check out the new preview features.
+</div></td></tr>
+</table>
+</td></tr>
+</table>  
+<span class="sp10">&nbsp;</span><br /> 
+<!-- END ANNOUNCMENT BOX #1 -->
+
+<!-- END SECONDARY BANNER COMPONENT -->
+
+<!-- BEGIN SECONDARY BANNER COMPONENT -->
+<!-- BEGIN ANNOUNCEMENT BOX #2 -->
+<table border="0" cellpadding="1" cellspacing="0" class="dkgrey1" width="100%">
+<tr><td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="white1">
+<tr><td>
+<div class="pad4x9">
+<b><a href="/webservices/downloads/webservicespack.html">Java Web Services Developer Pack 1.6</a></b><br />
+Download Java WSDP 1.6 and start developing leading-edge web services with tighter security and faster performance.
+</div></td></tr>
+</table>
+</td></tr>
+</table> 
+<span class="sp10">&nbsp;</span><br />
+<!-- END ANNOUNCEMENT BOX #2 -->
+<!-- END SECONDARY BANNER COMPONENT -->
+
+
+<!-- BEGIN SECONDARY BANNER COMPONENT -->
+<!-- AD SERVER BANNER CODE TRIAL -->
+
+<!-- 6.15.05 Temporary Removal to run another announcement 
+
+<script language='JavaScript' type='text/javascript'>
+<!--
+   if (!document.phpAds_

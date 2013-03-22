@@ -1,0 +1,1161 @@
+0 DEBUG  [main]  Spider  - Start :html
+0 DEBUG  [main]  Spider  - Start :head
+0 DEBUG  [main]  Spider  - Start :title
+0 DEBUG  [main]  Spider  - End :title
+0 INFO  [main]  Spider  - meta keywords = Java, platform
+0 DEBUG  [main]  Spider  - End :head
+0 DEBUG  [main]  Spider  - Start :body
+15 DEBUG  [main]  Spider  - Simple Tag :link
+15 DEBUG  [main]  Spider  - Start :script
+15 DEBUG  [main]  Spider  - End :script
+15 DEBUG  [main]  Spider  - Start :script
+15 DEBUG  [main]  Spider  - End :script
+15 DEBUG  [main]  Spider  - Simple Tag :link
+15 INFO  [main]  Spider  - a null
+15 DEBUG  [main]  Spider  - End :a
+31 DEBUG  [main]  Spider  - Start :script
+31 DEBUG  [main]  Spider  - End :script
+31 DEBUG  [main]  Spider  - Start :div
+31 INFO  [main]  Spider  - a http://www.sun.com
+31 DEBUG  [main]  Spider  - Simple Tag :img
+31 DEBUG  [main]  Spider  - End :a
+31 DEBUG  [main]  Spider  - End :div
+31 DEBUG  [main]  Spider  - Start :div
+31 DEBUG  [main]  Spider  - Start :div
+31 DEBUG  [main]  Spider  - Start :div
+31 DEBUG  [main]  Spider  - Start :div
+31 DEBUG  [main]  Spider  - Start :div
+31 DEBUG  [main]  Spider  - Start :div
+47 DEBUG  [main]  Spider  - Start :table
+47 DEBUG  [main]  Spider  - Start :tr
+47 DEBUG  [main]  Spider  - Start :td
+47 DEBUG  [main]  Spider  - Simple Tag :input
+47 DEBUG  [main]  Spider  - End :td
+47 DEBUG  [main]  Spider  - End :tr
+47 DEBUG  [main]  Spider  - Start :tr
+47 DEBUG  [main]  Spider  - Start :td
+47 DEBUG  [main]  Spider  - Simple Tag :span
+47 DEBUG  [main]  Spider  - Simple Tag :span
+47 INFO  [main]  Spider  - a http://developers.sun.com/dispatcher.jsp?uid=6910020
+47 DEBUG  [main]  Spider  - End :a
+47 DEBUG  [main]  Spider  - End :td
+47 DEBUG  [main]  Spider  - Start :td
+47 DEBUG  [main]  Spider  - Simple Tag :input
+47 DEBUG  [main]  Spider  - End :td
+47 DEBUG  [main]  Spider  - Start :td
+47 DEBUG  [main]  Spider  - Start :select
+47 DEBUG  [main]  Spider  - Start :option
+47 DEBUG  [main]  Spider  - End :option
+47 DEBUG  [main]  Spider  - Start :option
+62 DEBUG  [main]  Spider  - End :option
+62 DEBUG  [main]  Spider  - End :select
+62 DEBUG  [main]  Spider  - End :td
+62 DEBUG  [main]  Spider  - Start :td
+62 DEBUG  [main]  Spider  - Simple Tag :input
+62 DEBUG  [main]  Spider  - End :td
+62 DEBUG  [main]  Spider  - End :tr
+62 DEBUG  [main]  Spider  - End :table
+62 DEBUG  [main]  Spider  - End :div
+62 DEBUG  [main]  Spider  - Start :div
+62 DEBUG  [main]  Spider  - Start :table
+62 DEBUG  [main]  Spider  - Start :tr
+62 DEBUG  [main]  Spider  - Start :td
+62 INFO  [main]  Spider  - a http://java.sun.com
+62 DEBUG  [main]  Spider  - Simple Tag :img
+62 DEBUG  [main]  Spider  - End :a
+62 DEBUG  [main]  Spider  - End :td
+62 DEBUG  [main]  Spider  - Start :td
+62 INFO  [main]  Spider  - a http://developers.sun.com
+62 DEBUG  [main]  Spider  - Simple Tag :img
+62 DEBUG  [main]  Spider  - End :a
+62 DEBUG  [main]  Spider  - End :td
+62 DEBUG  [main]  Spider  - End :tr
+62 DEBUG  [main]  Spider  - Start :tr
+62 DEBUG  [main]  Spider  - Start :td
+62 DEBUG  [main]  Spider  - Simple Tag :img
+62 DEBUG  [main]  Spider  - End :td
+62 DEBUG  [main]  Spider  - Start :td
+62 INFO  [main]  Spider  - a http://developers.sun.com/dispatcher.jsp?uid=6910023
+62 DEBUG  [main]  Spider  - End :a
+62 DEBUG  [main]  Spider  - End :td
+62 DEBUG  [main]  Spider  - Start :td
+62 DEBUG  [main]  Spider  - Simple Tag :img
+62 DEBUG  [main]  Spider  - End :td
+62 DEBUG  [main]  Spider  - Start :td
+62 INFO  [main]  Spider  - a http://developers.sun.com/dispatcher.jsp?uid=6910024
+62 DEBUG  [main]  Spider  - End :a
+62 DEBUG  [main]  Spider  - End :td
+62 DEBUG  [main]  Spider  - End :tr
+62 DEBUG  [main]  Spider  - End :table
+62 DEBUG  [main]  Spider  - End :div
+62 DEBUG  [main]  Spider  - End :div
+62 DEBUG  [main]  Spider  - End :div
+62 DEBUG  [main]  Spider  - End :div
+62 DEBUG  [main]  Spider  - End :div
+62 DEBUG  [main]  Spider  - End :div
+62 DEBUG  [main]  Spider  - Start :table
+62 DEBUG  [main]  Spider  - Start :tr
+62 DEBUG  [main]  Spider  - Start :td
+62 DEBUG  [main]  Spider  - Start :div
+62 INFO  [main]  Spider  - a http://developers.sun.com/index.html
+62 DEBUG  [main]  Spider  - End :a
+78 INFO  [main]  Spider  - a http://developers.sun.com/prodtech/index.html
+78 DEBUG  [main]  Spider  - End :a
+78 DEBUG  [main]  Spider  - End :div
+78 DEBUG  [main]  Spider  - End :td
+78 DEBUG  [main]  Spider  - Start :td
+78 DEBUG  [main]  Spider  - Start :div
+78 DEBUG  [main]  Spider  - Start :b
+78 INFO  [main]  Spider  - a http://developers.sun.com/dispatcher.jsp?uid=6910021
+78 DEBUG  [main]  Spider  - End :a
+78 DEBUG  [main]  Spider  - End :b
+78 DEBUG  [main]  Spider  - Simple Tag :br
+78 INFO  [main]  Spider  - a http://developers.sun.com/dispatcher.jsp?uid=6910026
+78 DEBUG  [main]  Spider  - End :a
+78 INFO  [main]  Spider  - a http://developers.sun.com/dispatcher.jsp?uid=6910021
+78 DEBUG  [main]  Spider  - End :a
+78 INFO  [main]  Spider  - a http://developers.sun.com/user_registration/whyregister.html
+78 DEBUG  [main]  Spider  - End :a
+78 DEBUG  [main]  Spider  - End :div
+78 DEBUG  [main]  Spider  - End :td
+78 DEBUG  [main]  Spider  - End :tr
+78 DEBUG  [main]  Spider  - Start :tr
+78 DEBUG  [main]  Spider  - Start :td
+94 DEBUG  [main]  Spider  - Simple Tag :img
+94 DEBUG  [main]  Spider  - End :td
+94 DEBUG  [main]  Spider  - End :tr
+94 DEBUG  [main]  Spider  - End :table
+94 DEBUG  [main]  Spider  - Simple Tag :span
+94 DEBUG  [main]  Spider  - Simple Tag :span
+94 DEBUG  [main]  Spider  - Simple Tag :br
+94 DEBUG  [main]  Spider  - Start :div
+94 DEBUG  [main]  Spider  - End :div
+94 DEBUG  [main]  Spider  - Start :div
+94 DEBUG  [main]  Spider  - End :div
+94 DEBUG  [main]  Spider  - Start :table
+94 DEBUG  [main]  Spider  - Start :tr
+94 DEBUG  [main]  Spider  - Start :td
+94 DEBUG  [main]  Spider  - Start :div
+94 DEBUG  [main]  Spider  - Start :table
+94 DEBUG  [main]  Spider  - Start :tr
+94 DEBUG  [main]  Spider  - Start :td
+94 DEBUG  [main]  Spider  - Simple Tag :img
+94 DEBUG  [main]  Spider  - End :td
+94 DEBUG  [main]  Spider  - End :tr
+94 DEBUG  [main]  Spider  - End :table
+94 DEBUG  [main]  Spider  - End :div
+94 DEBUG  [main]  Spider  - Start :div
+94 INFO  [main]  Spider  - a /downloads/index.html
+94 DEBUG  [main]  Spider  - End :a
+94 DEBUG  [main]  Spider  - End :div
+94 DEBUG  [main]  Spider  - Start :table
+94 DEBUG  [main]  Spider  - Start :tr
+94 DEBUG  [main]  Spider  - Start :td
+94 DEBUG  [main]  Spider  - End :td
+94 DEBUG  [main]  Spider  - Start :td
+94 INFO  [main]  Spider  - a /downloads/ea/index.html
+94 DEBUG  [main]  Spider  - End :a
+94 DEBUG  [main]  Spider  - End :td
+94 DEBUG  [main]  Spider  - End :tr
+94 DEBUG  [main]  Spider  - Start :tr
+94 DEBUG  [main]  Spider  - Start :td
+94 DEBUG  [main]  Spider  - End :td
+94 DEBUG  [main]  Spider  - Start :td
+94 INFO  [main]  Spider  - a /downloads/tools/index.html
+94 DEBUG  [main]  Spider  - End :a
+94 DEBUG  [main]  Spider  - End :td
+94 DEBUG  [main]  Spider  - End :tr
+94 DEBUG  [main]  Spider  - End :table
+94 DEBUG  [main]  Spider  - Simple Tag :span
+94 DEBUG  [main]  Spider  - Simple Tag :span
+94 DEBUG  [main]  Spider  - Simple Tag :br
+94 DEBUG  [main]  Spider  - Start :div
+94 DEBUG  [main]  Spider  - Start :table
+94 DEBUG  [main]  Spider  - Start :tr
+94 DEBUG  [main]  Spider  - Start :td
+109 DEBUG  [main]  Spider  - Simple Tag :img
+109 DEBUG  [main]  Spider  - End :td
+109 DEBUG  [main]  Spider  - End :tr
+109 DEBUG  [main]  Spider  - End :table
+109 DEBUG  [main]  Spider  - End :div
+109 DEBUG  [main]  Spider  - Start :div
+109 INFO  [main]  Spider  - a /reference/index.html
+109 DEBUG  [main]  Spider  - End :a
+109 DEBUG  [main]  Spider  - End :div
+109 DEBUG  [main]  Spider  - Start :table
+109 DEBUG  [main]  Spider  - Start :tr
+109 DEBUG  [main]  Spider  - Start :td
+109 DEBUG  [main]  Spider  - End :td
+109 DEBUG  [main]  Spider  - Start :td
+109 INFO  [main]  Spider  - a /reference/api/index.html
+109 DEBUG  [main]  Spider  - End :a
+109 DEBUG  [main]  Spider  - End :td
+109 DEBUG  [main]  Spider  - End :tr
+109 DEBUG  [main]  Spider  - Start :tr
+109 DEBUG  [main]  Spider  - Start :td
+109 DEBUG  [main]  Spider  - End :td
+109 DEBUG  [main]  Spider  - Start :td
+109 INFO  [main]  Spider  - a /reference/codesamples/index.html
+109 DEBUG  [main]  Spider  - End :a
+109 DEBUG  [main]  Spider  - End :td
+109 DEBUG  [main]  Spider  - End :tr
+109 DEBUG  [main]  Spider  - Start :tr
+109 DEBUG  [main]  Spider  - Start :td
+109 DEBUG  [main]  Spider  - End :td
+109 DEBUG  [main]  Spider  - Start :td
+109 INFO  [main]  Spider  - a /reference/docs/index.html
+109 DEBUG  [main]  Spider  - End :a
+109 DEBUG  [main]  Spider  - End :td
+109 DEBUG  [main]  Spider  - End :tr
+109 DEBUG  [main]  Spider  - Start :tr
+109 DEBUG  [main]  Spider  - Start :td
+109 DEBUG  [main]  Spider  - End :td
+109 DEBUG  [main]  Spider  - Start :td
+109 INFO  [main]  Spider  - a /reference/blueprints/index.html
+109 DEBUG  [main]  Spider  - End :a
+109 DEBUG  [main]  Spider  - End :td
+109 DEBUG  [main]  Spider  - End :tr
+109 DEBUG  [main]  Spider  - Start :tr
+109 DEBUG  [main]  Spider  - Start :td
+109 DEBUG  [main]  Spider  - End :td
+109 DEBUG  [main]  Spider  - Start :td
+109 INFO  [main]  Spider  - a /reference/techart/index.html
+109 DEBUG  [main]  Spider  - End :a
+109 DEBUG  [main]  Spider  - End :td
+109 DEBUG  [main]  Spider  - End :tr
+109 DEBUG  [main]  Spider  - Start :tr
+109 DEBUG  [main]  Spider  - Start :td
+109 DEBUG  [main]  Spider  - End :td
+109 DEBUG  [main]  Spider  - Start :td
+109 INFO  [main]  Spider  - a /reference/index.html 
+109 DEBUG  [main]  Spider  - Simple Tag :span
+109 DEBUG  [main]  Spider  - Simple Tag :span
+109 DEBUG  [main]  Spider  - Start :b
+109 DEBUG  [main]  Spider  - End :b
+109 DEBUG  [main]  Spider  - End :a
+109 DEBUG  [main]  Spider  - End :td
+109 DEBUG  [main]  Spider  - End :tr
+109 DEBUG  [main]  Spider  - End :table
+109 DEBUG  [main]  Spider  - Simple Tag :span
+109 DEBUG  [main]  Spider  - Simple Tag :span
+109 DEBUG  [main]  Spider  - Simple Tag :br
+109 DEBUG  [main]  Spider  - Start :div
+109 DEBUG  [main]  Spider  - Start :table
+125 DEBUG  [main]  Spider  - Start :tr
+125 DEBUG  [main]  Spider  - Start :td
+125 DEBUG  [main]  Spider  - Simple Tag :img
+125 DEBUG  [main]  Spider  - End :td
+125 DEBUG  [main]  Spider  - End :tr
+125 DEBUG  [main]  Spider  - End :table
+125 DEBUG  [main]  Spider  - End :div
+125 DEBUG  [main]  Spider  - Start :div
+125 INFO  [main]  Spider  - a /community/index.html
+125 DEBUG  [main]  Spider  - End :a
+125 DEBUG  [main]  Spider  - End :div
+125 DEBUG  [main]  Spider  - Start :table
+125 DEBUG  [main]  Spider  - Start :tr
+125 DEBUG  [main]  Spider  - Start :td
+125 DEBUG  [main]  Spider  - End :td
+125 DEBUG  [main]  Spider  - Start :td
+125 INFO  [main]  Spider  - a http://forum.java.sun.com
+125 DEBUG  [main]  Spider  - End :a
+125 DEBUG  [main]  Spider  - End :td
+125 DEBUG  [main]  Spider  - End :tr
+125 DEBUG  [main]  Spider  - Start :tr
+125 DEBUG  [main]  Spider  - Start :td
+125 DEBUG  [main]  Spider  - End :td
+125 DEBUG  [main]  Spider  - Start :td
+125 INFO  [main]  Spider  - a http://bugs.sun.com/bugdatabase
+125 DEBUG  [main]  Spider  - End :a
+125 DEBUG  [main]  Spider  - End :td
+125 DEBUG  [main]  Spider  - End :tr
+125 DEBUG  [main]  Spider  - Start :tr
+125 DEBUG  [main]  Spider  - Start :td
+125 DEBUG  [main]  Spider  - End :td
+125 DEBUG  [main]  Spider  - Start :td
+125 INFO  [main]  Spider  - a /developer/community/chat/
+125 DEBUG  [main]  Spider  - End :a
+125 DEBUG  [main]  Spider  - End :td
+125 DEBUG  [main]  Spider  - End :tr
+125 DEBUG  [main]  Spider  - Start :tr
+125 DEBUG  [main]  Spider  - Start :td
+125 DEBUG  [main]  Spider  - End :td
+125 DEBUG  [main]  Spider  - Start :td
+125 INFO  [main]  Spider  - a /community/usergroups/index.html
+125 DEBUG  [main]  Spider  - End :a
+125 DEBUG  [main]  Spider  - End :td
+125 DEBUG  [main]  Spider  - End :tr
+125 DEBUG  [main]  Spider  - Start :tr
+125 DEBUG  [main]  Spider  - Start :td
+125 DEBUG  [main]  Spider  - End :td
+125 DEBUG  [main]  Spider  - Start :td
+125 INFO  [main]  Spider  - a /community/newsletters/index.html
+125 DEBUG  [main]  Spider  - End :a
+125 DEBUG  [main]  Spider  - End :td
+125 DEBUG  [main]  Spider  - End :tr
+125 DEBUG  [main]  Spider  - Start :tr
+125 DEBUG  [main]  Spider  - Start :td
+125 DEBUG  [main]  Spider  - End :td
+125 DEBUG  [main]  Spider  - Start :td
+125 INFO  [main]  Spider  - a /community/books/index.html
+140 DEBUG  [main]  Spider  - End :a
+140 DEBUG  [main]  Spider  - End :td
+140 DEBUG  [main]  Spider  - End :tr
+140 DEBUG  [main]  Spider  - Start :tr
+140 DEBUG  [main]  Spider  - Start :td
+140 DEBUG  [main]  Spider  - End :td
+140 DEBUG  [main]  Spider  - Start :td
+140 INFO  [main]  Spider  - a /developer/blogs/index.html
+140 DEBUG  [main]  Spider  - End :a
+140 DEBUG  [main]  Spider  - End :td
+140 DEBUG  [main]  Spider  - End :tr
+140 DEBUG  [main]  Spider  - End :table
+140 DEBUG  [main]  Spider  - Simple Tag :span
+140 DEBUG  [main]  Spider  - Simple Tag :span
+140 DEBUG  [main]  Spider  - Simple Tag :br
+140 DEBUG  [main]  Spider  - Start :div
+140 DEBUG  [main]  Spider  - Start :table
+140 DEBUG  [main]  Spider  - Start :tr
+140 DEBUG  [main]  Spider  - Start :td
+140 DEBUG  [main]  Spider  - Simple Tag :img
+140 DEBUG  [main]  Spider  - End :td
+140 DEBUG  [main]  Spider  - End :tr
+140 DEBUG  [main]  Spider  - End :table
+140 DEBUG  [main]  Spider  - End :div
+140 DEBUG  [main]  Spider  - Start :div
+140 INFO  [main]  Spider  - a /news/index.html
+140 DEBUG  [main]  Spider  - End :a
+140 DEBUG  [main]  Spider  - End :div
+140 DEBUG  [main]  Spider  - Simple Tag :span
+140 DEBUG  [main]  Spider  - Simple Tag :span
+140 DEBUG  [main]  Spider  - Simple Tag :br
+140 DEBUG  [main]  Spider  - Start :div
+140 DEBUG  [main]  Spider  - Start :table
+140 DEBUG  [main]  Spider  - Start :tr
+140 DEBUG  [main]  Spider  - Start :td
+156 DEBUG  [main]  Spider  - Simple Tag :img
+156 DEBUG  [main]  Spider  - End :td
+156 DEBUG  [main]  Spider  - End :tr
+156 DEBUG  [main]  Spider  - End :table
+156 DEBUG  [main]  Spider  - End :div
+156 DEBUG  [main]  Spider  - Start :div
+156 INFO  [main]  Spider  - a /learning/index.html
+156 DEBUG  [main]  Spider  - End :a
+156 DEBUG  [main]  Spider  - End :div
+156 DEBUG  [main]  Spider  - Start :table
+156 DEBUG  [main]  Spider  - Start :tr
+156 DEBUG  [main]  Spider  - Start :td
+156 DEBUG  [main]  Spider  - End :td
+156 DEBUG  [main]  Spider  - Start :td
+156 INFO  [main]  Spider  - a /learning/new2java/index.html
+156 DEBUG  [main]  Spider  - End :a
+156 DEBUG  [main]  Spider  - End :td
+156 DEBUG  [main]  Spider  - End :tr
+156 DEBUG  [main]  Spider  - Start :tr
+156 DEBUG  [main]  Spider  - Start :td
+156 DEBUG  [main]  Spider  - End :td
+156 DEBUG  [main]  Spider  - Start :td
+156 INFO  [main]  Spider  - a /learning/tutorial/index.html
+156 DEBUG  [main]  Spider  - End :a
+156 DEBUG  [main]  Spider  - End :td
+156 DEBUG  [main]  Spider  - End :tr
+156 DEBUG  [main]  Spider  - Start :tr
+156 DEBUG  [main]  Spider  - Start :td
+156 DEBUG  [main]  Spider  - End :td
+156 DEBUG  [main]  Spider  - Start :td
+156 INFO  [main]  Spider  - a /learning/training/index.html
+156 DEBUG  [main]  Spider  - End :a
+156 DEBUG  [main]  Spider  - End :td
+156 DEBUG  [main]  Spider  - End :tr
+156 DEBUG  [main]  Spider  - Start :tr
+156 DEBUG  [main]  Spider  - Start :td
+156 DEBUG  [main]  Spider  - End :td
+156 DEBUG  [main]  Spider  - Start :td
+156 INFO  [main]  Spider  - a /learning/coursecert/index.html
+156 DEBUG  [main]  Spider  - End :a
+156 DEBUG  [main]  Spider  - End :td
+172 DEBUG  [main]  Spider  - End :tr
+172 DEBUG  [main]  Spider  - Start :tr
+172 DEBUG  [main]  Spider  - Start :td
+172 DEBUG  [main]  Spider  - End :td
+172 DEBUG  [main]  Spider  - Start :td
+172 INFO  [main]  Spider  - a /learning/quizzes/index.html
+172 DEBUG  [main]  Spider  - End :a
+172 DEBUG  [main]  Spider  - End :td
+172 DEBUG  [main]  Spider  - End :tr
+172 DEBUG  [main]  Spider  - End :table
+172 DEBUG  [main]  Spider  - Simple Tag :span
+172 DEBUG  [main]  Spider  - Simple Tag :span
+172 DEBUG  [main]  Spider  - Simple Tag :br
+172 DEBUG  [main]  Spider  - Start :div
+172 DEBUG  [main]  Spider  - Start :table
+172 DEBUG  [main]  Spider  - Start :tr
+172 DEBUG  [main]  Spider  - Start :td
+172 DEBUG  [main]  Spider  - Simple Tag :img
+172 DEBUG  [main]  Spider  - End :td
+172 DEBUG  [main]  Spider  - End :tr
+172 DEBUG  [main]  Spider  - End :table
+172 DEBUG  [main]  Spider  - End :div
+172 DEBUG  [main]  Spider  - Start :div
+172 DEBUG  [main]  Spider  - Start :b
+172 DEBUG  [main]  Spider  - End :b
+172 DEBUG  [main]  Spider  - End :div
+172 DEBUG  [main]  Spider  - Start :table
+172 DEBUG  [main]  Spider  - Start :tr
+172 DEBUG  [main]  Spider  - Start :td
+172 DEBUG  [main]  Spider  - End :td
+172 DEBUG  [main]  Spider  - Start :td
+172 INFO  [main]  Spider  - a http://gceclub.sun.com.cn/NASApp/sme/controller/teclist?tid=01
+312 DEBUG  [main]  Spider  - Simple Tag :img
+312 DEBUG  [main]  Spider  - End :a
+312 DEBUG  [main]  Spider  - End :td
+312 DEBUG  [main]  Spider  - End :tr
+328 DEBUG  [main]  Spider  - Start :tr
+328 DEBUG  [main]  Spider  - Start :td
+328 DEBUG  [main]  Spider  - End :td
+328 DEBUG  [main]  Spider  - Start :td
+328 INFO  [main]  Spider  - a http://kr.sun.com/developers
+328 DEBUG  [main]  Spider  - Simple Tag :img
+328 DEBUG  [main]  Spider  - End :a
+328 DEBUG  [main]  Spider  - End :td
+328 DEBUG  [main]  Spider  - End :tr
+328 DEBUG  [main]  Spider  - Start :tr
+328 DEBUG  [main]  Spider  - Start :td
+328 DEBUG  [main]  Spider  - End :td
+328 DEBUG  [main]  Spider  - Start :td
+328 INFO  [main]  Spider  - a http://sdc.sun.co.jp/java
+328 DEBUG  [main]  Spider  - Simple Tag :img
+328 DEBUG  [main]  Spider  - End :a
+328 DEBUG  [main]  Spider  - End :td
+328 DEBUG  [main]  Spider  - End :tr
+328 DEBUG  [main]  Spider  - End :table
+328 DEBUG  [main]  Spider  - Simple Tag :span
+328 DEBUG  [main]  Spider  - Simple Tag :span
+328 DEBUG  [main]  Spider  - Simple Tag :br
+328 DEBUG  [main]  Spider  - Start :div
+328 DEBUG  [main]  Spider  - Start :table
+328 DEBUG  [main]  Spider  - Start :tr
+328 DEBUG  [main]  Spider  - Start :td
+328 DEBUG  [main]  Spider  - Simple Tag :img
+328 DEBUG  [main]  Spider  - End :td
+328 DEBUG  [main]  Spider  - End :tr
+328 DEBUG  [main]  Spider  - End :table
+328 DEBUG  [main]  Spider  - End :div
+328 DEBUG  [main]  Spider  - Simple Tag :span
+328 DEBUG  [main]  Spider  - Simple Tag :span
+328 DEBUG  [main]  Spider  - Simple Tag :br
+328 DEBUG  [main]  Spider  - End :td
+328 DEBUG  [main]  Spider  - Start :td
+328 INFO  [main]  Spider  - a null
+328 DEBUG  [main]  Spider  - End :a
+328 DEBUG  [main]  Spider  - Start :div
+328 DEBUG  [main]  Spider  - Simple Tag :span
+328 DEBUG  [main]  Spider  - Simple Tag :span
+328 INFO  [main]  Spider  - a /overview.html
+328 DEBUG  [main]  Spider  - End :a
+328 DEBUG  [main]  Spider  - End :div
+328 DEBUG  [main]  Spider  - Start :div
+328 DEBUG  [main]  Spider  - End :div
+328 DEBUG  [main]  Spider  - Simple Tag :span
+328 DEBUG  [main]  Spider  - Simple Tag :span
+328 DEBUG  [main]  Spider  - Simple Tag :br
+328 DEBUG  [main]  Spider  - Start :table
+328 DEBUG  [main]  Spider  - Start :tr
+328 DEBUG  [main]  Spider  - Start :td
+328 DEBUG  [main]  Spider  - Start :table
+328 DEBUG  [main]  Spider  - Start :tr
+328 DEBUG  [main]  Spider  - Start :td
+328 DEBUG  [main]  Spider  - Simple Tag :img
+328 DEBUG  [main]  Spider  - End :td
+328 DEBUG  [main]  Spider  - Start :td
+328 DEBUG  [main]  Spider  - Start :b
+328 INFO  [main]  Spider  - a /j2se/index.jsp
+328 DEBUG  [main]  Spider  - End :a
+328 DEBUG  [main]  Spider  - End :b
+328 DEBUG  [main]  Spider  - End :td
+328 DEBUG  [main]  Spider  - End :tr
+328 DEBUG  [main]  Spider  - Start :tr
+328 DEBUG  [main]  Spider  - Start :td
+328 DEBUG  [main]  Spider  - Simple Tag :img
+328 DEBUG  [main]  Spider  - End :td
+328 DEBUG  [main]  Spider  - Start :td
+328 DEBUG  [main]  Spider  - Start :b
+328 INFO  [main]  Spider  - a /j2ee/index.jsp
+344 DEBUG  [main]  Spider  - End :a
+344 DEBUG  [main]  Spider  - End :b
+344 DEBUG  [main]  Spider  - End :td
+344 DEBUG  [main]  Spider  - End :tr
+344 DEBUG  [main]  Spider  - Start :tr
+344 DEBUG  [main]  Spider  - Start :td
+344 DEBUG  [main]  Spider  - Simple Tag :img
+344 DEBUG  [main]  Spider  - End :td
+344 DEBUG  [main]  Spider  - Start :td
+344 DEBUG  [main]  Spider  - Start :b
+344 INFO  [main]  Spider  - a /j2me/index.jsp
+344 DEBUG  [main]  Spider  - End :a
+344 DEBUG  [main]  Spider  - End :b
+344 DEBUG  [main]  Spider  - End :td
+344 DEBUG  [main]  Spider  - End :tr
+344 DEBUG  [main]  Spider  - Start :tr
+344 DEBUG  [main]  Spider  - Start :td
+344 DEBUG  [main]  Spider  - Simple Tag :img
+344 DEBUG  [main]  Spider  - End :td
+344 DEBUG  [main]  Spider  - Start :td
+344 DEBUG  [main]  Spider  - Start :b
+344 INFO  [main]  Spider  - a /products/javacard/index.jsp
+344 DEBUG  [main]  Spider  - End :a
+344 DEBUG  [main]  Spider  - End :b
+344 DEBUG  [main]  Spider  - End :td
+344 DEBUG  [main]  Spider  - End :tr
+344 DEBUG  [main]  Spider  - End :table
+344 DEBUG  [main]  Spider  - End :td
+344 DEBUG  [main]  Spider  - Start :td
+344 DEBUG  [main]  Spider  - Simple Tag :img
+344 DEBUG  [main]  Spider  - End :td
+344 DEBUG  [main]  Spider  - Start :td
+344 DEBUG  [main]  Spider  - Start :table
+344 DEBUG  [main]  Spider  - Start :tr
+344 DEBUG  [main]  Spider  - Start :td
+344 DEBUG  [main]  Spider  - Simple Tag :img
+344 DEBUG  [main]  Spider  - End :td
+344 DEBUG  [main]  Spider  - Start :td
+344 DEBUG  [main]  Spider  - Start :b
+344 INFO  [main]  Spider  - a /webservices/index.jsp
+344 DEBUG  [main]  Spider  - End :a
+344 DEBUG  [main]  Spider  - End :b
+344 DEBUG  [main]  Spider  - End :td
+344 DEBUG  [main]  Spider  - End :tr
+344 DEBUG  [main]  Spider  - Start :tr
+344 DEBUG  [main]  Spider  - Start :td
+344 DEBUG  [main]  Spider  - Simple Tag :img
+344 DEBUG  [main]  Spider  - End :td
+344 DEBUG  [main]  Spider  - Start :td
+344 DEBUG  [main]  Spider  - Start :b
+344 INFO  [main]  Spider  - a /integration/
+344 DEBUG  [main]  Spider  - End :a
+344 DEBUG  [main]  Spider  - End :b
+344 DEBUG  [main]  Spider  - End :td
+344 DEBUG  [main]  Spider  - End :tr
+344 DEBUG  [main]  Spider  - Start :tr
+344 DEBUG  [main]  Spider  - Start :td
+344 DEBUG  [main]  Spider  - Simple Tag :img
+344 DEBUG  [main]  Spider  - End :td
+344 DEBUG  [main]  Spider  - Start :td
+344 DEBUG  [main]  Spider  - Start :b
+344 INFO  [main]  Spider  - a /xml/index.jsp
+344 DEBUG  [main]  Spider  - End :a
+344 DEBUG  [main]  Spider  - End :b
+344 DEBUG  [main]  Spider  - End :td
+344 DEBUG  [main]  Spider  - End :tr
+344 DEBUG  [main]  Spider  - Start :tr
+344 DEBUG  [main]  Spider  - Start :td
+344 DEBUG  [main]  Spider  - Simple Tag :img
+344 DEBUG  [main]  Spider  - End :td
+344 DEBUG  [main]  Spider  - Start :td
+344 DEBUG  [main]  Spider  - Start :b
+344 INFO  [main]  Spider  - a /othertech/index.jsp
+344 DEBUG  [main]  Spider  - End :a
+344 DEBUG  [main]  Spider  - End :b
+344 DEBUG  [main]  Spider  - End :td
+344 DEBUG  [main]  Spider  - End :tr
+344 DEBUG  [main]  Spider  - End :table
+344 DEBUG  [main]  Spider  - End :td
+359 DEBUG  [main]  Spider  - End :tr
+359 DEBUG  [main]  Spider  - End :table
+359 DEBUG  [main]  Spider  - Simple Tag :span
+359 DEBUG  [main]  Spider  - Simple Tag :span
+359 DEBUG  [main]  Spider  - Simple Tag :br
+359 DEBUG  [main]  Spider  - Start :table
+359 DEBUG  [main]  Spider  - Start :tr
+359 DEBUG  [main]  Spider  - Start :td
+359 DEBUG  [main]  Spider  - Start :div
+359 DEBUG  [main]  Spider  - End :div
+359 DEBUG  [main]  Spider  - End :td
+359 DEBUG  [main]  Spider  - Start :td
+359 DEBUG  [main]  Spider  - Start :div
+359 DEBUG  [main]  Spider  - End :div
+359 DEBUG  [main]  Spider  - End :td
+359 DEBUG  [main]  Spider  - End :tr
+359 DEBUG  [main]  Spider  - End :table
+359 DEBUG  [main]  Spider  - Simple Tag :span
+359 DEBUG  [main]  Spider  - Simple Tag :span
+359 DEBUG  [main]  Spider  - Simple Tag :br
+359 DEBUG  [main]  Spider  - Start :table
+359 DEBUG  [main]  Spider  - Start :tr
+359 DEBUG  [main]  Spider  - Start :td
+359 INFO  [main]  Spider  - a /javaone/sf/see_you_next_year.jsp
+359 DEBUG  [main]  Spider  - Simple Tag :img
+359 DEBUG  [main]  Spider  - End :a
+359 DEBUG  [main]  Spider  - End :td
+359 DEBUG  [main]  Spider  - Start :td
+359 DEBUG  [main]  Spider  - Simple Tag :img
+359 DEBUG  [main]  Spider  - End :td
+359 DEBUG  [main]  Spider  - Start :td
+359 DEBUG  [main]  Spider  - Simple Tag :span
+359 DEBUG  [main]  Spider  - Simple Tag :span
+359 DEBUG  [main]  Spider  - Simple Tag :br
+359 DEBUG  [main]  Spider  - Start :b
+359 INFO  [main]  Spider  - a /javaone/sf/see_you_next_year.jsp
+359 DEBUG  [main]  Spider  - End :a
+359 DEBUG  [main]  Spider  - End :b
+359 DEBUG  [main]  Spider  - End :td
+359 DEBUG  [main]  Spider  - End :tr
+359 DEBUG  [main]  Spider  - End :table
+359 DEBUG  [main]  Spider  - Simple Tag :span
+359 DEBUG  [main]  Spider  - Simple Tag :span
+359 DEBUG  [main]  Spider  - Simple Tag :br
+359 DEBUG  [main]  Spider  - Start :div
+359 DEBUG  [main]  Spider  - Simple Tag :span
+359 DEBUG  [main]  Spider  - Simple Tag :span
+359 DEBUG  [main]  Spider  - Simple Tag :br
+359 DEBUG  [main]  Spider  - Start :b
+359 INFO  [main]  Spider  - a /javaone/sf/java_tech_future.jsp
+359 DEBUG  [main]  Spider  - End :a
+359 DEBUG  [main]  Spider  - End :b
+359 DEBUG  [main]  Spider  - End :div
+359 DEBUG  [main]  Spider  - Simple Tag :span
+359 DEBUG  [main]  Spider  - Simple Tag :span
+359 DEBUG  [main]  Spider  - Simple Tag :br
+359 DEBUG  [main]  Spider  - Start :div
+359 DEBUG  [main]  Spider  - Simple Tag :span
+359 DEBUG  [main]  Spider  - Simple Tag :span
+359 INFO  [main]  Spider  - a /features/index.html
+375 DEBUG  [main]  Spider  - End :a
+375 DEBUG  [main]  Spider  - End :div
+375 DEBUG  [main]  Spider  - Simple Tag :span
+375 DEBUG  [main]  Spider  - Simple Tag :span
+375 DEBUG  [main]  Spider  - Simple Tag :br
+375 DEBUG  [main]  Spider  - Start :table
+375 DEBUG  [main]  Spider  - Start :tr
+375 DEBUG  [main]  Spider  - Start :td
+375 DEBUG  [main]  Spider  - Start :div
+375 DEBUG  [main]  Spider  - End :div
+375 DEBUG  [main]  Spider  - End :td
+375 DEBUG  [main]  Spider  - Start :td
+375 DEBUG  [main]  Spider  - Start :div
+375 DEBUG  [main]  Spider  - End :div
+375 DEBUG  [main]  Spider  - End :td
+375 DEBUG  [main]  Spider  - End :tr
+375 DEBUG  [main]  Spider  - End :table
+375 DEBUG  [main]  Spider  - Simple Tag :span
+375 DEBUG  [main]  Spider  - Simple Tag :span
+375 DEBUG  [main]  Spider  - Simple Tag :br
+375 DEBUG  [main]  Spider  - Start :div
+375 DEBUG  [main]  Spider  - Start :b
+375 INFO  [main]  Spider  - a http://www.theserverside.com/articles/article.tss?l=MigratingtoJava5&News06_21_05-click
+375 DEBUG  [main]  Spider  - End :a
+375 DEBUG  [main]  Spider  - End :b
+375 DEBUG  [main]  Spider  - Simple Tag :br
+375 DEBUG  [main]  Spider  - End :div
+375 DEBUG  [main]  Spider  - Simple Tag :span
+375 DEBUG  [main]  Spider  - Simple Tag :span
+375 DEBUG  [main]  Spider  - Simple Tag :br
+375 DEBUG  [main]  Spider  - Start :div
+375 DEBUG  [main]  Spider  - Start :b
+375 INFO  [main]  Spider  - a /developer/technicalArticles/javaone2005/naming.html
+375 DEBUG  [main]  Spider  - End :a
+375 DEBUG  [main]  Spider  - End :b
+375 DEBUG  [main]  Spider  - Simple Tag :br
+375 DEBUG  [main]  Spider  - End :div
+375 DEBUG  [main]  Spider  - Simple Tag :span
+375 DEBUG  [main]  Spider  - Simple Tag :span
+375 DEBUG  [main]  Spider  - Simple Tag :br
+375 DEBUG  [main]  Spider  - Start :div
+375 DEBUG  [main]  Spider  - Start :b
+375 INFO  [main]  Spider  - a https://glassfish.dev.java.net
+375 DEBUG  [main]  Spider  - End :a
+375 DEBUG  [main]  Spider  - End :b
+375 DEBUG  [main]  Spider  - Simple Tag :br
+375 DEBUG  [main]  Spider  - End :div
+375 DEBUG  [main]  Spider  - Start :table
+375 DEBUG  [main]  Spider  - End :table
+375 DEBUG  [main]  Spider  - Simple Tag :span
+375 DEBUG  [main]  Spider  - Simple Tag :span
+375 DEBUG  [main]  Spider  - Simple Tag :br
+375 DEBUG  [main]  Spider  - Start :table
+375 DEBUG  [main]  Spider  - Start :tr
+375 DEBUG  [main]  Spider  - Start :td
+375 DEBUG  [main]  Spider  - Start :div
+375 DEBUG  [main]  Spider  - End :div
+375 DEBUG  [main]  Spider  - End :td
+375 DEBUG  [main]  Spider  - Start :td
+375 DEBUG  [main]  Spider  - Start :div
+375 DEBUG  [main]  Spider  - End :div
+390 DEBUG  [main]  Spider  - End :td
+390 DEBUG  [main]  Spider  - End :tr
+390 DEBUG  [main]  Spider  - End :table
+390 DEBUG  [main]  Spider  - Simple Tag :span
+390 DEBUG  [main]  Spider  - Simple Tag :span
+390 DEBUG  [main]  Spider  - Simple Tag :br
+390 DEBUG  [main]  Spider  - Start :div
+390 DEBUG  [main]  Spider  - Start :b
+390 INFO  [main]  Spider  - a /learning/new2java/index.html
+390 DEBUG  [main]  Spider  - End :a
+390 DEBUG  [main]  Spider  - End :b
+390 DEBUG  [main]  Spider  - Simple Tag :br
+390 INFO  [main]  Spider  - a /developer/onlineTraining/new2java/programming/learn/unravelingjava.html
+390 DEBUG  [main]  Spider  - End :a
+390 INFO  [main]  Spider  - a /developer/onlineTraining/new2java/javamap/intro.html
+390 DEBUG  [main]  Spider  - End :a
+390 INFO  [main]  Spider  - a /developer/onlineTraining/new2java/programming/learn/
+390 DEBUG  [main]  Spider  - End :a
+390 DEBUG  [main]  Spider  - End :div
+390 DEBUG  [main]  Spider  - Simple Tag :span
+390 DEBUG  [main]  Spider  - Simple Tag :span
+390 DEBUG  [main]  Spider  - Simple Tag :br
+390 DEBUG  [main]  Spider  - Start :div
+390 DEBUG  [main]  Spider  - Start :b
+390 INFO  [main]  Spider  - a http://java.com
+390 DEBUG  [main]  Spider  - End :a
+390 DEBUG  [main]  Spider  - End :b
+390 DEBUG  [main]  Spider  - Simple Tag :br
+390 DEBUG  [main]  Spider  - End :div
+1390 DEBUG  [main]  Spider  - Simple Tag :span
+1390 DEBUG  [main]  Spider  - Simple Tag :span
+1390 DEBUG  [main]  Spider  - Simple Tag :br
+1390 DEBUG  [main]  Spider  - Simple Tag :br
+1390 DEBUG  [main]  Spider  - Simple Tag :img
+1390 DEBUG  [main]  Spider  - End :td
+1390 DEBUG  [main]  Spider  - Start :td
+1390 DEBUG  [main]  Spider  - Start :table
+1390 DEBUG  [main]  Spider  - Start :tr
+1390 DEBUG  [main]  Spider  - Start :td
+1390 INFO  [main]  Spider  - a http://www.netbeans.org/downloads/index.html
+1406 DEBUG  [main]  Spider  - Simple Tag :img
+1406 DEBUG  [main]  Spider  - End :a
+1406 DEBUG  [main]  Spider  - End :td
+1406 DEBUG  [main]  Spider  - End :tr
+1406 DEBUG  [main]  Spider  - End :table
+1406 DEBUG  [main]  Spider  - Simple Tag :span
+1406 DEBUG  [main]  Spider  - Simple Tag :span
+1406 DEBUG  [main]  Spider  - Simple Tag :br
+1406 DEBUG  [main]  Spider  - Start :table
+1406 DEBUG  [main]  Spider  - Start :tr
+1406 DEBUG  [main]  Spider  - Start :td
+1406 DEBUG  [main]  Spider  - Start :div
+1406 DEBUG  [main]  Spider  - End :div
+1406 DEBUG  [main]  Spider  - End :td
+1406 DEBUG  [main]  Spider  - End :tr
+1406 DEBUG  [main]  Spider  - End :table
+1406 DEBUG  [main]  Spider  - Start :table
+1406 DEBUG  [main]  Spider  - Start :tr
+1406 DEBUG  [main]  Spider  - Start :td
+1406 DEBUG  [main]  Spider  - Start :div
+1406 DEBUG  [main]  Spider  - Start :table
+1406 DEBUG  [main]  Spider  - Start :tr
+1406 DEBUG  [main]  Spider  - Start :td
+1406 DEBUG  [main]  Spider  - End :td
+1406 DEBUG  [main]  Spider  - Start :td
+1406 INFO  [main]  Spider  - a /j2se/1.5.0/download.jsp
+1406 DEBUG  [main]  Spider  - End :a
+1406 DEBUG  [main]  Spider  - End :td
+1406 DEBUG  [main]  Spider  - End :tr
+1406 DEBUG  [main]  Spider  - Start :tr
+1406 DEBUG  [main]  Spider  - Start :td
+1406 DEBUG  [main]  Spider  - End :td
+1406 DEBUG  [main]  Spider  - Start :td
+1406 INFO  [main]  Spider  - a /j2se/1.5.0/ja/download.html
+1406 DEBUG  [main]  Spider  - Simple Tag :img
+1422 DEBUG  [main]  Spider  - End :a
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - End :tr
+1422 DEBUG  [main]  Spider  - Start :tr
+1422 DEBUG  [main]  Spider  - Start :td
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - Start :td
+1422 INFO  [main]  Spider  - a http://www.netbeans.org/downloads/index.html
+1422 DEBUG  [main]  Spider  - End :a
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - End :tr
+1422 DEBUG  [main]  Spider  - Start :tr
+1422 DEBUG  [main]  Spider  - Start :td
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - Start :td
+1422 INFO  [main]  Spider  - a /j2ee/1.4/download-sdk.html
+1422 DEBUG  [main]  Spider  - End :a
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - End :tr
+1422 DEBUG  [main]  Spider  - Start :tr
+1422 DEBUG  [main]  Spider  - Start :td
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - Start :td
+1422 INFO  [main]  Spider  - a /j2se/1.4.2/download.html
+1422 DEBUG  [main]  Spider  - End :a
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - End :tr
+1422 DEBUG  [main]  Spider  - Start :tr
+1422 DEBUG  [main]  Spider  - Start :td
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - Start :td
+1422 INFO  [main]  Spider  - a /j2se/1.4.2/ja/download.html
+1422 DEBUG  [main]  Spider  - Simple Tag :img
+1422 DEBUG  [main]  Spider  - End :a
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - End :tr
+1422 DEBUG  [main]  Spider  - Start :tr
+1422 DEBUG  [main]  Spider  - Start :td
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - Start :td
+1422 INFO  [main]  Spider  - a /webservices/downloads/webservicespack.html
+1422 DEBUG  [main]  Spider  - End :a
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - End :tr
+1422 DEBUG  [main]  Spider  - Start :tr
+1422 DEBUG  [main]  Spider  - Start :td
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - Start :td
+1422 INFO  [main]  Spider  - a http://developers.sun.com/prodtech/javatools/jscreator/index.jsp
+1422 DEBUG  [main]  Spider  - End :a
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - End :tr
+1422 DEBUG  [main]  Spider  - Start :tr
+1422 DEBUG  [main]  Spider  - Start :td
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - Start :td
+1422 INFO  [main]  Spider  - a http://developers.sun.com/prodtech/javatools/jsenterprise/index.html
+1422 DEBUG  [main]  Spider  - End :a
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - End :tr
+1422 DEBUG  [main]  Spider  - Start :tr
+1422 DEBUG  [main]  Spider  - Start :td
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - Start :td
+1422 INFO  [main]  Spider  - a http://java.sun.com/j2ee/1.4/download.html#sdk
+1422 DEBUG  [main]  Spider  - End :a
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - End :tr
+1422 DEBUG  [main]  Spider  - Start :tr
+1422 DEBUG  [main]  Spider  - Start :td
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - Start :td
+1422 INFO  [main]  Spider  - a http://nct.digitalriver.com/fulfill/0172.001
+1422 DEBUG  [main]  Spider  - End :a
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - End :tr
+1422 DEBUG  [main]  Spider  - Start :tr
+1422 DEBUG  [main]  Spider  - Start :td
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - Start :td
+1422 INFO  [main]  Spider  - a http://wwws.sun.com/software/star/staroffice/sdk/
+1422 DEBUG  [main]  Spider  - End :a
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - End :tr
+1422 DEBUG  [main]  Spider  - End :table
+1422 DEBUG  [main]  Spider  - End :div
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - End :tr
+1422 DEBUG  [main]  Spider  - End :table
+1422 DEBUG  [main]  Spider  - Simple Tag :span
+1422 DEBUG  [main]  Spider  - Simple Tag :span
+1422 DEBUG  [main]  Spider  - Simple Tag :br
+1422 DEBUG  [main]  Spider  - Start :table
+1422 DEBUG  [main]  Spider  - Start :tr
+1422 DEBUG  [main]  Spider  - Start :td
+1422 DEBUG  [main]  Spider  - Start :table
+1422 DEBUG  [main]  Spider  - Start :tr
+1422 DEBUG  [main]  Spider  - Start :td
+1422 DEBUG  [main]  Spider  - Start :div
+1422 DEBUG  [main]  Spider  - Start :b
+1422 INFO  [main]  Spider  - a http://developers.sun.com/prodtech/javatools/jscreator/ea/jsc2/
+1422 DEBUG  [main]  Spider  - End :a
+1422 DEBUG  [main]  Spider  - End :b
+1422 DEBUG  [main]  Spider  - Simple Tag :br
+1422 DEBUG  [main]  Spider  - End :div
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - End :tr
+1422 DEBUG  [main]  Spider  - End :table
+1422 DEBUG  [main]  Spider  - End :td
+1422 DEBUG  [main]  Spider  - End :tr
+1422 DEBUG  [main]  Spider  - End :table
+1437 DEBUG  [main]  Spider  - Simple Tag :span
+1437 DEBUG  [main]  Spider  - Simple Tag :span
+1437 DEBUG  [main]  Spider  - Simple Tag :br
+1437 DEBUG  [main]  Spider  - Start :table
+1437 DEBUG  [main]  Spider  - Start :tr
+1437 DEBUG  [main]  Spider  - Start :td
+1437 DEBUG  [main]  Spider  - Start :table
+1437 DEBUG  [main]  Spider  - Start :tr
+1437 DEBUG  [main]  Spider  - Start :td
+1437 DEBUG  [main]  Spider  - Start :div
+1437 DEBUG  [main]  Spider  - Start :b
+1437 INFO  [main]  Spider  - a /webservices/downloads/webservicespack.html
+1437 DEBUG  [main]  Spider  - End :a
+1437 DEBUG  [main]  Spider  - End :b
+1437 DEBUG  [main]  Spider  - Simple Tag :br
+1437 DEBUG  [main]  Spider  - End :div
+1437 DEBUG  [main]  Spider  - End :td
+1437 DEBUG  [main]  Spider  - End :tr
+1437 DEBUG  [main]  Spider  - End :table
+1437 DEBUG  [main]  Spider  - End :td
+1437 DEBUG  [main]  Spider  - End :tr
+1437 DEBUG  [main]  Spider  - End :table
+1437 DEBUG  [main]  Spider  - Simple Tag :span
+1437 DEBUG  [main]  Spider  - Simple Tag :span
+1437 DEBUG  [main]  Spider  - Simple Tag :br
+1437 DEBUG  [main]  Spider  - Start :table
+1437 DEBUG  [main]  Spider  - Start :tr
+1437 DEBUG  [main]  Spider  - Start :td
+1437 INFO  [main]  Spider  - a http://onesearch.sun.com/search/onesearch/index.jsp?col=developer-all&qt=java
+1437 DEBUG  [main]  Spider  - Simple Tag :img
+1437 DEBUG  [main]  Spider  - End :a
+1437 DEBUG  [main]  Spider  - End :td
+1437 DEBUG  [main]  Spider  - End :tr
+1437 DEBUG  [main]  Spider  - End :table
+1437 DEBUG  [main]  Spider  - Simple Tag :span
+1437 DEBUG  [main]  Spider  - Simple Tag :span
+1437 DEBUG  [main]  Spider  - Simple Tag :br
+1437 DEBUG  [main]  Spider  - Start :table
+1437 DEBUG  [main]  Spider  - Start :tr
+1437 DEBUG  [main]  Spider  - Start :td
+1437 DEBUG  [main]  Spider  - Start :div
+1437 DEBUG  [main]  Spider  - End :div
+1437 DEBUG  [main]  Spider  - End :td
+1437 DEBUG  [main]  Spider  - End :tr
+1437 DEBUG  [main]  Spider  - End :table
+1437 DEBUG  [main]  Spider  - Start :table
+1437 DEBUG  [main]  Spider  - Start :tr
+1437 DEBUG  [main]  Spider  - Start :td
+1437 DEBUG  [main]  Spider  - Start :div
+1437 DEBUG  [main]  Spider  - Start :table
+1437 DEBUG  [main]  Spider  - Start :tr
+1437 DEBUG  [main]  Spider  - Start :td
+1437 DEBUG  [main]  Spider  - Start :b
+1437 DEBUG  [main]  Spider  - End :b
+1437 DEBUG  [main]  Spider  - End :td
+1437 DEBUG  [main]  Spider  - End :tr
+1437 DEBUG  [main]  Spider  - Start :tr
+1437 DEBUG  [main]  Spider  - Start :td
+1437 DEBUG  [main]  Spider  - End :td
+1437 DEBUG  [main]  Spider  - Start :td
+1437 INFO  [main]  Spider  - a http://developers.sun.com/techtopics/desktop/index.html
+1437 DEBUG  [main]  Spider  - End :a
+1437 DEBUG  [main]  Spider  - End :td
+1437 DEBUG  [main]  Spider  - End :tr
+1437 DEBUG  [main]  Spider  - Start :tr
+1437 DEBUG  [main]  Spider  - Start :td
+1437 DEBUG  [main]  Spider  - End :td
+1437 DEBUG  [main]  Spider  - Start :td
+1437 INFO  [main]  Spider  - a /performance/index.jsp
+1437 DEBUG  [main]  Spider  - End :a
+1437 DEBUG  [main]  Spider  - End :td
+1437 DEBUG  [main]  Spider  - End :tr
+1437 DEBUG  [main]  Spider  - Start :tr
+1437 DEBUG  [main]  Spider  - Start :td
+1437 DEBUG  [main]  Spider  - End :td
+1437 DEBUG  [main]  Spider  - Start :td
+1437 INFO  [main]  Spider  - a http://developers.sun.com/techtopics/security/index.html
+1437 DEBUG  [main]  Spider  - End :a
+1437 DEBUG  [main]  Spider  - End :td
+1437 DEBUG  [main]  Spider  - End :tr
+1437 DEBUG  [main]  Spider  - Start :tr
+1437 DEBUG  [main]  Spider  - Start :td
+1437 DEBUG  [main]  Spider  - End :td
+1437 DEBUG  [main]  Spider  - Start :td
+1437 INFO  [main]  Spider  - a http://developers.sun.com/techtopics/mobility/index.jsp
+1437 DEBUG  [main]  Spider  - End :a
+1437 DEBUG  [main]  Spider  - End :td
+1437 DEBUG  [main]  Spider  - End :tr
+1437 DEBUG  [main]  Spider  - Start :tr
+1437 DEBUG  [main]  Spider  - Start :td
+1437 DEBUG  [main]  Spider  - End :td
+1437 DEBUG  [main]  Spider  - Start :td
+1437 INFO  [main]  Spider  - a http://developers.sun.com/techtopics/webservices/index.html
+1437 DEBUG  [main]  Spider  - End :a
+1437 DEBUG  [main]  Spider  - End :td
+1437 DEBUG  [main]  Spider  - End :tr
+1437 DEBUG  [main]  Spider  - Start :tr
+1437 DEBUG  [main]  Spider  - Start :td
+1437 DEBUG  [main]  Spider  - Simple Tag :span
+1437 DEBUG  [main]  Spider  - Simple Tag :span
+1437 DEBUG  [main]  Spider  - End :td
+1437 DEBUG  [main]  Spider  - End :tr
+1453 DEBUG  [main]  Spider  - Start :tr
+1453 DEBUG  [main]  Spider  - Start :td
+1453 DEBUG  [main]  Spider  - Start :b
+1453 DEBUG  [main]  Spider  - End :b
+1453 DEBUG  [main]  Spider  - End :td
+1453 DEBUG  [main]  Spider  - End :tr
+1453 DEBUG  [main]  Spider  - Start :tr
+1453 DEBUG  [main]  Spider  - Start :td
+1453 DEBUG  [main]  Spider  - End :td
+1453 DEBUG  [main]  Spider  - Start :td
+1453 INFO  [main]  Spider  - a /upgrade/index.html
+1453 DEBUG  [main]  Spider  - End :a
+1453 DEBUG  [main]  Spider  - End :td
+1453 DEBUG  [main]  Spider  - End :tr
+1453 DEBUG  [main]  Spider  - Start :tr
+1453 DEBUG  [main]  Spider  - Start :td
+1453 DEBUG  [main]  Spider  - End :td
+1453 DEBUG  [main]  Spider  - Start :td
+1453 INFO  [main]  Spider  - a http://javaoneonline.mentorware.net/servlet/mware.servlets.LoginServlet?subsysId=2000
+1453 DEBUG  [main]  Spider  - End :a
+1453 DEBUG  [main]  Spider  - End :td
+1453 DEBUG  [main]  Spider  - End :tr
+1453 DEBUG  [main]  Spider  - Start :tr
+1453 DEBUG  [main]  Spider  - Start :td
+1453 DEBUG  [main]  Spider  - End :td
+1453 DEBUG  [main]  Spider  - Start :td
+1453 INFO  [main]  Spider  - a http://developers.sun.com/events/index.html
+1453 DEBUG  [main]  Spider  - End :a
+1453 DEBUG  [main]  Spider  - End :td
+1453 DEBUG  [main]  Spider  - End :tr
+1453 DEBUG  [main]  Spider  - Start :tr
+1453 DEBUG  [main]  Spider  - Start :td
+1453 DEBUG  [main]  Spider  - End :td
+1453 DEBUG  [main]  Spider  - Start :td
+1453 INFO  [main]  Spider  - a http://java.net
+1453 DEBUG  [main]  Spider  - End :a
+1453 DEBUG  [main]  Spider  - End :td
+1453 DEBUG  [main]  Spider  - End :tr
+1453 DEBUG  [main]  Spider  - Start :tr
+1453 DEBUG  [main]  Spider  - Start :td
+1453 DEBUG  [main]  Spider  - End :td
+1453 DEBUG  [main]  Spider  - Start :td
+1453 INFO  [main]  Spider  - a http://www.java.com
+1453 DEBUG  [main]  Spider  - End :a
+1453 DEBUG  [main]  Spider  - End :td
+1453 DEBUG  [main]  Spider  - End :tr
+1453 DEBUG  [main]  Spider  - Start :tr
+1453 DEBUG  [main]  Spider  - Start :td
+1453 DEBUG  [main]  Spider  - End :td
+1453 DEBUG  [main]  Spider  - Start :td
+1453 INFO  [main]  Spider  - a http://www.sun.com/training/index.xml
+1453 DEBUG  [main]  Spider  - End :a
+1453 DEBUG  [main]  Spider  - End :td
+1453 DEBUG  [main]  Spider  - End :tr
+1453 DEBUG  [main]  Spider  - Start :tr
+1453 DEBUG  [main]  Spider  - Start :td
+1453 DEBUG  [main]  Spider  - End :td
+1453 DEBUG  [main]  Spider  - Start :td
+1453 INFO  [main]  Spider  - a http://jcp.org
+1453 DEBUG  [main]  Spider  - End :a
+1453 DEBUG  [main]  Spider  - End :td
+1453 DEBUG  [main]  Spider  - End :tr
+1453 DEBUG  [main]  Spider  - Start :tr
+1453 DEBUG  [main]  Spider  - Start :td
+1453 DEBUG  [main]  Spider  - End :td
+1453 DEBUG  [main]  Spider  - Start :td
+1453 INFO  [main]  Spider  - a /logos/
+1453 DEBUG  [main]  Spider  - End :a
+1453 DEBUG  [main]  Spider  - End :td
+1453 DEBUG  [main]  Spider  - End :tr
+1453 DEBUG  [main]  Spider  - End :table
+1453 DEBUG  [main]  Spider  - End :div
+1453 DEBUG  [main]  Spider  - End :td
+1453 DEBUG  [main]  Spider  - End :tr
+1453 DEBUG  [main]  Spider  - End :table
+1453 DEBUG  [main]  Spider  - Simple Tag :span
+1453 DEBUG  [main]  Spider  - Simple Tag :span
+1453 DEBUG  [main]  Spider  - Simple Tag :br
+1453 DEBUG  [main]  Spider  - Simple Tag :br
+1453 DEBUG  [main]  Spider  - Simple Tag :img
+1453 DEBUG  [main]  Spider  - End :td
+1453 DEBUG  [main]  Spider  - End :tr
+1453 DEBUG  [main]  Spider  - Start :tr
+1469 DEBUG  [main]  Spider  - Start :td
+1469 DEBUG  [main]  Spider  - Simple Tag :img
+1469 DEBUG  [main]  Spider  - Simple Tag :br
+1469 DEBUG  [main]  Spider  - End :td
+1469 DEBUG  [main]  Spider  - End :tr
+1469 DEBUG  [main]  Spider  - End :table
+1469 DEBUG  [main]  Spider  - Start :script
+1469 DEBUG  [main]  Spider  - End :script
+1469 DEBUG  [main]  Spider  - Simple Tag :noscript
+1469 DEBUG  [main]  Spider  - Simple Tag :img
+1469 DEBUG  [main]  Spider  - Simple Tag :noscript
+1469 DEBUG  [main]  Spider  - Start :table
+1469 DEBUG  [main]  Spider  - Start :tr
+1469 DEBUG  [main]  Spider  - Start :td
+1469 DEBUG  [main]  Spider  - Start :table
+1469 DEBUG  [main]  Spider  - Start :tr
+1469 DEBUG  [main]  Spider  - Start :td
+1469 DEBUG  [main]  Spider  - Simple Tag :img
+1469 DEBUG  [main]  Spider  - End :td
+1469 DEBUG  [main]  Spider  - End :tr
+1469 DEBUG  [main]  Spider  - Start :tr
+1469 DEBUG  [main]  Spider  - Start :td
+1469 DEBUG  [main]  Spider  - Simple Tag :img
+1469 DEBUG  [main]  Spider  - Simple Tag :br
+1469 INFO  [main]  Spider  - a http://www.sun.com
+1469 DEBUG  [main]  Spider  - Simple Tag :img
+1469 DEBUG  [main]  Spider  - End :a
+1469 DEBUG  [main]  Spider  - End :td
+1469 DEBUG  [main]  Spider  - Start :td
+1469 DEBUG  [main]  Spider  - Simple Tag :img
+1469 DEBUG  [main]  Spider  - Simple Tag :br
+1469 DEBUG  [main]  Spider  - Start :div
+1469 INFO  [main]  Spider  - a http://developers.sun.com/dispatcher.jsp?uid=6910015
+1469 DEBUG  [main]  Spider  - End :a
+2437 INFO  [main]  Spider  - a http://developers.sun.com/dispatcher.jsp?uid=6910010
+2437 DEBUG  [main]  Spider  - End :a
+2437 INFO  [main]  Spider  - a http://developers.sun.com/dispatcher.jsp?uid=6910025
+2437 DEBUG  [main]  Spider  - End :a
+2437 INFO  [main]  Spider  - a http://developers.sun.com/contact/index.jsp
+2437 DEBUG  [main]  Spider  - End :a
+2453 INFO  [main]  Spider  - a http://developers.sun.com/dispatcher.jsp?uid=6910014
+2453 DEBUG  [main]  Spider  - End :a
+2453 DEBUG  [main]  Spider  - Simple Tag :br
+2453 INFO  [main]  Spider  - a http://developers.sun.com/dispatcher.jsp?uid=6910012
+2453 DEBUG  [main]  Spider  - End :a
+2453 INFO  [main]  Spider  - a http://developers.sun.com/dispatcher.jsp?uid=6910009
+2453 DEBUG  [main]  Spider  - End :a
+2453 INFO  [main]  Spider  - a http://developers.sun.com/dispatcher.jsp?uid=6910013
+2453 DEBUG  [main]  Spider  - End :a
+2453 INFO  [main]  Spider  - a http://developers.sun.com/dispatcher.jsp?uid=6910016
+2453 DEBUG  [main]  Spider  - End :a
+2453 INFO  [main]  Spider  - a http://developers.sun.com/dispatcher.jsp?uid=6910017
+2453 DEBUG  [main]  Spider  - End :a
+2453 DEBUG  [main]  Spider  - Simple Tag :br
+2453 DEBUG  [main]  Spider  - Simple Tag :span
+2453 DEBUG  [main]  Spider  - Simple Tag :span
+2453 DEBUG  [main]  Spider  - Simple Tag :br
+2453 DEBUG  [main]  Spider  - Simple Tag :br
+2453 DEBUG  [main]  Spider  - Simple Tag :span
+2453 DEBUG  [main]  Spider  - Simple Tag :span
+2453 DEBUG  [main]  Spider  - Simple Tag :br
+2453 DEBUG  [main]  Spider  - End :div
+2453 DEBUG  [main]  Spider  - End :td
+2453 DEBUG  [main]  Spider  - Start :td
+2453 DEBUG  [main]  Spider  - Simple Tag :img
+2453 DEBUG  [main]  Spider  - End :td
+2453 DEBUG  [main]  Spider  - Start :td
+2453 DEBUG  [main]  Spider  - Start :div
+2453 DEBUG  [main]  Spider  - Start :b
+2453 INFO  [main]  Spider  - a http://developers.sun.com/dispatcher.jsp?uid=6910010
+2453 DEBUG  [main]  Spider  - End :a
+2453 DEBUG  [main]  Spider  - End :b
+2453 DEBUG  [main]  Spider  - End :div
+2453 DEBUG  [main]  Spider  - Start :div
+2453 DEBUG  [main]  Spider  - Simple Tag :img
+2453 DEBUG  [main]  Spider  - Simple Tag :br
+2453 INFO  [main]  Spider  - a http://developers.sun.com/dispatcher.jsp?uid=6910008
+2453 DEBUG  [main]  Spider  - End :a
+2453 DEBUG  [main]  Spider  - Simple Tag :br
+2453 DEBUG  [main]  Spider  - Simple Tag :span
+2453 DEBUG  [main]  Spider  - Simple Tag :span
+2453 DEBUG  [main]  Spider  - Simple Tag :br
+2453 INFO  [main]  Spider  - a http://developers.sun.com/dispatcher.jsp?uid=6910006
+2453 DEBUG  [main]  Spider  - Simple Tag :img
+2453 DEBUG  [main]  Spider  - End :a
+2453 INFO  [main]  Spider  - a http://developers.sun.com/dispatcher.jsp?uid=6910007
+2453 DEBUG  [main]  Spider  - End :a
+2453 DEBUG  [main]  Spider  - End :div
+2453 DEBUG  [main]  Spider  - End :td
+2453 DEBUG  [main]  Spider  - End :tr
+2453 DEBUG  [main]  Spider  - Start :tr
+2453 DEBUG  [main]  Spider  - Start :td
+2453 DEBUG  [main]  Spider  - Simple Tag :img
+2453 DEBUG  [main]  Spider  - End :td
+2453 DEBUG  [main]  Spider  - End :tr
+2453 DEBUG  [main]  Spider  - End :table
+2453 DEBUG  [main]  Spider  - End :td
+2453 DEBUG  [main]  Spider  - End :tr
+2453 DEBUG  [main]  Spider  - End :table
+2453 DEBUG  [main]  Spider  - End :body
+2469 DEBUG  [main]  Spider  - End :html
+2469 DEBUG  [main]  Spider  - Start :html
+2469 DEBUG  [main]  Spider  - Start :head
+2469 DEBUG  [main]  Spider  - Start :script
+2469 DEBUG  [main]  Spider  - End :script
+2469 DEBUG  [main]  Spider  - End :head
+2469 DEBUG  [main]  Spider  - End :html
