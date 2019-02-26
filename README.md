@@ -1,10 +1,10 @@
 # Search Engine
 
-This project was written during 1-2 month period in 2005 from my dorm room while still studying. I moved it from CD backups to public cloud, as I did not want this to be lost, like I lost android and servlets code for my android app : Flight Flash in 2013
+This project was written in 2005 from my dorm room while still studying. I moved it from CD backups to public cloud, as I did not want this to be lost, like I lost android and servlets code for my android app : Flight Flash in 2013
 
 The inspiration to write this, came from reading at that time, an old paper written by Sergey & Larry for Google search engine. I wanted to have first hand experience of writing something similar and tackle those challenges myself. 
 
-Each aspect of writing a search engine can be a research topic by itself, eg Natural Language Processing to understand what user actually wants to search, how to crawl efficiently, how to build link repository, how to build index of words (and apply that to multiple languages) etc etc. I wanted to have a working search engine for myself but within a small 1-2 months time frame while also attending lectures, so had to cut-down the scope of various components.
+Each aspect of writing a search engine can be a research topic by itself, eg Natural Language Processing to understand what user actually wants to search, how to crawl efficiently, how to build link repository, how to build index of words (and apply that to multiple languages) etc etc.
 
 This has 2 main components : 
 
